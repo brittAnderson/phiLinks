@@ -16,7 +16,6 @@ I have put this on github as a way to lure my students into learning the basics 
 I hope that they will find new and useful links to share that can be incorporated with a pull request. 
 
 As the preliminary hopefully makes clear these links are intended for the students in my course on a "Novel 
-Introduction to the Neuroscience Consciousness" at the University of Waterloo (Psych 461 S2018). But if this repo induces
+Introduction to the Neuroscience of Consciousness" at the University of Waterloo (Psych 461 S2018). But if this repo induces
 anyone else to read the book, I would be pleased, and if anyone else wants to modify or add links that they think would be
-useful to other readers I am happy to entertain including them as a pull request. As I use [org-mode](https://orgmode.org/) for my notes, please
-make any changes to that file, and not the .html. Thanks. 
+useful to other readers I am happy to entertain including them as a pull request. As I use [org-mode](https://orgmode.org/) for my notes, please make any changes to that file, and not the .html. Thanks. 
