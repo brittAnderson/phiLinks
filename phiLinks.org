@@ -1,0 +1,125 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+#+TITLE: Links to Explore Topics in Phi
+#+DATE: <2018-03-07 Wed>
+#+AUTHOR: Britt Anderson
+#+EMAIL: britt@uwaterloo.ca
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.1.1 (Org mode 9.1.7)
+* Preface
+** Thought Experiments
+   -  [[https://web.archive.org/web/20141229121956/http://www.philosophical-investigations.org/Galileo's_Thought_Experiments][Galileo Thought Experiments]]
+* 1 Prologue
+** Gross Anatomy of the Brain
+   - [[http://youtu.be/jHxyP-nUhUY][Video of Disection of a Fresh (unfixed) Human Brain]]
+** Idealism 
+   - [[http://plato.stanford.edu/entries/berkeley/][Berkeley]]
+** Rationalism 
+   - [[http://plato.stanford.edu/entries/descartes/][Descartes]]
+   - [[https://ia600402.us.archive.org/28/items/discoursdelamtho13846gut/13846-h/13846-h.htm][Je pense, donc je suis]]
+** Poems
+   - [[https://thepoeticquotidian.blogspot.ca/2006/12/james-merrill-b-o-d-y.html][BODY - James Merrill]]
+-    [[https://archive.org/stream/Poemsofemilydick00dick_201303/poemsofemilydick00dick#page/n79/mode/2up/][Brain Poem - Emily Dickinson]]
+** Scientific References
+   - [[http://en.wikipedia.org/wiki/Santorio_Santorio][Santorio Santorio (metabolic studies)]]
+*** Weighing soul/brain activity
+    - [[https://timesmachine.nytimes.com/svc/tmach/v1/refer?res=9D07E5DC123EE033A25752C1A9659C946697D6CF&pdf=true][Can you weigh the soul? (pdf)]]
+    - [[http://brain.oxfordjournals.org/content/early/2014/01/09/brain.awt352.extract][Weighing brain activity]]
+** Extra Content
+   - [[http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19981119-0900a.mp3][Edelman on Consciousness Podcast (mp3)]]
+   - [[http://download.guardian.co.uk/audio/kip/science/series/science/1330106572501/9137/gnl.sci.120227.jp.science_weekly_conscious.mp3][Another consciousness podcast - general (mp3)]]
+* 2 Introduction
+** Francis Crick
+   -  [[http://www.nobelprize.org/nobel_prizes/medicine/laureates/1962/crick-bio.html][Nobel Prize Biography]]
+   -  [[https://www.youtube.com/watch?v=qzs2aAcfOTQ][Video - Conversation on Consciousness 1994]]
+   -  [[http://rstb.royalsocietypublishing.org/content/360/1458/1271.short][Crick and Koch article on Claustrum (2005)]]
+   - [[https://upload.wikimedia.org/wikipedia/commons/d/d2/Gray742-emphasizing-claustrum.png][Illustration of the Claustrum]]
+** Concepts
+   - [[https://en.wikipedia.org/wiki/Heliocentrism][Heliocentrism]]
+   - [[http://en.wikipedia.org/wiki/Galileo_affair][Galileo and Heliocentrism]]
+   - [[http://commonweb.unifr.ch/artsdean/pub/gestens/f/as/files/4610/13599_161715.pdf][Explanatory Gap - Joseph Levine (pdf)]]
+** Giordano Bruno
+   - [[https://www.thenation.com/article/hungry-mind-giordano-bruno-philosopher-and-heretic/][Brief Biography and Book Review (2008)]]
+   - [[http://www.imdb.com/title/tt0070109/][Giordano Bruno - The Film (1973)]]
+   - [[http://3.bp.blogspot.com/-GxGYP2QZtXE/UW8DDbu0SlI/AAAAAAAAMeY/2E4Wwd4U9ac/s1600/1304170071.jpg][Statue Campo di Fiori Rome]]
+* 3 Cerebrum
+** People
+   - [[http://en.wikipedia.org/wiki/Nicolaus_Copernicus][Nicolaus Copernicus]]
+*** Wilder Penfield
+    - [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3221191/][Brief Biography]]
+    - [[http://archneurpsyc.jamanetwork.com/article.aspx?articleid=647745][Penfield Article on Cortex and Consciousness (1938)]]
+    - [[http://brain.oxfordjournals.org/content/81/2/231][Penfield Article on Centrencephalon (1958)]]
+    - [[http://www.ajnr.org/content/24/10/2005.full][Consequences of Centrencephalic Stroke]]
+** Concepts  
+*** Neurons and their Delineation   
+    - [[https://pdfs.semanticscholar.org/ba7a/9617fd7989aaf40c54ef416d9cb137bdf5ab.pdf][Santiago Ramon y Cajal and the Golgi Stain (pdf)]]
+    - [[https://nyamcenterforhistory.files.wordpress.com/2014/04/histologie-watermark.jpg][Cajal Illustration of a Golgi stained Cortical Neuron]]
+*** Visual Areas of the Brain
+    [[http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/motion/motion-slides/motion.014.jpg][Cerebral Map of the Visual Areas]]
+*** Cortical Connectivity
+    - [[http://www.civm.duhs.duke.edu/rhesusatlas/RhesusAtlasFig.jpg][Diffusion Tensor Image of a Monkey Brain]]
+    - [[http://link.springer.com/article/10.1007/s12031-007-0029-0][Diffusion Tensor Imaging - Technical Description]]
+*** Abnormal States of Consciousness
+    - [[https://www.sciencedirect.com/science/article/pii/S147444220400852X?via%253Dihub][Brain Function in Coma]]
+** Quotes and References
+*** Flowers and their Meanings in Myth
+    - [[http://classroom.synonym.com/people-turning-flowers-greek-mythology-14366.html][People Turning into Flowers]]
+    - [[https://archive.org/stream/ovid01ovidgoog#page/n32/mode/2up/search/daphne][Daphne and Apollo in Ovid]]
+*** E pur si muove
+    - [[http://en.wikipedia.org/wiki/And_yet_it_moves][And yet it moves]]
+*** Canto III - Divina Commedia 
+    - [[https://archive.org/stream/divinecomedyofda19021dant#page/16/mode/2up][Dante's Divine Comedy Canto III]]
+* 4 Cerebellum
+  - [[http://www.metmuseum.org/toah/hd/pous/hd_pous.htm][Nicolas Poussin - 1594:1665 - brief bio]]
+  - [[http://eugrafal.free.fr/Haggard-Rodgers-2000.pdf][Movement Disorder of Nicolas Poussin]]
+  - [[http://books.google.ca/books?id=QGMRBwz7oWsC&pg=PA77&lpg=PA77&dq=pope+protomedicus&source=bl&ots=3rNQ7FjZrB&sig=jnFdJcz1BsBpjnqpp_X5SY6ufxo&hl=en&sa=X&ei=VyBzVJj9DZKMyASP0IKwCA&ved=0CB8Q6AEwAA#v=onepage&q=pope%20protomedicus&f=false][Protomedicus]]
+  - [[https://www.google.ca/search?q=putti&num=20&sa=X&hl=en&biw=1434&bih=759&tbm=isch&tbo=u&source=univ&ei=jyBzVLaBJ4WgyAS97IBw&ved=0CDcQsAQ][Putti]]
+  - [[http://brain.oxfordjournals.org/content/133/3/652][Life without a cerebellum]]
+  - [[https://archive.org/stream/collectiondelett00pous#page/344/mode/2up][Poussin's Description of his tremor]] 
+    - See the right hand page at the bottom. 
+     [[http://www.tandfonline.com/doi/abs/10.1080/14640748908402393#.VHMkT38YLt4][Object
+     Constancy]]
+  - [[http://www.tandfonline.com/doi/abs/10.1080/14640748908402393#.VHMkT38YLt4][Object Constancy]]
+  - [[http://onlinelibrary.wiley.com/doi/10.1002/cne.903260405/abstract;jsessionid=17130AAEBEBE9D5323824004F8CB6274.f03t02][Cerebellar Neuron Number]]
+  - [[http://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970728)384:2<312::AID-CNE10>3.0.CO;2-K/abstract][Cerebral Neuron Number]]
+  - [[http://www.technologyreview.com/news/511466/microchip-restores-vision/][retinal transplants]]
+* 5 Two Blind Patients
+  - Perception and Knowledge by [[http://rstb.royalsocietypublishing.org/content/352/1358/1121.full-text.pdf][Gregory]].
+  - [[https://archive.org/stream/lecturesonscient00helmiala#page/262/mode/2up][Helmholtz]] on Empirical Vision
+  - [[http://en.wikipedia.org/wiki/Johannes_Kepler][Kepler]]
+  - [[https://archive.org/stream/discoursdelameth00desc#page/60/mode/2up/search/oeil][Descartes and the inversion of the retinal image]]
+  - [[http://www.nature.com/nrn/journal/v14/n2/full/nrn3405.html][Microsaccades]]
+  - Methanol [[http://en.wikipedia.org/wiki/Methanol#Toxicity][poisoning]]
+    [[http://www.sciencedirect.com/science/article/pii/0166223694900574][Imagery and Representation]]
+  - Anton's syndrom ([[http://www.sciencedirect.com/science/article/pii/002839329500070J][anosognosia for cortical blindness]]).
+  - [[http://en.wikipedia.org/wiki/Gian_Paolo_Lomazzo][Gian Paolo Lomazzo]]
+  - [[http://onlinelibrary.wiley.com/doi/10.1111/j.1477-4658.1987.tb00120.x/full][Commentary on the style of Lomazzo]]
+  - [[http://en.wikipedia.org/wiki/Sofonisba_Anguissola][Sofonisba Anugissola]]
+  - [[http://archive.org/stream/adluciliumepistu01seneuoft/adluciliumepistu01seneuoft_djvu.txt][Ad Luciliuum epistulae morales - with English translation]] (contains Harpaste)
+* 6 Locked In
+  - [[http://en.wikipedia.org/wiki/Inquisition][The Inquisition (Wikipedia)]]
+  - [[http://plato.stanford.edu/entries/pascal/][Blaise Pascal (Stanford Encyclopedia)]]
+  - [[http://bigthink.com/videos/daniel-dennett-on-the-nefarious-neurosurgeon][Why Daniel Dennett thinks telling people they don't have free will is harmful (video)]]
+  - [[http://pss.sagepub.com/content/19/1/49.full][A belief in determinism encourages cheating]].
+  - [[http://www.annualreviews.org/doi/full/10.1146/annurev-neuro-060909-153151][What do neuroscientists say about volition?]]?
+  - [[http://www.computerhistory.org/babbage/][Babbage's Automatic Computing Machine]]
+  - [[http://www.computerhistory.org/babbage/adalovelace/][Ada Lovelace]]
+  - [[http://www.computerculture.org/wp-content/uploads/2012/10/jacquard2.jpeg][Jaquard Loom Image 1]]
+  - [[http://www.computersciencelab.com/ComputerHistory/HtmlHelp/Images2/JacquardLoom.jpg][Jaquard Loom Image 2]].
+  - [[http://www.eetimes.com/document.asp?doc_id=1261453][Limitations of computer vision - dynamics]].
+  - [[http://www.sciencedirect.com/science/article/pii/S0042698908003544][The role of gist in scene recognition]].
+  - [[http://www.bmj.com/content/330/7488/406?variant=full-text][Clinical Review - The locked-in syndrome (BMJ)]].
+  - [[http://upload.wikimedia.org/wikipedia/commons/f/f8/CPM3.jpg][MRI of central pontine myelinolysis]] 
+  - [[http://jnnp.bmj.com/content/73/4/355.full][Editorial and review of the vegetative state]]
+  - [[http://www.sciencemag.org/content/313/5792/1402.full][Detecting awareness in the vegetative state (2006)]]?
+  - [[https://archive.org/stream/bub_gb_yKNvuZphg-8C][Mersenne's Book (French)]]
+  - [[https://en.wikipedia.org/wiki/Mersenne_prime][Mersenne Prime (Wikipedia)]]
+  - [[https://youtu.be/jX2XUPhPoAE][Locked in video with use of letter board (video)]]
+  - [[http://www.theguardian.com/technology/2014/jun/08/super-computer-simulates-13-year-old-boy-passes-turing-test][Computer passes the Turing test]]
+  - [[http://plato.stanford.edu/entries/modularity-mind/][Modularity of Mind (Stanford Encyclopedia)]]
+  - [[http://youtu.be/9ubXFMklEe8][Shadow Hand robotics demonstrated (video)]]
