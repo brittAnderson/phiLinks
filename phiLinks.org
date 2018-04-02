@@ -123,3 +123,436 @@
   - [[http://www.theguardian.com/technology/2014/jun/08/super-computer-simulates-13-year-old-boy-passes-turing-test][Computer passes the Turing test]]
   - [[http://plato.stanford.edu/entries/modularity-mind/][Modularity of Mind (Stanford Encyclopedia)]]
   - [[http://youtu.be/9ubXFMklEe8][Shadow Hand robotics demonstrated (video)]]
+* 7 Amnesia
+  - [[https://en.wikipedia.org/wiki/Veronica_Franco][Veronica Franco]] -
+  - [[https://archive.org/details/terzerimeesonett00franuoft][Terze Rima by Veronica Franco (Italian)]]
+  - [[http://youtu.be/Vwigmktix2Y][Case of Extreme Short Term Memory Impairment (video)]]
+  - [[https://media.nature.com/lw926/nature-assets/nrn/journal/v10/n4/images/nrn2614-f1.jpg][Anatomy of Hippocampus and Parahippocampus]]
+  - [[http://headneckbrainspine.com/][Brain MRI Web Site]]
+  - [[http://www.nature.com/nrn/journal/v10/n4/abs/nrn2614.html][The Anatomy of Memory - Nature Reviews Neuroscience]]
+  - [[http://cshprotocols.cshlp.org/content/2011/7/pdb.top114.full][How to generate a rainbow colored mouse brain]]
+  - [[http://cshprotocols.cshlp.org/content/2011/7/pdb.top114/F2.large.jpg][Image of a brainbow hippocampus]]
+  - [[http://ac.els-cdn.com/0315086084900259/1-s2.0-0315086084900259-main.pdf?_tid=1aaebef4-967a-11e4-9677-00000aacb35e&acdnat=1420641370_c65d6ba57be19696a75fedb0cca191db][Eratosthenes measurement critiqued (1984)]]
+  - [[https://en.wikipedia.org/wiki/Content-addressable_storage][Content Addressable Storage (Wikipedia)]]
+  - [[http://www.musicacademyonline.com/composer/biographies.php?bid=134][Barbara Strozzi]]
+  - [[http://youtu.be/w2lBnocuMC0][Example of Strozzi's Music (youtube)]]
+* Split Brains - Chapter 8
+
+.  [[https://en.wikipedia.org/wiki/Carlo_Gesualdo][Prince of Venosa]]
+
+   1. What is
+      [[https://en.wikipedia.org/wiki/Diatonic_and_chromatic][chromatic]]
+      music.
+   2. Extract from film about him [[http://youtu.be/1rgBt5EkIKE][Death
+      for Five Voices]]
+   3. Example of his [[http://youtu.be/Fs_AgCTovik][compositions]]
+
+.  Hemispherectomy is a procedure sometimes used to treat very severe
+   epilepsy in young children. This
+   [[http://epilepsyu.com/blog/video-hemispherectomy-radical-epilepsy-surgery-removes-half-brain/][page]]
+   shows the image from the book and has a brief video on the
+   procedure.
+.  Brief NYTimes article on Gazzaniga (2011) that features some videos
+   and talks about the split brain
+   [[http://www.nytimes.com/2011/11/01/science/telling-the-story-of-the-brains-cacophony-of-competing-voices.html?pagewanted=all&_r=0][work]].
+.  Another Gazzaniga video on [[http://youtu.be/zx53Zj7EKQE][split
+   brain]] research.
+.  If one hemisphere is enough for consciousness are we each comprised
+   of two (or more) "people?"
+.  If two people become one through the interposition of a corpus
+   callosum does this provide support for the thesis of consciousness
+   as integration?
+.  [[./img/josepheniumFace.jpg]]
+.  [[http://headneckbrainspine.com/web_flash/newmodules/Brain%20MRI.swf][Link
+   to Corpus Callosum on MRI scans]] - needs Flash to work.
+.  [[http://www.nejm.org/doi/full/10.1056/NEJM196304042681401][Cryogenic
+   Neurosurgery]]
+0. Temporary hemispheric inactivation. The
+   [[http://www.neurology.org/content/61/5/699.short][Wada]] test.
+1. Why does Tononi have the eyes frozen and unable to move?
+2. [[http://youtu.be/sBbilBZ46Eg][Wada test video]]
+3. What is the meaning of his name: Ishma --- El ? "Call me Ishmael."
+   What is the source?
+4. Why does Tononi make the claim: one who is blind from birth will
+   never know what it is like to
+   [[https://archive.org/stream/lockesessayconce00lock#page/67/mode/1up][see]]?
+5. Odd that he uses the example of Indian tribe that always can tell
+   whether someone is telling the truth?
+   [[http://mathforum.org/dr.math/faq/faq.liar.html][Origin?]].
+6. [[./img/veiledChrist.jpg]]
+
+** Notes
+
+. Link to Foville's
+  [[https://archive.org/stream/influencedesvt00fovi#page/n5/mode/2up][book]]
+
+* Brain Conflict - Chapter 9
+
+. Not denial of illness (anosognosia), but denial of ability.
+. [[http://plato.stanford.edu/entries/zombies/][Zombies in Philosophy
+  of Mind]] Might see the origins of zombies all the way back to the
+  automata of Cartesian times
+  ([[http://upload.wikimedia.org/wikipedia/commons/2/27/Kempelen_chess1.jpg]].
+  Possibly the [[http://www.jstor.org/stable/4106864][first use]] of
+  Zombies in the philosophical literature under that name?
+. Why does he pick the name Teresa? Probably because she was known to
+  have ecstatic
+  [[https://en.wikipedia.org/wiki/Teresa_of_Ávila][visions]].
+. Wonderful exhibition on hysteria and ecstasy at the
+  [[./pdf/charcot.pdf][l'hopital Salpetriere]]
+. [[./img/pignon-ernst.jpg]] of ecstasy.\\
+. Is
+  [[http://cercor.oxfordjournals.org/content/early/2011/03/02/cercor.bhr026.full][hysterical
+  blindness]] all in your head? And what does it mean if there is (or
+  is not) a correlate detectable on an fMRI machine? What if the
+  blindness came and [[./pdf/strasburger.pdf][went]]?
+. Points for discussion - binocular rivalry and alternating strabismus.
+. Can you be blind and not admit it? - Anton's syndrome. Implications
+  for consciousness?
+
+** Notes
+
+. [[http://www.professeurs-medecine-nancy.fr/Grignon12.htm][Charles Le
+  Pois]]. I had trouble finding good documentation that he was a
+  forward thinking scientist, rather than substituting one bad theory
+  for another. In any case, his account did not last long, even in
+  France.
+. The story of Heloise and Abelard does not seem to me to parallel
+  Teresa's story very well.
+
+* A Brain Possessed - Chapter 10
+
+. "One of us" Is this really a reference to the
+  [[http://youtu.be/1Y_KNYNzN6A][Simpsons]]?
+. Or maybe from the cult classic
+  [[http://en.wikipedia.org/wiki/Freaks][Freaks]]?
+. I really got fixated on [[http://youtu.be/stXcSdV7IeU][this]]. Look
+  around 3:30.
+. Early theories of
+  [[http://books.google.ca/books?hl=en&lr=&id=cPi6NR5qbsAC&oi=fnd&pg=PR7&dq=epilepsy+history&ots=nWlAYAgbWd&sig=rqAWFg9PoPUZcjz-8tcFz4Q6gYE#v=onepage&q=epilepsy%20history&f=false][epilepsy]]
+. Praying made her brain flush. fMRI allusion (see also near infrared
+  [[http://link.springer.com/chapter/10.1007/978-1-4614-0308-1_10][spectroscopy]])
+. Schleppfuss is a character from Doctor Faustus by Thomas Mann. Many
+  authors and playwrights have writte on the theme of Faust where a man
+  sells his soul to the Devil for knowledge and power.
+. What a seizure looks [[http://youtu.be/Nds2U4CzvC4][like]].
+. What is revealed by the seizure?
+
+  1. First, that consciousness can be absent when neurons fire; not
+     just when they are silent.
+  2. Second, neurons firing in a coordinated, synchronized fashion
+     cannot be a simple explanation for consciousness.
+  3. It may be worth noting that synchrony among neurons is a common
+     explanation for how disparate ``modules'' bind together to make a
+     single coherent, conscious percept. Seen this issue of
+     [[http://www.cell.com/neuron/issue?pii=S0896-6273(00)X0252-8][Neuron]]
+  4. A link to weighing the brain is in the notes to chapter 1.
+
+ find this chapter to lack a little subtlety of the others. Not sure
+hy the violent imagery is so important for this chapter. And I have
+iterally no idea why a picture of Mengele is here. He did experiment on
+umans in an unethical fashion, but I am not aware of particular
+onnection to medieval torture or epilepsy theories.
+
+** Notes to Chapter 10.
+
+. Mosso: [[https://en.wikipedia.org/wiki/Angelo_Mosso][wikipedia page]]
+. Link to article with translation and commentary in
+  [[http://brain.oxfordjournals.org/content/early/2013/05/17/brain.awt091.long][/Brain/]].
+. Paracelsus [[https://en.wikipedia.org/wiki/Paracelsus][wikipedia]].
+  Note the meaning of his name. I could not find a primary source for
+  the claim that he induced seizures with camphor, but he certainly
+  used the oil in many remedies.
+. The painting of Maddalena Svenuta is of Mary Magadelene. The only
+  alteration I noticed is the 90 degree rotation. Was that all?
+. /Kindertotenleider/ are poems about the death of children set to
+  music by [[http://youtu.be/hqTyEKB64EE][Mahler]]
+
+* Chapter 11 - A Brain Asleep
+
+.  Who is the man met at the beginning of this chapter? One can make a
+   reasonable guess it is Descartes. He was in the military (although
+   the family wanted him to be a lawyer/notary). He was often excused
+   from his usual duties by people who recognized his "brain." His
+   great philosophical insights were said to be begun while meditating
+   in a heated room (oven/stove), and as a consequence of three vivid
+   dreams. And, I guess it is obvious, he has a French accent.
+.  The claim is made that the same amount of neural activity occurs
+   during sleep and during waking. Is this correct? # Not according to
+   this
+   [[http://onlinelibrary.wiley.com/doi/10.1113/jphysiol.2010.197517/full][citation]].
+   But in any case, it seems a relatively minor difference to explailn
+   consciousness or no consciousness.\\
+   # Some images of sleep stages as seen by
+   [[./img/sleepStageEEG.jpg]]\\
+.  This digression to voices, singing, and yelling made me think of
+   Selfridge's
+   [[http://sites.sinauer.com/wolfe3e/chap4/pandemoniumF.htm][Pandemonium
+   Model]].
+.  What were Descartes' dreams really
+   [[./pdf/descartesDreams.pdf][like]]?
+.  Locke on what the soul does during sleep, book 2 section 11. Is it
+   [[https://archive.org/stream/essayconcerningh00lock#page/n119/mode/2up][thinking?]]\\
+.  Wondering why he keeps just showing us the characters'
+   [[https://www.questionwritertracker.com/quiz/61/Z4MK3TKB.html][eyes]]?
+.  Mechanism "...explain my seeing the blue of the sky..."
+   [[http://plato.stanford.edu/entries/qualia/][Qualia]]
+.  "Thrice I shall ask you this." A play on the
+   [[https://www.biblegateway.com/passage/?search=John+21:15-17&version=NIV][Bible]]?
+.  The loss of color vision:
+   [[https://en.wikipedia.org/wiki/Achromatopsia][achromatopsia]].
+0. St. Thomas refers to the disciple who doubted the risen Christ.
+1. An interesting question is if sleep (or whatever other example Frick
+   uses) leads to consciousness being abolished why does the same
+   "person" come back? What accounts for the continuity of self across
+   these breaks? Discuss.
+
+** Notes
+
+. [[./img/descartesSkull.jpg]] It was a bit
+  [[http://www.nytimes.com/2008/11/02/books/review/Rosen-t.html?_r=0][traveled]].
+  And it was x-rayed. Can we learn anything from the skull about the
+  brain?
+
+* Chapter 12 - Enigma of Consciousness
+
+.  "A blank slate ..." Line 1. The blank slate (\_\_tabula rasa\_) is a
+   phrase one often hears applied to Locke and his *Esaay Concerning
+   Human Understanding", but as far as I know he didn't use the phrase,
+   Aristotle did. Locke refers to a blank piece of paper. In any case,
+   this seems an allusion to Empiricist philosophy.
+.  "If the brain ceases ... nothing is left, not us ..." We have
+   certainly seen a lot of evidence that the brain is central to
+   consciousness, but have we seen anything to say that there is not
+   more? Are we inferring absence from absence of evidence?
+.  Review questions:
+
+   -  Is it simply a matter of neurons?
+
+      -  No. Poussin with this supposed cerebellar disorder lost more
+         and did not lose consciousness.
+      -  But recall that Copernicus was not conscious. Apparently the
+         cerebrum is critical.
+
+   -  Is the cerebellum an impassable sea? What is the evidence for a
+      less connected neural structure? A nice article that talks about
+      connectivity measures applied to various brain regions and
+      developement is
+      [[http://www.sciencedirect.com/science/article/pii/S0166223611000373][here]],
+      and with a little bit of luck a
+      [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.379.2165&rep=rep1&type=pdf][pdf]].
+      But I don't know of data that says it is less connected.
+   -  Are afferent sensory systems necessary for consciousness?
+
+      -  The answer in the book seems to be no, but that seems
+         arguable. It might be that they are necessary at some point -
+         initially - in development, but that they are no longer
+         required. And while we may get along well without one or two,
+         what if all were gone, what would happen to our conscioius
+         state then?
+
+   -  Are efferent arcs necessary?
+
+      -  Apparently not. We have Mersenne communicating with his eye
+         blink. And without that we might not know that he was in
+         there, but he still could be as Owen's work with vegetative
+         state patients seems to suggest.
+
+   -  Is consciousness unitary?
+
+      -  Apparently, that too, is just appearance or happenstance,
+         because with the right kind of /disconnection/ we can be made
+         multiple. This doesn't necessitate psychiatric illness, but
+         could be related to callosotomy.
+
+   -  The paradox of synchrony. Why is paradoxical?
+
+      -  As we saw with seizures, when everything is "shouting" the
+         same message then consciousness may be lost. Here the
+         connectivity seems to allow for this unison, and therefore it
+         is the paradox that connectedness is necessary for
+         consciousness, and at the same time the route for its
+         abolition.
+
+.  Who is [[./pdf/workTuring.pdf][Alturi]]? There are long biographies,
+   but this is a reminisence of personal collaboration.
+.  What is all this staring at blank walls that is mentioned repeatedly
+   in this chapter. I was wondering if he was driving at the
+   [[http://en.wikipedia.org/wiki/Ganzfeld_effect][Ganzfeld]] effect?
+   It was the discovery of
+   [[http://www.gestalttheory.net/people/metzger.html][Wolfgang
+   Metzger]].
+.  Galileo's questions:
+
+   1. Why the brain and not the liver? Why the cerebrum and not the
+      cerebellum? Why here and not there?
+   2. what determines what consciousness "is"?
+   3. What gives consciousness its distinctive quality? See Stanford
+      Encyclopedia
+      [[http://stanford.library.usyd.edu.au/entries/qualia/][entry]] or
+      this amusing entry by
+      [[http://cogprints.org/254/1/quinqual.htm][Dennett]], which
+      taught me the verb /to quine/ as to resolutely deny that which is
+      real.
+
+.  Photo on page 120 is of a Jaquard Loom. Those little punch cards are
+   sometimes held to be the first programs, and a forerunner of what
+   Lady Ada Lovelace used.
+.  Alturi says: "...every such feat can be reduced to a series of
+   simple steps..." as exemplified by this
+   [[http://www.youtube.com/watch?v=E3keLeMwfHY][video]] of a working
+   Turing machine.
+.  Why the apple with the bite? Turing died from having bitten a
+   cyanide laced apple. It is presumed to be suicide.
+0. Contrast Frick's program with Alturi's? Frick wants to find the
+   neural correlates of consciousness to explain it. Alturi wants to
+   find the computational mechanisms to explain it? Do we need both? Is
+   one approach more valuable than the other?
+1. Contrast Frick's program with Alturi's? Frick wants to find the
+   neural correlates of consciousness to explain it. Alturi wants to
+   find the computational mechanisms to explain it? Do we need both? Is
+   one approach more valuable than the other?
+
+** Notes Chapter 12
+
+. Charles
+  [[http://en.wikipedia.org/wiki/Charles_Scott_Sherrington][Sherrington]]
+
+  -  [[https://archive.org/download/0056-0000-4375-0000-0-0000-0000-0/0056-0000-4375-0000-0-0000-0000-0.mp3][bbcIntroAudio]]
+  -  [[https://archive.org/details/Sir_Charles_Sherrington-wellcome][video]]
+  -  /Man on His Nature/
+     [[http://ebooks.cambridge.org/ebook.jsf?bid=CBO9780511694196][legal
+     online copy]].
+
+* Chapter 13 - Photodiode
+
+. The first thought experimnent is included in the first notes above on
+  thought experiments.
+. [[http://en.wikipedia.org/wiki/Inertia][Principle of Inertia]]
+. "A thought experimnent to reveal the essence of consciousness." This
+  is the very essence of why
+  [[http://plato.stanford.edu/entries/kant-science/#Psy][Kant]] said
+  psychology could never be a science, and why many believe a science
+  of consciousness cannot exist. The mind cannot observe itself.
+
+. Binary codes: 1's and 0's
+
+. Why are pages 126 --- 129 blank? Who was the first person to do this?
+  Tristam
+  [[http://blog.whitneyannetrettien.com/2012/09/tristram-shandy-art-of-black-mourning.html][Shandy]]?
+. What is a
+  [[http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Photodiode.html][photodiode]]?
+  A [[./img/photodiode.jpg]]
+. Is Tononi playing the Imitation Game with the roles reversed? Galileo
+  is playing the role of the mahcine?
+. "...if not better?" Is that the reason why Galileo is so sure? The
+  machine is too accurate?
+. What is the difference(similarity) between a photodiode and a neuron?
+. Do you agree that " there must be a
+  [[http://plato.stanford.edu/entries/leibniz/#PriSufRea][reason]] why
+  things are as they are"? Why?
+. What are necessary and sufficient
+  [[http://en.wikipedia.org/wiki/Necessity_and_sufficiency][conditions]]?
+
+** Notes
+
+. Imitation Game [[http://cogprints.org/499/1/turing.HTML][Article]]
+. Chinese Room Argument
+  [[http://plato.stanford.edu/entries/chinese-room/][Searle]]
+
+* Chapter 14 - Information
+
+1. What is meant by the phrase, "... he [Alturi] had a smile on his face
+   like an enigma."
+
+   -  What does the word
+      [[http://dictionary.reference.com/browse/enigma][enigma]] mean?
+   -  What was the
+      [[https://en.wikipedia.org/wiki/Enigma_machine][enigma machine]]?
+   -  What did it
+      [[https://upload.wikimedia.org/wikipedia/commons/3/3e/EnigmaMachineLabeled.jpg]]
+      like?
+   -  How was Turing related to the
+      [[http://youtu.be/d2NWPG2gB_A][Enigma]]?
+   -  Youtube video of the operations of
+      [[http://youtu.be/ASfAPOiq_eQ][enigma]]
+   -  Where can I see one? Kingston and Alberta each have one on display
+      in museums.
+
+2. Who is[[http://en.wikipedia.org/wiki/Claude_Shannon]["S"?]] Claude
+   Shannon; one of the great minds of all time.
+
+   -  And tragically, what did he die from? Alzheimer's Disease.
+   -  Here is a nice
+      [[https://www2.bc.edu/~lewbel/Shannon.html][obiturary]] that links
+      to photos of his juggling machines, and has a reference to his
+      juggling theorem.
+
+3. How do you quantify
+   [[http://schneider.ncifcrf.gov/paper/primer/][information]]?
+
+   -  Shannon's Original
+      [[http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf][article]]
+      in the Bell Labs Technical Journal.
+
+4. What is the origin of the word
+   [[http://articles.latimes.com/2000/jul/29/local/me-61253][bit]]?
+5. Discussion questions:
+
+   -  Is it reasonable to say that a human brain contains more
+      information than a photodiode?
+   -  Is Shannon's metric for information the only one available? Could
+      be a good class scavanger hunt.
+   -  [[http://en.wikipedia.org/wiki/Fisher_information][Fisher
+      Information]]
+   -  [[https://en.wikipedia.org/wiki/Rényi_entropy][Renyi Information]]
+   -  [[http://en.wikipedia.org/wiki/Kolmogorov_complexity][Kolmogorov
+      Complexity]]
+   -  A source
+      [[http://trellisnew.tug-libraries.on.ca/vwebv/holdingsInfo?bibId=3248230&sk=WATERLOO&pds_handle=GUEST][book]]
+      for more.
+   -  My favorite
+      [[http://trellisnew.tug-libraries.on.ca/vwebv/holdingsInfo?searchId=4&recCount=25&recPointer=2&bibId=1112342][textbook]]
+      on information theory.
+   -  What is the justification for connecting this quantitative
+      difference to conscious experience.
+
+*** Notes
+
+1. The stills are from
+   [[https://en.wikipedia.org/wiki/Koyaanisqatsi][Koyaanisqatsi]] an
+   avant-garde film without dialogue. The
+   [[http://youtu.be/tDW-1JIa2gI][trailer]] on youtube.
+2. Boltzmann's
+   [[http://upload.wikimedia.org/wikipedia/commons/6/63/Zentralfriedhof_Vienna_-_Boltzmann.JPG]]
+3. Modern version of the beautiful
+   [[http://youtu.be/cZ34RDn34Ws][machine]].
+
+*** Miscellaneous Notes Extraneous to the Text
+
+1. Tyndall from
+   [[http://www.gutenberg.org/files/24527/24527-h/24527-h.htm][Fragments
+   of Science]] on the inability of every knowing the scientific basis
+   of consciousness.
+
+#+BEGIN_QUOTE
+  Granted that a definite thought, and a definite molecular action in
+  the brain, occur simultaneously; we do not possess the intellectual
+  organ, nor apparently any rudiment of the organ, which would enable us
+  to pass, by a process of reasoning, from the one to the other. They
+  appear together, but we do not know why. Were our minds and senses so
+  expanded, strengthened, and illuminated, as to enable us to see and
+  feel the very molecules of the brain; were we capable of following all
+  their motions, all their groupings, all their electric discharges, if
+  such there be; and were we intimately acquainted with the
+  corresponding states of thought and feeling, we should be as far as
+  ever from the solution of the problem, 'How are these physical
+  processes connected with the facts of consciousness?' The chasm
+  between the two classes of phenomena would still remain intellectually
+  impassable. Let the consciousness of love, for example, be associated
+  with a right-handed spiral motion of the molecules of the brain, and
+  the consciousness of hate with a left-handed spiral motion. We should
+  then know, when we love, that the motion is in one direction, and,
+  when we hate, that the motion is in the other; but the WHY?' would
+  remain as unanswerable as before.
+#+END_QUOTE
