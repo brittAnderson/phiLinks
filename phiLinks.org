@@ -177,7 +177,7 @@
   - [[https://archive.org/stream/influencedesvt00fovi#page/n5/mode/2up][Déformation du Crane par Achilee Foville]]
   - [[https://en.wikipedia.org/wiki/Ishmael][Religious Accounts of Ishmael (Wikipedia)]]
   - [[https://archive.org/details/mobydick00melv_1][Moby Dick Ch1]]
-* Brain Conflict - Chapter 9
+* Brain Conflict - Chapter 9 :noexport:
 
 . Not denial of illness (anosognosia), but denial of ability.
 . [[http://plato.stanford.edu/entries/zombies/][Zombies in Philosophy
@@ -211,7 +211,7 @@
 . The story of Heloise and Abelard does not seem to me to parallel
   Teresa's story very well.
 
-* A Brain Possessed - Chapter 10
+* A Brain Possessed - Chapter 10 :noexport:
 
 . "One of us" Is this really a reference to the
   [[http://youtu.be/1Y_KNYNzN6A][Simpsons]]?
@@ -259,7 +259,7 @@ onnection to medieval torture or epilepsy theories.
 . /Kindertotenleider/ are poems about the death of children set to
   music by [[http://youtu.be/hqTyEKB64EE][Mahler]]
 
-* Chapter 11 - A Brain Asleep
+* Chapter 11 - A Brain Asleep :noexport:
 
 .  Who is the man met at the beginning of this chapter? One can make a
    reasonable guess it is Descartes. He was in the military (although
@@ -305,7 +305,7 @@ onnection to medieval torture or epilepsy theories.
   And it was x-rayed. Can we learn anything from the skull about the
   brain?
 
-* Chapter 12 - Enigma of Consciousness
+* Chapter 12 - Enigma of Consciousness :noexport:
 
 .  "A blank slate ..." Line 1. The blank slate (\_\_tabula rasa\_) is a
    phrase one often hears applied to Locke and his *Esaay Concerning
@@ -415,7 +415,7 @@ onnection to medieval torture or epilepsy theories.
      [[http://ebooks.cambridge.org/ebook.jsf?bid=CBO9780511694196][legal
      online copy]].
 
-* Chapter 13 - Photodiode
+* Chapter 13 - Photodiode :noexport:
 
 . The first thought experimnent is included in the first notes above on
   thought experiments.
@@ -451,7 +451,7 @@ onnection to medieval torture or epilepsy theories.
 . Chinese Room Argument
   [[http://plato.stanford.edu/entries/chinese-room/][Searle]]
 
-* Chapter 14 - Information
+* Chapter 14 - Information :noexport:
 
 1. What is meant by the phrase, "... he [Alturi] had a smile on his face
    like an enigma."
