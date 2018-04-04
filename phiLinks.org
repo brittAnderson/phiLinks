@@ -75,72 +75,93 @@
 *** Canto III - Divina Commedia 
     - [[https://archive.org/stream/divinecomedyofda19021dant#page/16/mode/2up][Dante's Divine Comedy Canto III]]
 * 4 Cerebellum
-  - [[http://www.metmuseum.org/toah/hd/pous/hd_pous.htm][Nicolas Poussin - 1594:1665 - brief bio]]
-  - [[http://eugrafal.free.fr/Haggard-Rodgers-2000.pdf][Movement Disorder of Nicolas Poussin]]
-  - [[http://books.google.ca/books?id=QGMRBwz7oWsC&pg=PA77&lpg=PA77&dq=pope+protomedicus&source=bl&ots=3rNQ7FjZrB&sig=jnFdJcz1BsBpjnqpp_X5SY6ufxo&hl=en&sa=X&ei=VyBzVJj9DZKMyASP0IKwCA&ved=0CB8Q6AEwAA#v=onepage&q=pope%20protomedicus&f=false][Protomedicus]]
-  - [[https://www.google.ca/search?q=putti&num=20&sa=X&hl=en&biw=1434&bih=759&tbm=isch&tbo=u&source=univ&ei=jyBzVLaBJ4WgyAS97IBw&ved=0CDcQsAQ][Putti]]
-  - [[http://brain.oxfordjournals.org/content/133/3/652][Life without a cerebellum]]
-  - [[https://archive.org/stream/collectiondelett00pous#page/344/mode/2up][Poussin's Description of his tremor]] 
-    - See the right hand page at the bottom. 
-     [[http://www.tandfonline.com/doi/abs/10.1080/14640748908402393#.VHMkT38YLt4][Object
-     Constancy]]
-  - [[http://www.tandfonline.com/doi/abs/10.1080/14640748908402393#.VHMkT38YLt4][Object Constancy]]
-  - [[http://onlinelibrary.wiley.com/doi/10.1002/cne.903260405/abstract;jsessionid=17130AAEBEBE9D5323824004F8CB6274.f03t02][Cerebellar Neuron Number]]
-  - [[http://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970728)384:2<312::AID-CNE10>3.0.CO;2-K/abstract][Cerebral Neuron Number]]
-  - [[http://www.technologyreview.com/news/511466/microchip-restores-vision/][retinal transplants]]
+** Nicolas Poussin
+   - [[http://www.metmuseum.org/toah/hd/pous/hd_pous.htm][Nicolas Poussin - 1594:1665 - brief bio]]
+   - [[http://eugrafal.free.fr/Haggard-Rodgers-2000.pdf][Movement Disorder of Nicolas Poussin]]
+   - [[https://archive.org/stream/collectiondelett00pous#page/344/mode/2up][Poussin's Description of his tremor]] 
+     - See the right hand page at the bottom.
+** Miscellaneous
+   - [[http://books.google.ca/books?id=QGMRBwz7oWsC&pg=PA77&lpg=PA77&dq=pope+protomedicus&source=bl&ots=3rNQ7FjZrB&sig=jnFdJcz1BsBpjnqpp_X5SY6ufxo&hl=en&sa=X&ei=VyBzVJj9DZKMyASP0IKwCA&ved=0CB8Q6AEwAA#v=onepage&q=pope%20protomedicus&f=false][Protomedicus]]
+   - [[https://www.google.ca/search?q=putti&num=20&sa=X&hl=en&biw=1434&bih=759&tbm=isch&tbo=u&source=univ&ei=jyBzVLaBJ4WgyAS97IBw&ved=0CDcQsAQ][Putti]]
+   - [[http://www.technologyreview.com/news/511466/microchip-restores-vision/][retinal transplants]]
+** Object Constancy
+   - [[http://www.tandfonline.com/doi/abs/10.1080/14640748908402393#.VHMkT38YLt4][Object Constancy]]
+** Cerebellar/Cerebral Facts and Figures
+   - [[http://brain.oxfordjournals.org/content/133/3/652][Life without a cerebellum]]
+   - [[http://onlinelibrary.wiley.com/doi/10.1002/cne.903260405/abstract;jsessionid=17130AAEBEBE9D5323824004F8CB6274.f03t02][Cerebellar Neuron Number]]
+   - [[http://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970728)384:2<312::AID-CNE10>3.0.CO;2-K/abstract][Cerebral Neuron Number]]
 * 5 Two Blind Patients
+** Vision as Inference
   - Perception and Knowledge by [[http://rstb.royalsocietypublishing.org/content/352/1358/1121.full-text.pdf][Gregory]].
   - [[https://archive.org/stream/lecturesonscient00helmiala#page/262/mode/2up][Helmholtz]] on Empirical Vision
+** Kepler
   - [[http://en.wikipedia.org/wiki/Johannes_Kepler][Kepler]]
+** Visual Facts and Phenomena
   - [[https://archive.org/stream/discoursdelameth00desc#page/60/mode/2up/search/oeil][Descartes and the inversion of the retinal image]]
   - [[http://www.nature.com/nrn/journal/v14/n2/full/nrn3405.html][Microsaccades]]
   - Methanol [[http://en.wikipedia.org/wiki/Methanol#Toxicity][poisoning]]
     [[http://www.sciencedirect.com/science/article/pii/0166223694900574][Imagery and Representation]]
   - Anton's syndrom ([[http://www.sciencedirect.com/science/article/pii/002839329500070J][anosognosia for cortical blindness]]).
+** Lomazzo
   - [[http://en.wikipedia.org/wiki/Gian_Paolo_Lomazzo][Gian Paolo Lomazzo]]
   - [[http://onlinelibrary.wiley.com/doi/10.1111/j.1477-4658.1987.tb00120.x/full][Commentary on the style of Lomazzo]]
+** Miscellaneous
   - [[http://en.wikipedia.org/wiki/Sofonisba_Anguissola][Sofonisba Anugissola]]
   - [[http://archive.org/stream/adluciliumepistu01seneuoft/adluciliumepistu01seneuoft_djvu.txt][Ad Luciliuum epistulae morales - with English translation]] (contains Harpaste)
 * 6 Locked In
+** Religion
   - [[http://en.wikipedia.org/wiki/Inquisition][The Inquisition (Wikipedia)]]
   - [[http://plato.stanford.edu/entries/pascal/][Blaise Pascal (Stanford Encyclopedia)]]
+** Free Will
   - [[http://bigthink.com/videos/daniel-dennett-on-the-nefarious-neurosurgeon][Why Daniel Dennett thinks telling people they don't have free will is harmful (video)]]
   - [[http://pss.sagepub.com/content/19/1/49.full][A belief in determinism encourages cheating]].
   - [[http://www.annualreviews.org/doi/full/10.1146/annurev-neuro-060909-153151][What do neuroscientists say about volition?]]?
+** Early Computing Machine History
   - [[http://www.computerhistory.org/babbage/][Babbage's Automatic Computing Machine]]
   - [[http://www.computerhistory.org/babbage/adalovelace/][Ada Lovelace]]
   - [[http://www.computerculture.org/wp-content/uploads/2012/10/jacquard2.jpeg][Jaquard Loom Image 1]]
   - [[http://www.computersciencelab.com/ComputerHistory/HtmlHelp/Images2/JacquardLoom.jpg][Jaquard Loom Image 2]].
+** Computer Vision
   - [[http://www.eetimes.com/document.asp?doc_id=1261453][Limitations of computer vision - dynamics]].
   - [[http://www.sciencedirect.com/science/article/pii/S0042698908003544][The role of gist in scene recognition]].
+** Locked In Syndrome
   - [[http://www.bmj.com/content/330/7488/406?variant=full-text][Clinical Review - The locked-in syndrome (BMJ)]].
   - [[http://upload.wikimedia.org/wikipedia/commons/f/f8/CPM3.jpg][MRI of central pontine myelinolysis]] 
   - [[http://jnnp.bmj.com/content/73/4/355.full][Editorial and review of the vegetative state]]
+  - [[https://youtu.be/jX2XUPhPoAE][Locked in video with use of letter board (video)]]
+** Detecting Consciousness
   - [[http://www.sciencemag.org/content/313/5792/1402.full][Detecting awareness in the vegetative state (2006)]]?
+  - [[http://www.theguardian.com/technology/2014/jun/08/super-computer-simulates-13-year-old-boy-passes-turing-test][Computer passes the Turing test]]
+** Mersenne
   - [[https://archive.org/stream/bub_gb_yKNvuZphg-8C][Mersenne's Book (French)]]
   - [[https://en.wikipedia.org/wiki/Mersenne_prime][Mersenne Prime (Wikipedia)]]
-  - [[https://youtu.be/jX2XUPhPoAE][Locked in video with use of letter board (video)]]
-  - [[http://www.theguardian.com/technology/2014/jun/08/super-computer-simulates-13-year-old-boy-passes-turing-test][Computer passes the Turing test]]
+** Miscellaneous
   - [[http://plato.stanford.edu/entries/modularity-mind/][Modularity of Mind (Stanford Encyclopedia)]]
   - [[http://youtu.be/9ubXFMklEe8][Shadow Hand robotics demonstrated (video)]]
 * 7 Amnesia
-  - [[https://en.wikipedia.org/wiki/Veronica_Franco][Veronica Franco]] -
+** Veronica Franco
+  - [[https://en.wikipedia.org/wiki/Veronica_Franco][Veronica Franco]]
   - [[https://archive.org/details/terzerimeesonett00franuoft][Terze Rima by Veronica Franco (Italian)]]
+** Memory Impairment Cases and Anatomy
   - [[http://youtu.be/Vwigmktix2Y][Case of Extreme Short Term Memory Impairment (video)]]
   - [[https://media.nature.com/lw926/nature-assets/nrn/journal/v10/n4/images/nrn2614-f1.jpg][Anatomy of Hippocampus and Parahippocampus]]
   - [[http://headneckbrainspine.com/][Brain MRI Web Site]]
   - [[http://www.nature.com/nrn/journal/v10/n4/abs/nrn2614.html][The Anatomy of Memory - Nature Reviews Neuroscience]]
   - [[http://cshprotocols.cshlp.org/content/2011/7/pdb.top114.full][How to generate a rainbow colored mouse brain]]
   - [[http://cshprotocols.cshlp.org/content/2011/7/pdb.top114/F2.large.jpg][Image of a brainbow hippocampus]]
-  - [[http://ac.els-cdn.com/0315086084900259/1-s2.0-0315086084900259-main.pdf?_tid=1aaebef4-967a-11e4-9677-00000aacb35e&acdnat=1420641370_c65d6ba57be19696a75fedb0cca191db][Eratosthenes measurement critiqued (1984)]]
   - [[https://en.wikipedia.org/wiki/Content-addressable_storage][Content Addressable Storage (Wikipedia)]]
+** Barbara Strozzi
   - [[http://www.musicacademyonline.com/composer/biographies.php?bid=134][Barbara Strozzi]]
   - [[http://youtu.be/w2lBnocuMC0][Example of Strozzi's Music (youtube)]]
+** Miscellaneous
+  - [[http://ac.els-cdn.com/0315086084900259/1-s2.0-0315086084900259-main.pdf?_tid=1aaebef4-967a-11e4-9677-00000aacb35e&acdnat=1420641370_c65d6ba57be19696a75fedb0cca191db][Eratosthenes measurement critiqued (1984)]]
 * 8 Split Brains
+** Carlo Gesualdo and Music
   - [[https://en.wikipedia.org/wiki/Carlo_Gesualdo][Carlo Gesualdo (Wikipedia)]]
   - [[https://en.wikipedia.org/wiki/Diatonic_and_chromatic][Chromatic Music (Wikipedia)]]
   - [[http://youtu.be/1rgBt5EkIKE][Death for Five Voices (Extract - YouTube)]]
   - [[http://youtu.be/Fs_AgCTovik][Carlo Gesualdo (1566-1613);Sacred Music for Five Voices;Oxford Camerata]]
+** Hemispheres and Consciousness and Surgery
   - [[https://youtu.be/rH0TgAZ4coc][Hemispherectomy Patient Story and Surgery (Video - YouTube)]]
   - [[http://www.nytimes.com/2011/11/01/science/telling-the-story-of-the-brains-cacophony-of-competing-voices.html?pagewanted=all&_r=0][Gazzaniga Discusses Split Brain Research]].
   - [[http://youtu.be/zx53Zj7EKQE][Video of Split Brain Subject (Video - YouTube)]]
@@ -149,6 +170,7 @@
   - [[http://www.nejm.org/doi/full/10.1056/NEJM196304042681401][Cryogenic Neurosurgery]]
   - [[http://www.neurology.org/content/61/5/699.short][Wada Test Article]]
   - [[http://youtu.be/sBbilBZ46Eg][Wada Test (Video YouTube)]]
+** Miscellaneous
   - [[https://archive.org/stream/lockesessayconce00lock#page/67/mode/1up][Molineaux's Problem]]?
   - [[http://mathforum.org/dr.math/faq/faq.liar.html][Liars and Truthtellers]].
   - [[https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Cristo_velato.jpg/1280px-Cristo_velato.jpg][Veiled Christ by Guiseppe Sanmartino]]
