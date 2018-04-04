@@ -1,6 +1,6 @@
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+OPTIONS: author:t broken-links:nil c:nil creator:nil
-#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
 #+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
 #+OPTIONS: timestamp:t title:t toc:t todo:t |:t
 #+TITLE: Links to Explore Topics in Phi
@@ -136,56 +136,23 @@
   - [[https://en.wikipedia.org/wiki/Content-addressable_storage][Content Addressable Storage (Wikipedia)]]
   - [[http://www.musicacademyonline.com/composer/biographies.php?bid=134][Barbara Strozzi]]
   - [[http://youtu.be/w2lBnocuMC0][Example of Strozzi's Music (youtube)]]
-* Split Brains - Chapter 8
-
-.  [[https://en.wikipedia.org/wiki/Carlo_Gesualdo][Prince of Venosa]]
-
-   1. What is
-      [[https://en.wikipedia.org/wiki/Diatonic_and_chromatic][chromatic]]
-      music.
-   2. Extract from film about him [[http://youtu.be/1rgBt5EkIKE][Death
-      for Five Voices]]
-   3. Example of his [[http://youtu.be/Fs_AgCTovik][compositions]]
-
-.  Hemispherectomy is a procedure sometimes used to treat very severe
-   epilepsy in young children. This
-   [[http://epilepsyu.com/blog/video-hemispherectomy-radical-epilepsy-surgery-removes-half-brain/][page]]
-   shows the image from the book and has a brief video on the
-   procedure.
-.  Brief NYTimes article on Gazzaniga (2011) that features some videos
-   and talks about the split brain
-   [[http://www.nytimes.com/2011/11/01/science/telling-the-story-of-the-brains-cacophony-of-competing-voices.html?pagewanted=all&_r=0][work]].
-.  Another Gazzaniga video on [[http://youtu.be/zx53Zj7EKQE][split
-   brain]] research.
-.  If one hemisphere is enough for consciousness are we each comprised
-   of two (or more) "people?"
-.  If two people become one through the interposition of a corpus
-   callosum does this provide support for the thesis of consciousness
-   as integration?
-.  [[./img/josepheniumFace.jpg]]
-.  [[http://headneckbrainspine.com/web_flash/newmodules/Brain%20MRI.swf][Link
-   to Corpus Callosum on MRI scans]] - needs Flash to work.
-.  [[http://www.nejm.org/doi/full/10.1056/NEJM196304042681401][Cryogenic
-   Neurosurgery]]
-0. Temporary hemispheric inactivation. The
-   [[http://www.neurology.org/content/61/5/699.short][Wada]] test.
-1. Why does Tononi have the eyes frozen and unable to move?
-2. [[http://youtu.be/sBbilBZ46Eg][Wada test video]]
-3. What is the meaning of his name: Ishma --- El ? "Call me Ishmael."
-   What is the source?
-4. Why does Tononi make the claim: one who is blind from birth will
-   never know what it is like to
-   [[https://archive.org/stream/lockesessayconce00lock#page/67/mode/1up][see]]?
-5. Odd that he uses the example of Indian tribe that always can tell
-   whether someone is telling the truth?
-   [[http://mathforum.org/dr.math/faq/faq.liar.html][Origin?]].
-6. [[./img/veiledChrist.jpg]]
-
-** Notes
-
-. Link to Foville's
-  [[https://archive.org/stream/influencedesvt00fovi#page/n5/mode/2up][book]]
-
+* 8 Split Brains
+  - [[https://en.wikipedia.org/wiki/Carlo_Gesualdo][Carlo Gesualdo (Wikipedia)]]
+  - [[https://en.wikipedia.org/wiki/Diatonic_and_chromatic][Chromatic Music (Wikipedia)]]
+  - [[http://youtu.be/1rgBt5EkIKE][Death for Five Voices (Extract - YouTube)]]
+  - [[http://youtu.be/Fs_AgCTovik][Carlo Gesualdo (1566-1613);Sacred Music for Five Voices;Oxford Camerata]]
+  - [[https://youtu.be/rH0TgAZ4coc][Hemispherectomy Patient Story and Surgery (Video - YouTube)]]
+  - [[http://www.nytimes.com/2011/11/01/science/telling-the-story-of-the-brains-cacophony-of-competing-voices.html?pagewanted=all&_r=0][Gazzaniga Discusses Split Brain Research]].
+  - [[http://youtu.be/zx53Zj7EKQE][Video of Split Brain Subject (Video - YouTube)]]
+  - [[https://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzL0RTQ184MTA0LkpQRyJdLFsicCIsInRodW1iIiwiMTIwMHg-Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDgxIC1hdXRvLW9yaWVudCJdXQ/DSC_8104.JPG][Josephenium Medical Museum Anatomical Wax Models]]
+  - [[http://headneckbrainspine.com/web_flash/newmodules/Brain%20MRI.swf][MRI Brain Images for Visualizing the Corpus Callosum (needs Flash)]]
+  - [[http://www.nejm.org/doi/full/10.1056/NEJM196304042681401][Cryogenic Neurosurgery]]
+  - [[http://www.neurology.org/content/61/5/699.short][Wada Test Article]]
+  - [[http://youtu.be/sBbilBZ46Eg][Wada Test (Video YouTube)]]
+  - [[https://archive.org/stream/lockesessayconce00lock#page/67/mode/1up][Molineaux's Problem]]?
+  - [[http://mathforum.org/dr.math/faq/faq.liar.html][Liars and Truthtellers]].
+  - [[https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Cristo_velato.jpg/1280px-Cristo_velato.jpg][Veiled Christ by Guiseppe Sanmartino]]
+  - [[https://archive.org/stream/influencedesvt00fovi#page/n5/mode/2up][Déformation du Crane par Achilee Foville]]
 * Brain Conflict - Chapter 9
 
 . Not denial of illness (anosognosia), but denial of ability.
