@@ -177,40 +177,22 @@
   - [[https://archive.org/stream/influencedesvt00fovi#page/n5/mode/2up][Déformation du Crane par Achilee Foville]]
   - [[https://en.wikipedia.org/wiki/Ishmael][Religious Accounts of Ishmael (Wikipedia)]]
   - [[https://archive.org/details/mobydick00melv_1][Moby Dick Ch1]]
-* Brain Conflict - Chapter 9 :noexport:
-
-. Not denial of illness (anosognosia), but denial of ability.
-. [[http://plato.stanford.edu/entries/zombies/][Zombies in Philosophy
-  of Mind]] Might see the origins of zombies all the way back to the
-  automata of Cartesian times
-  ([[http://upload.wikimedia.org/wikipedia/commons/2/27/Kempelen_chess1.jpg]].
-  Possibly the [[http://www.jstor.org/stable/4106864][first use]] of
-  Zombies in the philosophical literature under that name?
-. Why does he pick the name Teresa? Probably because she was known to
-  have ecstatic
-  [[https://en.wikipedia.org/wiki/Teresa_of_Ávila][visions]].
-. Wonderful exhibition on hysteria and ecstasy at the
-  [[./pdf/charcot.pdf][l'hopital Salpetriere]]
-. [[./img/pignon-ernst.jpg]] of ecstasy.\\
-. Is
-  [[http://cercor.oxfordjournals.org/content/early/2011/03/02/cercor.bhr026.full][hysterical
-  blindness]] all in your head? And what does it mean if there is (or
-  is not) a correlate detectable on an fMRI machine? What if the
-  blindness came and [[./pdf/strasburger.pdf][went]]?
-. Points for discussion - binocular rivalry and alternating strabismus.
-. Can you be blind and not admit it? - Anton's syndrome. Implications
-  for consciousness?
-
-** Notes
-
-. [[http://www.professeurs-medecine-nancy.fr/Grignon12.htm][Charles Le
-  Pois]]. I had trouble finding good documentation that he was a
-  forward thinking scientist, rather than substituting one bad theory
-  for another. In any case, his account did not last long, even in
-  France.
-. The story of Heloise and Abelard does not seem to me to parallel
-  Teresa's story very well.
-
+* 9 Brain Conflict
+** Zombies
+   - [[http://plato.stanford.edu/entries/zombies/][Zombies in Philosophy of Mind]] 
+   - [[http://upload.wikimedia.org/wikipedia/commons/2/27/Kempelen_chess1.jpg][The Original Mechanical Turk]]
+   - [[http://www.jstor.org/stable/4106864][First Use of Zombie's in Philosophy?]]
+** Hysteria
+   - [[https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila][Teresa of Ávila]]
+   - [[./pdf/charcot.pdf][Charcot and the l'Hopital Salpêtrière]]
+   - [[https://youtu.be/PS9O7tJvc3U][Ernest Pignon-Ernest Exstases]]
+   - [[http://charcot.artabsolument.com/les-artistes/ernest-pignon-ernest/][Pignon-Ernest Interprets the Hysterics of Charcot]]
+   - [[https://link.springer.com/content/pdf/10.1007/BF02126945.pdf][Anton's Syndrome (German;pdf)]] 
+   - [[http://cercor.oxfordjournals.org/content/early/2011/03/02/cercor.bhr026.full][Neural Correlates of Hysterical Blindness]] 
+   - [[https://epub.ub.uni-muenchen.de/1996/1/waldvogel_ullrich_strasburger.pdf][Blindness and Sight in a Single Person (german;pdf)]]?
+** Miscellaneous
+   - [[http://www.professeurs-medecine-nancy.fr/Grignon12.htm][Charles Le Pois]].
+   - [[http://www.gutenberg.org/files/35977/35977-h/35977-h.htm][Letters of Abelard and Heloise]]
 * A Brain Possessed - Chapter 10 :noexport:
 
 . "One of us" Is this really a reference to the
