@@ -210,52 +210,22 @@
 ** Miscellaneous
    - [[https://en.wikipedia.org/wiki/Paracelsus][Paracelsus (Wikipedia)]]
    - [[http://youtu.be/hqTyEKB64EE][Mahler's Kindertotenlieder 1 (Youtube)]]
-* Chapter 11 - A Brain Asleep :noexport:
-
-.  Who is the man met at the beginning of this chapter? One can make a
-   reasonable guess it is Descartes. He was in the military (although
-   the family wanted him to be a lawyer/notary). He was often excused
-   from his usual duties by people who recognized his "brain." His
-   great philosophical insights were said to be begun while meditating
-   in a heated room (oven/stove), and as a consequence of three vivid
-   dreams. And, I guess it is obvious, he has a French accent.
-.  The claim is made that the same amount of neural activity occurs
-   during sleep and during waking. Is this correct? # Not according to
-   this
-   [[http://onlinelibrary.wiley.com/doi/10.1113/jphysiol.2010.197517/full][citation]].
-   But in any case, it seems a relatively minor difference to explailn
-   consciousness or no consciousness.\\
-   # Some images of sleep stages as seen by
-   [[./img/sleepStageEEG.jpg]]\\
-.  This digression to voices, singing, and yelling made me think of
-   Selfridge's
-   [[http://sites.sinauer.com/wolfe3e/chap4/pandemoniumF.htm][Pandemonium
-   Model]].
-.  What were Descartes' dreams really
-   [[./pdf/descartesDreams.pdf][like]]?
-.  Locke on what the soul does during sleep, book 2 section 11. Is it
-   [[https://archive.org/stream/essayconcerningh00lock#page/n119/mode/2up][thinking?]]\\
-.  Wondering why he keeps just showing us the characters'
-   [[https://www.questionwritertracker.com/quiz/61/Z4MK3TKB.html][eyes]]?
-.  Mechanism "...explain my seeing the blue of the sky..."
-   [[http://plato.stanford.edu/entries/qualia/][Qualia]]
-.  "Thrice I shall ask you this." A play on the
-   [[https://www.biblegateway.com/passage/?search=John+21:15-17&version=NIV][Bible]]?
-.  The loss of color vision:
-   [[https://en.wikipedia.org/wiki/Achromatopsia][achromatopsia]].
-0. St. Thomas refers to the disciple who doubted the risen Christ.
-1. An interesting question is if sleep (or whatever other example Frick
-   uses) leads to consciousness being abolished why does the same
-   "person" come back? What accounts for the continuity of self across
-   these breaks? Discuss.
-
-** Notes
-
-. [[./img/descartesSkull.jpg]] It was a bit
-  [[http://www.nytimes.com/2008/11/02/books/review/Rosen-t.html?_r=0][traveled]].
-  And it was x-rayed. Can we learn anything from the skull about the
-  brain?
-
+* 11 A Brain Asleep 
+** Sleep
+   - [[http://onlinelibrary.wiley.com/doi/10.1113/jphysiol.2010.197517/full][Energy Expenditure During Sleep]].
+   - [[https://biokamikazi.files.wordpress.com/2016/01/25863_6.png?w=640][Stages of Sleep Seen With EEG]]
+   - [[https://www.jstor.org/stable/750999][Descartes Dreams]]?
+   - [[https://archive.org/stream/essayconcerningh00lock#page/n119/mode/2up][What Does Locke Say About Consciousness and Sleep?]]
+** Skulls and Brains
+   - [[http://media.npr.org/assets/img/2011/05/28/107957773-descartes-skull_custom-f85f7a58a774d78e50c724b8a134c4a3f3c3a16a-s6-c30.jpg][Descartes Skull]]
+   - [[http://www.nytimes.com/2008/11/02/books/review/Rosen-t.html?_r=0][The Travels of Descartes Skull]]
+   - [[https://doi.org/10.1017/S0269889703000784][Brains, Skulls, and Scientific Biographies]]
+** Miscellaneous
+   - [[https://www.questionwritertracker.com/quiz/61/Z4MK3TKB.html][Reading the Mind in the Eyes Test (requires javascript)]]
+   - [[http://plato.stanford.edu/entries/qualia/][Qualia (Stanford Encyclopedia of Philosophy)]]
+   - [[https://www.biblegateway.com/passage/?search=John+21:15-17&version=NIV][Simon Peter Thrice Questioned]]?
+   - [[https://en.wikipedia.org/wiki/Achromatopsia][Achromatopsia]]
+   - [[https://wolfe4e.sinauer.com/wa04.02.html][Pandemonium Model]].
 * Chapter 12 - Enigma of Consciousness :noexport:
 
 .  "A blank slate ..." Line 1. The blank slate (\_\_tabula rasa\_) is a
