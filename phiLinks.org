@@ -218,6 +218,7 @@
    - [[https://archive.org/stream/essayconcerningh00lock#page/n119/mode/2up][What Does Locke Say About Consciousness and Sleep?]]
 ** Skulls and Brains
    - [[http://media.npr.org/assets/img/2011/05/28/107957773-descartes-skull_custom-f85f7a58a774d78e50c724b8a134c4a3f3c3a16a-s6-c30.jpg][Descartes Skull]]
+   - [[http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)61816-X/fulltext][Descartes Enlarged Ethmoid Sinus]]
    - [[http://www.nytimes.com/2008/11/02/books/review/Rosen-t.html?_r=0][The Travels of Descartes Skull]]
    - [[https://doi.org/10.1017/S0269889703000784][Brains, Skulls, and Scientific Biographies]]
 ** Miscellaneous
