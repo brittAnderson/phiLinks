@@ -246,42 +246,20 @@
    - [[http://www.gestalttheory.net/people/metzger.html][Wolfgang Metzger]].
    - [[http://www.sciencedirect.com/science/article/pii/S0166223611000373][Connectivity and Microcircuits]],
    - [[http://cogprints.org/254/1/quinqual.htm][Quining Qualia - Daniel Dennett]]
-* Chapter 13 - Photodiode :noexport:
-
-. The first thought experimnent is included in the first notes above on
-  thought experiments.
-. [[http://en.wikipedia.org/wiki/Inertia][Principle of Inertia]]
-. "A thought experimnent to reveal the essence of consciousness." This
-  is the very essence of why
-  [[http://plato.stanford.edu/entries/kant-science/#Psy][Kant]] said
-  psychology could never be a science, and why many believe a science
-  of consciousness cannot exist. The mind cannot observe itself.
-
-. Binary codes: 1's and 0's
-
-. Why are pages 126 --- 129 blank? Who was the first person to do this?
-  Tristam
-  [[http://blog.whitneyannetrettien.com/2012/09/tristram-shandy-art-of-black-mourning.html][Shandy]]?
-. What is a
-  [[http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Photodiode.html][photodiode]]?
-  A [[./img/photodiode.jpg]]
-. Is Tononi playing the Imitation Game with the roles reversed? Galileo
-  is playing the role of the mahcine?
-. "...if not better?" Is that the reason why Galileo is so sure? The
-  machine is too accurate?
-. What is the difference(similarity) between a photodiode and a neuron?
-. Do you agree that " there must be a
-  [[http://plato.stanford.edu/entries/leibniz/#PriSufRea][reason]] why
-  things are as they are"? Why?
-. What are necessary and sufficient
-  [[http://en.wikipedia.org/wiki/Necessity_and_sufficiency][conditions]]?
-
-** Notes
-
-. Imitation Game [[http://cogprints.org/499/1/turing.HTML][Article]]
-. Chinese Room Argument
-  [[http://plato.stanford.edu/entries/chinese-room/][Searle]]
-
+* 13 Photodiode
+** Philosophy and Logic
+   - [[http://en.wikipedia.org/wiki/Inertia][Principle of Inertia]]
+   - [[http://plato.stanford.edu/entries/leibniz/#PriSufRea][Principle of Sufficient Reason - Leibniz (Stanford Encyclopedia)]]
+   - [[http://en.wikipedia.org/wiki/Necessity_and_sufficiency][Necessary and Sufficient Conditions (wikipedia)]]?
+   - [[http://cogprints.org/499/1/turing.html][Turing Article Describing the Imitation Game]]
+   - [[http://plato.stanford.edu/entries/chinese-room/][Chinese Room Argument Searle (Stanford Encyclopedia of Philosophy)]]
+** Tristam Shandy
+  - [[http://plato.stanford.edu/entries/kant-science/#Psy][Kant and Psychology as a Science (not!)]]
+  - [[http://blog.whitneyannetrettien.com/2012/09/tristram-shandy-art-of-black-mourning.html][Shandy and Black Mourning Pages]]?
+  - [[https://archive.org/stream/in.ernet.dli.2015.2549/2015.2549.Tristam-Shandy#page/n39/mode/2up][Tristam Shandy]]
+** Photodiodes
+  - [[http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Photodiode.html][Photodiodes Explained]]?
+  - [[https://www.thorlabs.com/images/xlarge/12174-xl.jpg][Image of a Photodiode]]
 * Chapter 14 - Information :noexport:
 
 1. What is meant by the phrase, "... he [Alturi] had a smile on his face
