@@ -227,116 +227,25 @@
    - [[https://www.biblegateway.com/passage/?search=John+21:15-17&version=NIV][Simon Peter Thrice Questioned]]?
    - [[https://en.wikipedia.org/wiki/Achromatopsia][Achromatopsia]]
    - [[https://wolfe4e.sinauer.com/wa04.02.html][Pandemonium Model]].
-* Chapter 12 - Enigma of Consciousness :noexport:
-
-.  "A blank slate ..." Line 1. The blank slate (\_\_tabula rasa\_) is a
-   phrase one often hears applied to Locke and his *Esaay Concerning
-   Human Understanding", but as far as I know he didn't use the phrase,
-   Aristotle did. Locke refers to a blank piece of paper. In any case,
-   this seems an allusion to Empiricist philosophy.
-.  "If the brain ceases ... nothing is left, not us ..." We have
-   certainly seen a lot of evidence that the brain is central to
-   consciousness, but have we seen anything to say that there is not
-   more? Are we inferring absence from absence of evidence?
-.  Review questions:
-
-   -  Is it simply a matter of neurons?
-
-      -  No. Poussin with this supposed cerebellar disorder lost more
-         and did not lose consciousness.
-      -  But recall that Copernicus was not conscious. Apparently the
-         cerebrum is critical.
-
-   -  Is the cerebellum an impassable sea? What is the evidence for a
-      less connected neural structure? A nice article that talks about
-      connectivity measures applied to various brain regions and
-      developement is
-      [[http://www.sciencedirect.com/science/article/pii/S0166223611000373][here]],
-      and with a little bit of luck a
-      [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.379.2165&rep=rep1&type=pdf][pdf]].
-      But I don't know of data that says it is less connected.
-   -  Are afferent sensory systems necessary for consciousness?
-
-      -  The answer in the book seems to be no, but that seems
-         arguable. It might be that they are necessary at some point -
-         initially - in development, but that they are no longer
-         required. And while we may get along well without one or two,
-         what if all were gone, what would happen to our conscioius
-         state then?
-
-   -  Are efferent arcs necessary?
-
-      -  Apparently not. We have Mersenne communicating with his eye
-         blink. And without that we might not know that he was in
-         there, but he still could be as Owen's work with vegetative
-         state patients seems to suggest.
-
-   -  Is consciousness unitary?
-
-      -  Apparently, that too, is just appearance or happenstance,
-         because with the right kind of /disconnection/ we can be made
-         multiple. This doesn't necessitate psychiatric illness, but
-         could be related to callosotomy.
-
-   -  The paradox of synchrony. Why is paradoxical?
-
-      -  As we saw with seizures, when everything is "shouting" the
-         same message then consciousness may be lost. Here the
-         connectivity seems to allow for this unison, and therefore it
-         is the paradox that connectedness is necessary for
-         consciousness, and at the same time the route for its
-         abolition.
-
-.  Who is [[./pdf/workTuring.pdf][Alturi]]? There are long biographies,
-   but this is a reminisence of personal collaboration.
-.  What is all this staring at blank walls that is mentioned repeatedly
-   in this chapter. I was wondering if he was driving at the
-   [[http://en.wikipedia.org/wiki/Ganzfeld_effect][Ganzfeld]] effect?
-   It was the discovery of
-   [[http://www.gestalttheory.net/people/metzger.html][Wolfgang
-   Metzger]].
-.  Galileo's questions:
-
-   1. Why the brain and not the liver? Why the cerebrum and not the
-      cerebellum? Why here and not there?
-   2. what determines what consciousness "is"?
-   3. What gives consciousness its distinctive quality? See Stanford
-      Encyclopedia
-      [[http://stanford.library.usyd.edu.au/entries/qualia/][entry]] or
-      this amusing entry by
-      [[http://cogprints.org/254/1/quinqual.htm][Dennett]], which
-      taught me the verb /to quine/ as to resolutely deny that which is
-      real.
-
-.  Photo on page 120 is of a Jaquard Loom. Those little punch cards are
-   sometimes held to be the first programs, and a forerunner of what
-   Lady Ada Lovelace used.
-.  Alturi says: "...every such feat can be reduced to a series of
-   simple steps..." as exemplified by this
-   [[http://www.youtube.com/watch?v=E3keLeMwfHY][video]] of a working
-   Turing machine.
-.  Why the apple with the bite? Turing died from having bitten a
-   cyanide laced apple. It is presumed to be suicide.
-0. Contrast Frick's program with Alturi's? Frick wants to find the
-   neural correlates of consciousness to explain it. Alturi wants to
-   find the computational mechanisms to explain it? Do we need both? Is
-   one approach more valuable than the other?
-1. Contrast Frick's program with Alturi's? Frick wants to find the
-   neural correlates of consciousness to explain it. Alturi wants to
-   find the computational mechanisms to explain it? Do we need both? Is
-   one approach more valuable than the other?
-
-** Notes Chapter 12
-
-. Charles
-  [[http://en.wikipedia.org/wiki/Charles_Scott_Sherrington][Sherrington]]
-
-  -  [[https://archive.org/download/0056-0000-4375-0000-0-0000-0000-0/0056-0000-4375-0000-0-0000-0000-0.mp3][bbcIntroAudio]]
-  -  [[https://archive.org/details/Sir_Charles_Sherrington-wellcome][video]]
-  -  /Man on His Nature/
-     [[http://ebooks.cambridge.org/ebook.jsf?bid=CBO9780511694196][legal
-     online copy]].
-
+* 12 Enigma of Consciousness
+** Aristotle and Locke on Empty Minds
+   - [[https://archive.org/stream/cu31924028995807#page/116/mode/2up/search/tablet][Artistotle's Psychology (De Anima) Tabula Rasa]]
+   - [[https://archive.org/stream/anessayconcerni00frasgoog#page/n270/mode/2up/search/white+paper][Locke An Essay Concerning Human Understanding (white paper)]]
+** Alan Turing
+   - [[https://www.bl.uk/voices-of-science/interviewees/geoff-tootill/audio/geoff-tootill-working-with-alan-turing][Audio Recollection]] - Alan Turing makes a mistake
+   - [[https://link.springer.com/article/10.1007%252FBF03028336?LI=true][Working With Alan Turing (pdf)]]
+   - [[http://www.youtube.com/watch?v=E3keLeMwfHY][Turing Machine (video)]]
+   - [[http://www.bbc.com/news/science-environment-18561092][How Did Turing Die? Suicide or Accident?]]
+** Charles Sherrington
+   - [[http://en.wikipedia.org/wiki/Charles_Scott_Sherrington][Sir Charles Sherrington]]
+   - [[https://archive.org/download/0056-0000-4375-0000-0-0000-0000-0/0056-0000-4375-0000-0-0000-0000-0.mp3][The Physical Basis of Mind - Sherrington (audio)]]
+   - [[https://archive.org/details/Sir_Charles_Sherrington-wellcome][Sir Charles Sherrington disects a monkey's brain (video)]]
+   - Man on his Nature [[http://ebooks.cambridge.org/ebook.jsf?bid=CBO9780511694196][legal online copy]].
+** Miscellaneous
+   - [[http://en.wikipedia.org/wiki/Ganzfeld_effect][Ganzfeld]]
+   - [[http://www.gestalttheory.net/people/metzger.html][Wolfgang Metzger]].
+   - [[http://www.sciencedirect.com/science/article/pii/S0166223611000373][Connectivity and Microcircuits]],
+   - [[http://cogprints.org/254/1/quinqual.htm][Quining Qualia - Daniel Dennett]]
 * Chapter 13 - Photodiode :noexport:
 
 . The first thought experimnent is included in the first notes above on
