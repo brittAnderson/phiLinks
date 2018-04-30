@@ -35,27 +35,37 @@
    - [[http://download.guardian.co.uk/audio/kip/science/series/science/1330106572501/9137/gnl.sci.120227.jp.science_weekly_conscious.mp3][Another consciousness podcast - general (mp3)]]
 * 2 Introduction
 ** Francis Crick
-   -  [[http://www.nobelprize.org/nobel_prizes/medicine/laureates/1962/crick-bio.html][Nobel Prize Biography]]
-   -  [[https://www.youtube.com/watch?v=qzs2aAcfOTQ][Video - Conversation on Consciousness 1994]]
-   -  [[http://rstb.royalsocietypublishing.org/content/360/1458/1271.short][Crick and Koch article on Claustrum (2005)]]
+   - [[http://www.nobelprize.org/nobel_prizes/medicine/laureates/1962/crick-bio.html][Nobel Prize Biography]]
+   - [[https://www.youtube.com/watch?v=qzs2aAcfOTQ][Video - Conversation on Consciousness 1994]]
+   - [[http://rstb.royalsocietypublishing.org/content/360/1458/1271.short][Crick and Koch article on Claustrum (2005)]]
    - [[https://upload.wikimedia.org/wikipedia/commons/d/d2/Gray742-emphasizing-claustrum.png][Illustration of the Claustrum]]
 ** Concepts
    - [[https://en.wikipedia.org/wiki/Heliocentrism][Heliocentrism]]
    - [[http://en.wikipedia.org/wiki/Galileo_affair][Galileo and Heliocentrism]]
    - [[http://commonweb.unifr.ch/artsdean/pub/gestens/f/as/files/4610/13599_161715.pdf][Explanatory Gap - Joseph Levine (pdf)]]
+   - [[https://plato.stanford.edu/entries/dualism/][Dualism (Stanford Encyclopedia)]]
 ** Giordano Bruno
    - [[https://www.thenation.com/article/hungry-mind-giordano-bruno-philosopher-and-heretic/][Brief Biography and Book Review (2008)]]
    - [[http://www.imdb.com/title/tt0070109/][Giordano Bruno - The Film (1973)]]
    - [[http://3.bp.blogspot.com/-GxGYP2QZtXE/UW8DDbu0SlI/AAAAAAAAMeY/2E4Wwd4U9ac/s1600/1304170071.jpg][Statue Campo di Fiori Rome]]
+** Other Figures
+   - [[https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer][Albrecht Durer - wikipedia]]
+   - [[https://plato.stanford.edu/entries/lucretius/][Lucretius (Stanford Encyclopedia Philosophy)]]
 * 3 Cerebrum
 ** People
    - [[http://en.wikipedia.org/wiki/Nicolaus_Copernicus][Nicolaus Copernicus]]
+   - [[https://en.wikipedia.org/wiki/Dante_Alighieri][Dante - wikipedia]]
 *** Wilder Penfield
     - [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3221191/][Brief Biography]]
     - [[http://archneurpsyc.jamanetwork.com/article.aspx?articleid=647745][Penfield Article on Cortex and Consciousness (1938)]]
     - [[http://brain.oxfordjournals.org/content/81/2/231][Penfield Article on Centrencephalon (1958)]]
     - [[http://www.ajnr.org/content/24/10/2005.full][Consequences of Centrencephalic Stroke]]
 ** Concepts  
+*** Cerebral Ventricles
+    - [[https://www.ncbi.nlm.nih.gov/books/NBK11083/][Cerebral Ventricles]]
+    - [[http://www.davinciandthebrain.org/neuro.jsp][Ventricles and Leonardo da Vinci]]
+*** Memory Palace
+    - [[https://en.wikipedia.org/wiki/Method_of_loci][Method of Loci]]
 *** Neurons and their Delineation   
     - [[https://pdfs.semanticscholar.org/ba7a/9617fd7989aaf40c54ef416d9cb137bdf5ab.pdf][Santiago Ramon y Cajal and the Golgi Stain (pdf)]]
     - [[https://nyamcenterforhistory.files.wordpress.com/2014/04/histologie-watermark.jpg][Cajal Illustration of a Golgi stained Cortical Neuron]]
@@ -64,8 +74,16 @@
 *** Cortical Connectivity
     - [[http://www.civm.duhs.duke.edu/rhesusatlas/RhesusAtlasFig.jpg][Diffusion Tensor Image of a Monkey Brain]]
     - [[http://link.springer.com/article/10.1007/s12031-007-0029-0][Diffusion Tensor Imaging - Technical Description]]
+    - [[http://science.sciencemag.org/content/304/5670/559][Synfire Chains]]
+    - [[http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0020369][Neuronal Motifs]]
 *** Abnormal States of Consciousness
     - [[https://www.sciencedirect.com/science/article/pii/S147444220400852X?via%253Dihub][Brain Function in Coma]]
+    - [[http://uwo.ca/bmi/owenlab/pdf/2014-Owen-NewsandViews.pdf][Consciousness and Brain Damage (pdf)]]
+    - [[http://psycnet.apa.org/record/1979-23649-001][Projection as a Defense Mechanism]]
+*** Cartesian Theater and Homunculi
+    - [[http://scholarpedia.org/article/Multiple_drafts_model][Multiple Drafts Model]]
+*** Reflexes
+    - [[https://books.google.ca/books?id=CvgxUpZ7ZfUC&pg=PA490&lpg=PA490&dq=babinski+reflex+triple+flexor+response+lewis&source=bl&ots=Ddv2t4NXmm&sig=bWN2YWG8gasjiRStldbcX_fmJMU&hl=en&sa=X&ved=0ahUKEwiNrsjLxuLaAhXE3YMKHbNmAMQQ6AEIdzAM#v=onepage&q=babinski%2520reflex%2520triple%2520flexor%2520response%2520lewis&f=false][Babinski and Triple Flexor]]
 ** Quotes and References
 *** Flowers and their Meanings in Myth
     - [[http://classroom.synonym.com/people-turning-flowers-greek-mythology-14366.html][People Turning into Flowers]]
@@ -74,16 +92,25 @@
     - [[http://en.wikipedia.org/wiki/And_yet_it_moves][And yet it moves]]
 *** Canto III - Divina Commedia 
     - [[https://archive.org/stream/divinecomedyofda19021dant#page/16/mode/2up][Dante's Divine Comedy Canto III]]
+*** History of Italy
+    - [[https://en.wikipedia.org/wiki/Italian_unification][Unification]]
 * 4 Cerebellum
 ** Nicolas Poussin
    - [[http://www.metmuseum.org/toah/hd/pous/hd_pous.htm][Nicolas Poussin - 1594:1665 - brief bio]]
    - [[http://eugrafal.free.fr/Haggard-Rodgers-2000.pdf][Movement Disorder of Nicolas Poussin]]
    - [[https://archive.org/stream/collectiondelett00pous#page/344/mode/2up][Poussin's Description of his tremor]] 
      - See the right hand page at the bottom.
+** Modularity of Mind
+   - [[https://plato.stanford.edu/entries/modularity-mind/][Modularity of Mind (Stanford Encyclopedia)]]
+   - [[https://onlinelibrary.wiley.com/doi/full/10.1111/phc3.12043][Cognitive Penetrability]]
+   - [[http://www.psy.ritsumei.ac.jp/~akitaoka/colorconstancy][Color Constancy]]
+   - [[https://en.wikipedia.org/wiki/China_brain][China Brain]]
+   - [[https://en.wikipedia.org/wiki/Chinese_room][Chinese Room]]
 ** Miscellaneous
    - [[http://books.google.ca/books?id=QGMRBwz7oWsC&pg=PA77&lpg=PA77&dq=pope+protomedicus&source=bl&ots=3rNQ7FjZrB&sig=jnFdJcz1BsBpjnqpp_X5SY6ufxo&hl=en&sa=X&ei=VyBzVJj9DZKMyASP0IKwCA&ved=0CB8Q6AEwAA#v=onepage&q=pope%20protomedicus&f=false][Protomedicus]]
    - [[https://www.google.ca/search?q=putti&num=20&sa=X&hl=en&biw=1434&bih=759&tbm=isch&tbo=u&source=univ&ei=jyBzVLaBJ4WgyAS97IBw&ved=0CDcQsAQ][Putti]]
    - [[http://www.technologyreview.com/news/511466/microchip-restores-vision/][retinal transplants]]
+   - [[https://www.nature.com/articles/349154a0][Perceiving and Grasping]]
 ** Object Constancy
    - [[http://www.tandfonline.com/doi/abs/10.1080/14640748908402393#.VHMkT38YLt4][Object Constancy]]
 ** Cerebellar/Cerebral Facts and Figures
