@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2018-05-04 Fri 13:29 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Chapter Based Discussion Questions for Phi</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Britt Anderson" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Chapter Based Discussion Questions for Phi</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgc18309d">1. Preface</a></li>
+<li><a href="#orgb19267d">2. 1 Prologue</a></li>
+<li><a href="#org41fb350">3. 2 Introduction</a></li>
+<li><a href="#orgebb7d85">4. 3 Cerebrum</a></li>
+<li><a href="#org97b094e">5. 4 Cerebellum</a></li>
+<li><a href="#org6b3f321">6. 5 Two Blind Patients</a></li>
+<li><a href="#org6dbc96e">7. 6 Locked In</a></li>
+<li><a href="#orgaf92956">8. 7 Amnesia</a></li>
+<li><a href="#org0eff35c">9. 8 Split Brains</a></li>
+<li><a href="#org0bcf684">10. 9 Brain Conflict</a></li>
+<li><a href="#org5683455">11. 10 A Brain Possessed</a></li>
+<li><a href="#org374119b">12. 11 A Brain Asleep</a></li>
+<li><a href="#orgf5f55b1">13. 12 Enigma of Consciousness</a>
+<ul>
+<li><a href="#org76ffd8a">13.1. Some Review</a></li>
+</ul>
+</li>
+<li><a href="#org527938b">14. Chapter 13 - Photodiode</a>
+<ul>
+<li><a href="#orgd87f5c4">14.1. Notes</a></li>
+</ul>
+</li>
+<li><a href="#orgca9f972">15. Chapter 14 - Information</a>
+<ul>
+<li>
+<ul>
+<li><a href="#org75d7ed5">15.0.1. Notes</a></li>
+<li><a href="#org4d6fb07">15.0.2. Miscellaneous Notes Extraneous to the Text</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgc18309d" class="outline-2">
+<h2 id="orgc18309d"><span class="section-number-2">1</span> Preface</h2>
+<div class="outline-text-2" id="text-1">
+<ul class="org-ul">
+<li>What is meant by the statement that "&#x2026;Galileo removed the observer from nature&#x2026;"</li>
+<li>What is a thought experiment and why is Galileo regarded as a master?</li>
+<li>What are the goals of the book?
+<ul class="org-ul">
+<li>Part One: Describe the relations between brain parts and consciousness, and the relation between consciousness and sleep.</li>
+<li>Part Two: Advance a particular theory of consciousness. We will decide whether we agree and what the alter natives are.</li>
+<li>Part Three: implications of theories of consciousness.</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgb19267d" class="outline-2">
+<h2 id="orgb19267d"><span class="section-number-2">2</span> 1 Prologue</h2>
+<div class="outline-text-2" id="text-2">
+<ul class="org-ul">
+<li>Who was Galileo?
+<ul class="org-ul">
+<li>Full name.</li>
+<li>Date of birth and death.</li>
+<li>Family/relations</li>
+<li>Principal scientific achievements, and why they are significant.</li>
+<li>Scientific methodology. Comparison to practice in psychology.</li>
+</ul></li>
+<li>What are the core questions and positions being advocated in this chapter?</li>
+<li>"How could mere matter generate mind?"</li>
+<li>What philosophical school is being indicated by the statement "What is, is what can be perceived." Alternatively, to be is to be perceived. Who is the philosopher most associated with this position?</li>
+<li>Are the soul and the person being equated in this prologue? What is the name for the philosophical position that distinguishes between the Res Extenso and Res Cogitans (alternatively between brain and mind)? Who is the philosopher of consciousness most associated with this position?</li>
+<li>What is the alteration to the <i>vanitas</i> by Pieter Boel?</li>
+<li>Can you weigh a soul?</li>
+<li>Can you weigh thought?</li>
+<li>Why do we believe in other minds?</li>
+<li>What is a Vanitas? (picture page 8)</li>
+<li>Are mind and soul the same? How would you know? How could you test?</li>
+<li>What, in plain language would it mean to have a scientific theory of consciousness? What would you need to explain? What would constitute evidence?</li>
+<li>Explain quote on page 12 that starts "If ears, tongues, and noses&#x2026;"</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org41fb350" class="outline-2">
+<h2 id="org41fb350"><span class="section-number-2">3</span> 2 Introduction</h2>
+<div class="outline-text-2" id="text-3">
+<ul class="org-ul">
+<li>What historical figure is "Frick" based on? Why was this person chosen as a guide?</li>
+<li>What philosophical school would Francis Crick's philosophy of consciousness fall into?</li>
+<li>What neural structure did Crick think was critical for human consciousness?</li>
+<li>Describe what theory is being advanced in the italicized paragraph on page 20.</li>
+<li>How could you produce scores of Galileo as claimed on page 21?</li>
+<li>What structured is pictured on page 21?</li>
+<li>Why does the author make a point about Galileo having been right with his telescope?</li>
+<li>What theory of consciousness is expressed on page 22 where it equates you with your neurons?</li>
+<li>Does that mean neurons are necessary for consciousness? How would you test?</li>
+<li>Are their implications for responsibility (see line page 22 about "wanton criminals").</li>
+<li>Bottom of page 22 where it talks about not being able to be mistaken about consciousness. Describe this position and who it is ascribed to most commonly.</li>
+<li>What is the name of the problem for consciousness that seeks to account for consciousness emerging from physical elements?</li>
+<li>What is "dualism?" What are some of the common variants?</li>
+<li>What is an "explanatory gap?"</li>
+<li>Read the first few paragraphs of this article and discuss what is meant by the term "psycho-physical" identity.</li>
+<li>Giordono Bruno is mentioned in the notes as a prominent early believer in heliocentrism. What happened to him? What message does the author expect us to draw from this fact?</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgebb7d85" class="outline-2">
+<h2 id="orgebb7d85"><span class="section-number-2">4</span> 3 Cerebrum</h2>
+<div class="outline-text-2" id="text-4">
+<ul class="org-ul">
+<li>Who was Copernicus?
+Copernicus had a stroke. Apparently awoke from a coma to view the pages of his book and then died peacefully. They identified his skeleton (not found until 2010) by matching DNA to hair from a book in a library in Sweden.</li>
+<li>There is an important line here: "the universe was an orderly whole, in which displacing any part would disrupt the entire edifice." Why does it mean? Why is it important?</li>
+<li>What is brain death?</li>
+<li>Who was Wilder Penfield?</li>
+<li>Why is he included here?</li>
+<li>What was Penfield's theory of the brain and consciousness?</li>
+<li>What is the cerebrum?</li>
+<li>What are the black spaces in the MRI scan on page 27?</li>
+<li>What is the Greek origin of the term Thalamus?
+bedroom</li>
+<li>What does "Functional Specialization" mean?</li>
+<li>Where is the region of the brain specialized for detecting motion?</li>
+<li>What is described by "Gallileo thought of the translucent mass, gutlike in its folds&#x2026;"</li>
+<li>Key discussion question: is there a region of the brain for consciousness. Discuss Frick's condition. Evidence pro and con.</li>
+<li>What is the term for the condition where people cannot recognize faces? 
+Prosopagnosia.</li>
+<li>"And yet his eyes were open, thought Galileo, and roamed within the orbits. Did any life revolve with them, did anything move inside? Did sparks of thought still stir?" What do you think?</li>
+<li>What is "white matter?" (page 29)</li>
+<li>Where is Padua?</li>
+<li>Why is weird for Galileo to talk of Italy on page 29?</li>
+<li>What is a cortical column?</li>
+<li>Could you tell what someone was thinking from monitoring their neurons? How would you do this (see page 28 for line about red and yellow)?</li>
+<li>What is the ascending reticular activating system?</li>
+<li>Define ontology has used in the quote: "&#x2026; annunciating a principle of causal <i>ontology</i> [italics added]&#x2026;"</li>
+<li>Why is the Cartesian Theatre a problem (or why is the homonculus)? Page 30</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org97b094e" class="outline-2">
+<h2 id="org97b094e"><span class="section-number-2">5</span> 4 Cerebellum</h2>
+<div class="outline-text-2" id="text-5">
+<ul class="org-ul">
+<li>Who is Fodor and why are the concepts of modularity and penetrability pertinent to the first few lines of this chapter?</li>
+<li>Why is Nicolas Poussin included here do you think?
+<ul class="org-ul">
+<li>Many of his themes relate to Ovid's Metamorphoses - which is the likely source for the Daphne episode above</li>
+</ul></li>
+<li>Who were the <a href="http://books.google.ca/books?id=QGMRBwz7oWsC&amp;pg=PA77&amp;lpg=PA77&amp;dq=pope+protomedicus&amp;source=bl&amp;ots=3rNQ7FjZrB&amp;sig=jnFdJcz1BsBpjnqpp_X5SY6ufxo&amp;hl=en&amp;sa=X&amp;ei=VyBzVJj9DZKMyASP0IKwCA&amp;ved=0CB8Q6AEwAA#v=onepage&amp;q=pope%20protomedicus&amp;f=false">Protomedicus</a>?</li>
+<li>What are <a href="https://www.google.ca/search?q=putti&amp;num=20&amp;sa=X&amp;hl=en&amp;biw=1434&amp;bih=759&amp;tbm=isch&amp;tbo=u&amp;source=univ&amp;ei=jyBzVLaBJ4WgyAS97IBw&amp;ved=0CDcQsAQ">Putti</a>?</li>
+<li>Is a cerebellum <a href="http://brain.oxfordjournals.org/content/133/3/652">necessary</a> for consciousness? What has more neurons; the cerebrum or the cerebellum? Why might this be a problem for neural theories of consciousness that treat the neuron as the key information processing unit? See also below for neuron numbers.</li>
+<li>The Hand Tremor Questions
+<ul class="org-ul">
+<li>Is this a cerebellar tremor?</li>
+<li>Or is it more likely an essential tremor?</li>
+<li>Perhaps even Parkinson's?</li>
+<li>Why does Tononi put it here?</li>
+</ul></li>
+<li>What point is Frick making on page 39 when he speaks of the "cone's shape stays the same, though when we see it from different angles, the images formed onto our eyes are differently entirely."</li>
+<li>Frick uses the word "invariants" on page 40. What does it mean?</li>
+<li>Pause a moment to consider the contrast on page 41: "Copernicus was
+gone, Poussin was painting." Why is this a puzzle? 
+<ul class="org-ul">
+<li>100 billion cerebellum and 23 billion cerebrum.</li>
+</ul></li>
+<li>Why is the jester of the story on page 43 called Modulus?</li>
+<li>Comment on the aptness of the two city story as a characterization of cerebellar and cerebral architectures.</li>
+<li>What is color constancy? (last paragraph page 39)</li>
+<li>What is predictive coding?</li>
+<li>There is another element to this story. What is the functional level at which to characterize a complex system? Is there any fundamental change between people in cells doing their jobs and well engineered machines doing the same things? Could we replace a few neurons with machines and leave consciousness unimpaired (<a href="http://www.technologyreview.com/news/511466/microchip-restores-vision/">retinal transplants</a>; cochlear implants). How many replacements would be too many? Why can't we replace them all, at least in theory?</li>
+<li>What does this article have to say about a cerebellar origin for Poussin's tremor?</li>
+<li>The notions of "local interest" and "rapid adjustment" are characterized as remaining outside consciousness. Compare this to Fodor's notion of cognitive encapsulation.</li>
+<li>Could you replace one neuron in the brain with a circuit, two, all?</li>
+<li>Could you replace a neuron with a person? Comes from discussion base of page 43.</li>
+<li>From base of page 44, what is the Pandemonium model of Selfridge and how does it relate here?</li>
+<li>How well does the parable of the two cities actually map onto the differences in communication and connectivity of the cerebellum and cerebrum?</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org6b3f321" class="outline-2">
+<h2 id="org6b3f321"><span class="section-number-2">6</span> 5 Two Blind Patients</h2>
+<div class="outline-text-2" id="text-6">
+<ul class="org-ul">
+<li>Why does Galileo use the term <i>circle</i> of sick painters? Making reference with Dante's journey.</li>
+<li>Analyze the phrase of page 48: "Vision is in the mind, not in the eye."</li>
+<li>What is the origin of the idea of vision as unconscious inference?
+<ul class="org-ul">
+<li>Discussion in <a href="http://rstb.royalsocietypublishing.org/content/352/1358/1121.full-text.pdf">Gregory</a>.</li>
+<li>Source <a href="https://archive.org/stream/lecturesonscient00helmiala#page/262/mode/2up">Helmholtz?</a>/Theory of Empirical Vision (why "empirical"?)</li>
+</ul></li>
+<li>Who was Johannes Kepler</li>
+<li>Why the puzzle about the inverted image? Who first proved that the image on the retina is inverted and how?</li>
+<li>What are microsaccades?</li>
+<li>What is methanol, and what are the effects of methanol poisoning?</li>
+<li>What is the relation between visual imagery and sight?</li>
+<li>Is it possible that one could be blind and not know it? What are the implications of this for subjective theories of consciousness?</li>
+<li>Define confabulaton.</li>
+<li>Define anosoganosia.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org6dbc96e" class="outline-2">
+<h2 id="org6dbc96e"><span class="section-number-2">7</span> 6 Locked In</h2>
+<div class="outline-text-2" id="text-7">
+<ul class="org-ul">
+<li>What are the Seven Deadly Sins?
+<ol class="org-ol">
+<li>luxuria (lechery/lust)</li>
+<li>gula (gluttony)</li>
+<li>avaritia (avarice/greed)</li>
+<li>acedia (sloth/discouragement)</li>
+<li>ira (wrath)</li>
+<li>invidia (envy)</li>
+<li>superbia (pride)</li>
+</ol></li>
+<li>Who is Father P? Why Do you think so?
+Part of the reason for including Pascal here may be his interest in free will and its role in human choice and salvation. This allows us to consider free will, and how it may impact on human choice, and consciousness. It is a trend in contemporary philosophy of mind to deny free will; to argue that it is an illusion.</li>
+<li><p>
+Are there problems with telling people they don't have free will?
+Daniel Dennett thinks so. 
+</p>
+
+<p>
+Might be worth taking a moment to read and discuss. Not Dennett is not actually talking about whether we have Free Will, but whether we should tell people. But do we have it? What are the neuroscientists <a href="http://www.annualreviews.org/doi/full/10.1146/annurev-neuro-060909-153151">saying</a>?
+</p></li>
+<li>Who invented the calculating machine? Who invented programming?
+<ol class="org-ol">
+<li><a href="http://www.computerhistory.org/babbage/">Babbage</a></li>
+<li><a href="http://www.computerhistory.org/babbage/adalovelace/">Ada Lovelace</a></li>
+<li><img src="http://www.computerculture.org/wp-content/uploads/2012/10/jacquard2.jpeg" alt="jacquard2.jpeg" /> and another <img src="http://www.computersciencelab.com/ComputerHistory/HtmlHelp/Images2/JacquardLoom.jpg" alt="JacquardLoom.jpg" />.</li>
+</ol></li>
+<li>What are the limits of computer vision and what is the "gist"?</li>
+<li>What is the locked in syndrome?</li>
+<li>What is central pontine myelinolysis?</li>
+<li>What is a vegetative state? How does that differ from being locked-in?</li>
+<li>Are people in a vegetative state conscious? How could you tell?</li>
+<li>Who was Mersenne, and what is a Mersenne Prime?</li>
+<li>How does the approach of Gallileo compare to that of Owen?</li>
+<li>How do you compare Mersenne and the machine?</li>
+<li>Can you pass the Turing test?</li>
+<li>And what is it and where did it come from?</li>
+<li>What is the alteration in the dying Frenchman? Why is it wrong (maybe), and who was it <a href="http://www.philippedechampaigne.org/Cardinal-Richelieu-(1585-1642)-on-his-Deathbed.html">really</a>?</li>
+<li><p>
+What is the source and full quote from Valentine about her grandfather?
+From the Count of Monte Cristo
+</p>
+
+<blockquote>
+<p>
+It is true," said Valentine, as she passed the end of her slender
+fingers through a small opening in the planks, and permitted
+Maximilian to press his lips to them, "and you are a true and
+faithful friend; but still you acted from motives of self-interest,
+my dear Maximilian, for you well knew that from the moment in which
+you had manifested an opposite spirit all would have been ended
+between us. You promised to bestow on me the friendly affection of
+a brother. For I have no friend but yourself upon earth, who am
+neglected and forgotten by my father, harassed and persecuted by my
+mother-in-law, and left to the sole companionship of a paralyzed
+and speechless old man, whose withered hand can no longer press
+mine, and who can speak to me with the eye alone, although there
+still lingers in his heart the warmest tenderness for his poor
+grandchild. Oh, how bitter a fate is mine, to serve either as a
+victim or an enemy to all who are stronger than myself, while my
+only friend and supporter is a living corpse! Indeed, indeed,
+Maximilian, I am very miserable, and if you love me it must be out
+of pity.
+</p>
+</blockquote></li>
+<li>What is Shadow Hand?</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgaf92956" class="outline-2">
+<h2 id="orgaf92956"><span class="section-number-2">8</span> 7 Amnesia</h2>
+<div class="outline-text-2" id="text-8">
+<ul class="org-ul">
+<li>Is the amnesia of Veronica believable?</li>
+<li>Can you find the hippocampus on a human MRI scan?</li>
+<li>How do you tell one neuron from another anatomically?</li>
+<li>Why would you want to?</li>
+<li>How do you measure the size of the Earth?</li>
+<li>What are the kinds of computer memory, and what specifically is content addressable memory and what are the putative advantages.</li>
+<li>Who was Barbara Strozzi and other than music what may have been her principal occupation?</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org0eff35c" class="outline-2">
+<h2 id="org0eff35c"><span class="section-number-2">9</span> 8 Split Brains</h2>
+<div class="outline-text-2" id="text-9">
+<ul class="org-ul">
+<li>Who was Prince of Venosa?</li>
+<li>What is <i>chromatic</i> music?</li>
+<li>What is hemispherectomy, and what is it used for as a treatment?</li>
+<li>What would you predict should happen to the consciousness of someone who has half their cerebral cortex removed? Why?</li>
+<li>Given that, what would you predict would happen to the consciousness of someone who had the two cerebral cortices separated?</li>
+<li>Given this, and what happens after split brain surgery, are we only one consciousness, or just the verbal one?</li>
+<li>If you think we are just one, could you ``wire'' two people together and make one of the consciousnesses disappear and one persist, or would you have one new, and different one?</li>
+<li>Is the effect of a corpus callosum on consciousness enough to demonstrate a theory of consciousness as integration?</li>
+<li>Why does Tononi choose to have the eyes frozen and unable to move?</li>
+<li>What is the meaning of the name ``Ishma &#x2014; El''?</li>
+<li>Why does Tononi make the claim: one who is blind from birth will never know what it is like to see?</li>
+<li>Is it odd that he uses the example of Indian tribe that always can tell whether someone</li>
+</ul>
+<p>
+is telling the truth?
+</p>
+</div>
+</div>
+<div id="outline-container-org0bcf684" class="outline-2">
+<h2 id="org0bcf684"><span class="section-number-2">10</span> 9 Brain Conflict</h2>
+<div class="outline-text-2" id="text-10">
+<ul class="org-ul">
+<li>What is denial of illness and what is it called?</li>
+<li>What is the relevance of discussing zombies in a theory of mind debate?</li>
+<li>What is the relationship between zombies, automata, and calculating machines?</li>
+<li>Why did Tononi pick Teresa for this chapter?</li>
+<li>What is hysterial blindness and are the hysterically blind faking?</li>
+<li>Could you be blind and not know it? What are the implications of that for consciousness?</li>
+<li>What is Anton's syndrome?</li>
+<li>Should all conscious experiences have an fMRI correlate?</li>
+<li>What is binocular rivalry, alternating strabismus, and monocular flash suppression? What do they contribute to the discussion of perceptual experience and consciousness?</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org5683455" class="outline-2">
+<h2 id="org5683455"><span class="section-number-2">11</span> 10 A Brain Possessed</h2>
+<div class="outline-text-2" id="text-11">
+<ul class="org-ul">
+<li>What is the orgin for the phrase "one of us?"</li>
+<li>What are some of the early ideas regarding the nature of human epilepsy?</li>
+<li>What are some of the current ideas regarding the nature of human epilepsy?</li>
+<li>Does cerebral blood flow change with thinking? How could you tell and who was the first to do so?</li>
+<li>What are some modern approaches to measuring changes of cerebral blood flow with mental activity?</li>
+<li>What does the character Schleppfuss originate?
+<ul class="org-ul">
+<li>Schleppfuss is a character from Doctor Faustus by Thomas Mann.Many authors and playwrights have writte on the theme of Faust where a man sells his soul to the Devil for knowledge and power.</li>
+</ul></li>
+<li>What does the alternations of consciousness seen with an epileptic seizure tell us about consciousness and its relations to neural activity?
+<ul class="org-ul">
+<li>First, that consciousness can be absent when neurons fire; not just when they are silent.</li>
+<li>Second, neurons firing in a coordinated, synchronized fashion cannot be a simple explanation for consciousness.</li>
+<li>Why is this a point to be debated. Do people regard synchronous neural firing as important for consciousness?</li>
+</ul></li>
+<li>General comments on the elegance or subtlety of this chapter?
+<ul class="org-ul">
+<li>I found this chapter to lack a little subtlety of the others. Not sure why the violent imagery is so important for this chapter. And I have literally no idea why a picture of Mengele is here. He did experiment on humans in an unethical fashion, but I am not aware of particular onnection to medieval torture or epilepsy theories.</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org374119b" class="outline-2">
+<h2 id="org374119b"><span class="section-number-2">12</span> 11 A Brain Asleep</h2>
+<div class="outline-text-2" id="text-12">
+<ul class="org-ul">
+<li>Who is the man met at the beginning of this chapter?</li>
+<li>What is your "evidence?"</li>
+<li>What do you make of the dreams? What were Descartes dreams really like?</li>
+<li>What about the claim comparing electrical activity during waking and sleep?</li>
+<li>What can sleep tell us about the neural basis of consciousness?</li>
+<li>What can sleep tell us about what it means to be conscious?</li>
+<li>What happens to the brain during sleep?</li>
+<li>Can you model the brain as singing and yelling voices?</li>
+<li>What does the empiricist say are the implications of sleep for theories of consciousness?</li>
+<li>Why does Tononi keep showing us pictures of people's eyes?</li>
+<li>Explain what is going on in the passage about "&#x2026;explain my seeing the blue of the sky&#x2026;"</li>
+<li>Is Tononi riffing on the Bible with "Thrice I shall ask you this."?</li>
+<li>What is the the loss of color vision called?</li>
+<li>What is the reflex evoked by the pinprick called (page 31)?</li>
+<li>Who doubted the risen Christ?</li>
+<li>An interesting question is if sleep (or whatever other example Frick
+uses) leads to consciousness being abolished why does the same
+"person" come back? What accounts for the continuity of self across
+these breaks?</li>
+<li>What are the implications of vegetative states for theories of consciousness?</li>
+<li>What is the sin of projection?</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgf5f55b1" class="outline-2">
+<h2 id="orgf5f55b1"><span class="section-number-2">13</span> 12 Enigma of Consciousness</h2>
+<div class="outline-text-2" id="text-13">
+<ul class="org-ul">
+<li>What is the source for the blank slate line?</li>
+<li>Philosophically what is being asserted by this blank slate reference?</li>
+<li>The assertion is made that "If the brain ceases &#x2026; nothing is left, not us &#x2026;" While we have certainly seen a lot of evidence that the brain is central to consciousness, have we seen anything to say that the brain is all of consciousness? Are we inferring absence from absence of evidence?</li>
+</ul>
+</div>
+<div id="outline-container-org76ffd8a" class="outline-3">
+<h3 id="org76ffd8a"><span class="section-number-3">13.1</span> Some Review</h3>
+<div class="outline-text-3" id="text-13-1">
+<ul class="org-ul">
+<li>Is consciousness simply a matter of neurons and their numbers or only certain neurons/structures?
+<ul class="org-ul">
+<li>No. Poussin with this supposed cerebellar disorder lost more
+and did not lose consciousness.</li>
+<li>But recall that Copernicus was not conscious. Apparently the
+cerebrum is critical.</li>
+</ul></li>
+<li>Is the cerebellum an impassable sea? What is the evidence for it being a less connected neural structure? 
+<ul class="org-ul">
+<li>Are afferent sensory systems necessary for consciousness?
+<ul class="org-ul">
+<li>The answer in the book seems to be no, but that seems
+arguable. It might be that they are necessary at some point -
+initially - in development, but that they are no longer
+required. And while we may get along well without one or two,
+what if all were gone, what would happen to our conscioius
+state then?</li>
+</ul></li>
+</ul></li>
+<li>Are efferent arcs necessary?
+<ul class="org-ul">
+<li>Apparently not. We have Mersenne communicating with his eye
+blink. And without that we might not know that he was in
+there, but he still could be as Owen's work with vegetative
+state patients seems to suggest.</li>
+</ul></li>
+<li>Is consciousness unitary?
+<ul class="org-ul">
+<li>Apparently, that too, is just appearance or happenstance,
+because with the right kind of <i>disconnection</i> we can be made
+multiple. This doesn't necessitate psychiatric illness, but
+could be related to callosotomy.</li>
+</ul></li>
+<li>The paradox of synchrony. Why is paradoxical?
+<ul class="org-ul">
+<li>As we saw with seizures, when everything is "shouting" the
+same message then consciousness may be lost. Here the
+connectivity seems to allow for this unison, and therefore it
+is the paradox that connectedness is necessary for
+consciousness, and at the same time the route for its
+abolition.</li>
+</ul></li>
+<li>Who is Alturi?</li>
+<li>What's with all this staring at blank walls that is mentioned repeatedly in this chapter.</li>
+<li>Galileo's questions
+<ol class="org-ol">
+<li>Why the brain and not the liver? Why the cerebrum and not the
+cerebellum? Why here and not there?</li>
+<li>what determines what consciousness "is"?</li>
+<li>What gives consciousness its distinctive quality?</li>
+</ol></li>
+<li>What is shown in the figure on page 120.</li>
+<li>What is the function of the little punch cards</li>
+<li>What is the modern counterpart of Alturi's succession of simple steps?</li>
+<li>Why the apple with the bite?</li>
+<li>Contrast Frick's program with Alturi's? 
+<ul class="org-ul">
+<li>Frick wants to find the neural correlates of consciousness to explain it. Alturi wants to find the computational mechanisms to explain it.</li>
+</ul></li>
+<li>Do we need both Alturi's and Frick's approaches?</li>
+<li>Is one approach more valuable than the other?</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org527938b" class="outline-2">
+<h2 id="org527938b"><span class="section-number-2">14</span> Chapter 13 - Photodiode</h2>
+<div class="outline-text-2" id="text-14">
+<p>
+. The first thought experimnent is included in the first notes above on
+  thought experiments.
+. <a href="http://en.wikipedia.org/wiki/Inertia">Principle of Inertia</a>
+. "A thought experimnent to reveal the essence of consciousness." This
+  is the very essence of why
+  <a href="http://plato.stanford.edu/entries/kant-science/#Psy">Kant</a> said
+  psychology could never be a science, and why many believe a science
+  of consciousness cannot exist. The mind cannot observe itself.
+</p>
+
+<p>
+. Binary codes: 1's and 0's
+</p>
+
+<p>
+. Why are pages 126 &#x2014; 129 blank? Who was the first person to do this?
+  Tristam
+  <a href="http://blog.whitneyannetrettien.com/2012/09/tristram-shandy-art-of-black-mourning.html">Shandy</a>?
+. What is a
+  <a href="http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Photodiode.html">photodiode</a>?
+  A <img src="./img/photodiode.jpg" alt="photodiode.jpg" />
+. Is Tononi playing the Imitation Game with the roles reversed? Galileo
+  is playing the role of the mahcine?
+. "&#x2026;if not better?" Is that the reason why Galileo is so sure? The
+  machine is too accurate?
+. What is the difference(similarity) between a photodiode and a neuron?
+. Do you agree that " there must be a
+  <a href="http://plato.stanford.edu/entries/leibniz/#PriSufRea">reason</a> why
+  things are as they are"? Why?
+. What are necessary and sufficient
+  <a href="http://en.wikipedia.org/wiki/Necessity_and_sufficiency">conditions</a>?
+</p>
+</div>
+
+<div id="outline-container-orgd87f5c4" class="outline-3">
+<h3 id="orgd87f5c4"><span class="section-number-3">14.1</span> Notes</h3>
+<div class="outline-text-3" id="text-14-1">
+<p>
+. Imitation Game <a href="http://cogprints.org/499/1/turing.HTML">Article</a>
+. Chinese Room Argument
+  <a href="http://plato.stanford.edu/entries/chinese-room/">Searle</a>
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgca9f972" class="outline-2">
+<h2 id="orgca9f972"><span class="section-number-2">15</span> Chapter 14 - Information</h2>
+<div class="outline-text-2" id="text-15">
+<ol class="org-ol">
+<li>What is meant by the phrase, "&#x2026; he [Alturi] had a smile on his face
+like an enigma."
+
+<ul class="org-ul">
+<li>What does the word
+<a href="http://dictionary.reference.com/browse/enigma">enigma</a> mean?</li>
+<li>What was the
+<a href="https://en.wikipedia.org/wiki/Enigma_machine">enigma machine</a>?</li>
+<li>What did it
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/EnigmaMachineLabeled.jpg" alt="EnigmaMachineLabeled.jpg" />
+like?</li>
+<li>How was Turing related to the
+<a href="http://youtu.be/d2NWPG2gB_A">Enigma</a>?</li>
+<li>Youtube video of the operations of
+<a href="http://youtu.be/ASfAPOiq_eQ">enigma</a></li>
+<li>Where can I see one? Kingston and Alberta each have one on display
+in museums.</li>
+</ul></li>
+
+<li>Who is<a href="http://en.wikipedia.org/wiki/Claude_Shannon">"S"?</a> Claude
+Shannon; one of the great minds of all time.
+
+<ul class="org-ul">
+<li>And tragically, what did he die from? Alzheimer's Disease.</li>
+<li>Here is a nice
+<a href="https://www2.bc.edu/~lewbel/Shannon.html">obiturary</a> that links
+to photos of his juggling machines, and has a reference to his
+juggling theorem.</li>
+</ul></li>
+
+<li>How do you quantify
+<a href="http://schneider.ncifcrf.gov/paper/primer/">information</a>?
+
+<ul class="org-ul">
+<li>Shannon's Original
+<a href="http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf">article</a>
+in the Bell Labs Technical Journal.</li>
+</ul></li>
+
+<li>What is the origin of the word
+<a href="http://articles.latimes.com/2000/jul/29/local/me-61253">bit</a>?</li>
+<li>Discussion questions:
+
+<ul class="org-ul">
+<li>Is it reasonable to say that a human brain contains more
+information than a photodiode?</li>
+<li>Is Shannon's metric for information the only one available? Could
+be a good class scavanger hunt.</li>
+<li><a href="http://en.wikipedia.org/wiki/Fisher_information">Fisher
+Information</a></li>
+<li><a href="https://en.wikipedia.org/wiki/R%C3%A9nyi_entropy">Renyi Information</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Kolmogorov_complexity">Kolmogorov
+Complexity</a></li>
+<li>A source
+<a href="http://trellisnew.tug-libraries.on.ca/vwebv/holdingsInfo?bibId=3248230&amp;sk=WATERLOO&amp;pds_handle=GUEST">book</a>
+for more.</li>
+<li>My favorite
+<a href="http://trellisnew.tug-libraries.on.ca/vwebv/holdingsInfo?searchId=4&amp;recCount=25&amp;recPointer=2&amp;bibId=1112342">textbook</a>
+on information theory.</li>
+<li>What is the justification for connecting this quantitative
+difference to conscious experience.</li>
+</ul></li>
+</ol>
+</div>
+
+<div id="outline-container-org75d7ed5" class="outline-4">
+<h4 id="org75d7ed5"><span class="section-number-4">15.0.1</span> Notes</h4>
+<div class="outline-text-4" id="text-15-0-1">
+<ol class="org-ol">
+<li>The stills are from
+<a href="https://en.wikipedia.org/wiki/Koyaanisqatsi">Koyaanisqatsi</a> an
+avant-garde film without dialogue. The
+<a href="http://youtu.be/tDW-1JIa2gI">trailer</a> on youtube.</li>
+<li>Boltzmann's
+<img src="http://upload.wikimedia.org/wikipedia/commons/6/63/Zentralfriedhof_Vienna_-_Boltzmann.JPG" alt="Zentralfriedhof_Vienna_-_Boltzmann.JPG" /></li>
+<li>Modern version of the beautiful
+<a href="http://youtu.be/cZ34RDn34Ws">machine</a>.</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-org4d6fb07" class="outline-4">
+<h4 id="org4d6fb07"><span class="section-number-4">15.0.2</span> Miscellaneous Notes Extraneous to the Text</h4>
+<div class="outline-text-4" id="text-15-0-2">
+<ol class="org-ol">
+<li>Tyndall from
+<a href="http://www.gutenberg.org/files/24527/24527-h/24527-h.htm">Fragments
+of Science</a> on the inability of every knowing the scientific basis
+of consciousness.</li>
+</ol>
+
+<blockquote>
+<p>
+Granted that a definite thought, and a definite molecular action in
+the brain, occur simultaneously; we do not possess the intellectual
+organ, nor apparently any rudiment of the organ, which would enable us
+to pass, by a process of reasoning, from the one to the other. They
+appear together, but we do not know why. Were our minds and senses so
+expanded, strengthened, and illuminated, as to enable us to see and
+feel the very molecules of the brain; were we capable of following all
+their motions, all their groupings, all their electric discharges, if
+such there be; and were we intimately acquainted with the
+corresponding states of thought and feeling, we should be as far as
+ever from the solution of the problem, 'How are these physical
+processes connected with the facts of consciousness?' The chasm
+between the two classes of phenomena would still remain intellectually
+impassable. Let the consciousness of love, for example, be associated
+with a right-handed spiral motion of the molecules of the brain, and
+the consciousness of hate with a left-handed spiral motion. We should
+then know, when we love, that the motion is in one direction, and,
+when we hate, that the motion is in the other; but the WHY?' would
+remain as unanswerable as before.
+</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="date">Date: 2018-03-07 Wed 00:00</p>
+<p class="author">Author: Britt Anderson</p>
+<p class="date">Created: 2018-05-04 Fri 13:29</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

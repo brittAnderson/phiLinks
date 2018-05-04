@@ -1,0 +1,429 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+#+TITLE: Chapter Based Discussion Questions for Phi
+#+DATE: <2018-03-07 Wed>
+#+AUTHOR: Britt Anderson
+#+EMAIL: britt@uwaterloo.ca
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.1.1 (Org mode 9.1.7)
+* Preface
+  - What is meant by the statement that "...Galileo removed the observer from nature..."
+  - What is a thought experiment and why is Galileo regarded as a master?
+  - What are the goals of the book?
+    - Part One: Describe the relations between brain parts and consciousness, and the relation between consciousness and sleep.
+    - Part Two: Advance a particular theory of consciousness. We will decide whether we agree and what the alter natives are.
+    - Part Three: implications of theories of consciousness.
+* 1 Prologue
+  - Who was Galileo?
+    - Full name.
+    - Date of birth and death.
+    - Family/relations
+    - Principal scientific achievements, and why they are significant.
+    - Scientific methodology. Comparison to practice in psychology.
+  - What are the core questions and positions being advocated in this chapter?
+  - "How could mere matter generate mind?"
+  - What philosophical school is being indicated by the statement "What is, is what can be perceived." Alternatively, to be is to be perceived. Who is the philosopher most associated with this position?
+  - Are the soul and the person being equated in this prologue? What is the name for the philosophical position that distinguishes between the Res Extenso and Res Cogitans (alternatively between brain and mind)? Who is the philosopher of consciousness most associated with this position?
+  - What is the alteration to the /vanitas/ by Pieter Boel?
+  - Can you weigh a soul?
+  - Can you weigh thought?
+  - Why do we believe in other minds?
+  - What is a Vanitas? (picture page 8)
+  - Are mind and soul the same? How would you know? How could you test?
+  - What, in plain language would it mean to have a scientific theory of consciousness? What would you need to explain? What would constitute evidence?
+  - Explain quote on page 12 that starts "If ears, tongues, and noses..."
+* 2 Introduction
+  - What historical figure is "Frick" based on? Why was this person chosen as a guide?
+  - What philosophical school would Francis Crick's philosophy of consciousness fall into?
+  - What neural structure did Crick think was critical for human consciousness?
+  - Describe what theory is being advanced in the italicized paragraph on page 20.
+  - How could you produce scores of Galileo as claimed on page 21?
+  - What structured is pictured on page 21?
+  - Why does the author make a point about Galileo having been right with his telescope?
+  - What theory of consciousness is expressed on page 22 where it equates you with your neurons?
+  - Does that mean neurons are necessary for consciousness? How would you test?
+  - Are their implications for responsibility (see line page 22 about "wanton criminals").
+  - Bottom of page 22 where it talks about not being able to be mistaken about consciousness. Describe this position and who it is ascribed to most commonly.
+  - What is the name of the problem for consciousness that seeks to account for consciousness emerging from physical elements?
+  - What is "dualism?" What are some of the common variants?
+  - What is an "explanatory gap?"
+  - Read the first few paragraphs of this article and discuss what is meant by the term "psycho-physical" identity.
+  - Giordono Bruno is mentioned in the notes as a prominent early believer in heliocentrism. What happened to him? What message does the author expect us to draw from this fact?
+* 3 Cerebrum
+  - Who was Copernicus?
+    Copernicus had a stroke. Apparently awoke from a coma to view the pages of his book and then died peacefully. They identified his skeleton (not found until 2010) by matching DNA to hair from a book in a library in Sweden.
+  - There is an important line here: "the universe was an orderly whole, in which displacing any part would disrupt the entire edifice." Why does it mean? Why is it important?
+  - What is brain death?
+  - Who was Wilder Penfield?
+  - Why is he included here?
+  - What was Penfield's theory of the brain and consciousness?
+  - What is the cerebrum?
+  - What are the black spaces in the MRI scan on page 27?
+  - What is the Greek origin of the term Thalamus?
+    bedroom
+  - What does "Functional Specialization" mean?
+  - Where is the region of the brain specialized for detecting motion?
+  - What is described by "Gallileo thought of the translucent mass, gutlike in its folds..."
+  - Key discussion question: is there a region of the brain for consciousness. Discuss Frick's condition. Evidence pro and con.
+  - What is the term for the condition where people cannot recognize faces? 
+    Prosopagnosia.
+  - "And yet his eyes were open, thought Galileo, and roamed within the orbits. Did any life revolve with them, did anything move inside? Did sparks of thought still stir?" What do you think?
+  - What is "white matter?" (page 29)
+  - Where is Padua?
+  - Why is weird for Galileo to talk of Italy on page 29?
+  - What is a cortical column?
+  - Could you tell what someone was thinking from monitoring their neurons? How would you do this (see page 28 for line about red and yellow)?
+  - What is the ascending reticular activating system?
+  - Define ontology has used in the quote: "... annunciating a principle of causal /ontology/ [italics added]..."
+  - Why is the Cartesian Theatre a problem (or why is the homonculus)? Page 30
+* 4 Cerebellum
+  - Who is Fodor and why are the concepts of modularity and penetrability pertinent to the first few lines of this chapter?
+  - Why is Nicolas Poussin included here do you think?
+    + Many of his themes relate to Ovid's Metamorphoses - which is the likely source for the Daphne episode above
+  - Who were the [[http://books.google.ca/books?id=QGMRBwz7oWsC&pg=PA77&lpg=PA77&dq=pope+protomedicus&source=bl&ots=3rNQ7FjZrB&sig=jnFdJcz1BsBpjnqpp_X5SY6ufxo&hl=en&sa=X&ei=VyBzVJj9DZKMyASP0IKwCA&ved=0CB8Q6AEwAA#v=onepage&q=pope%20protomedicus&f=false][Protomedicus]]?
+  - What are [[https://www.google.ca/search?q=putti&num=20&sa=X&hl=en&biw=1434&bih=759&tbm=isch&tbo=u&source=univ&ei=jyBzVLaBJ4WgyAS97IBw&ved=0CDcQsAQ][Putti]]?
+  - Is a cerebellum [[http://brain.oxfordjournals.org/content/133/3/652][necessary]] for consciousness? What has more neurons; the cerebrum or the cerebellum? Why might this be a problem for neural theories of consciousness that treat the neuron as the key information processing unit? See also below for neuron numbers.
+  - The Hand Tremor Questions
+    - Is this a cerebellar tremor?
+    - Or is it more likely an essential tremor?
+    - Perhaps even Parkinson's?
+    - Why does Tononi put it here?
+  - What point is Frick making on page 39 when he speaks of the "cone's shape stays the same, though when we see it from different angles, the images formed onto our eyes are differently entirely."
+  - Frick uses the word "invariants" on page 40. What does it mean?
+  - Pause a moment to consider the contrast on page 41: "Copernicus was
+   gone, Poussin was painting." Why is this a puzzle? 
+    - 100 billion cerebellum and 23 billion cerebrum.
+  - Why is the jester of the story on page 43 called Modulus?
+  - Comment on the aptness of the two city story as a characterization of cerebellar and cerebral architectures.
+  - What is color constancy? (last paragraph page 39)
+  - What is predictive coding?
+  - There is another element to this story. What is the functional level at which to characterize a complex system? Is there any fundamental change between people in cells doing their jobs and well engineered machines doing the same things? Could we replace a few neurons with machines and leave consciousness unimpaired ([[http://www.technologyreview.com/news/511466/microchip-restores-vision/][retinal transplants]]; cochlear implants). How many replacements would be too many? Why can't we replace them all, at least in theory?
+  - What does this article have to say about a cerebellar origin for Poussin's tremor?
+  - The notions of "local interest" and "rapid adjustment" are characterized as remaining outside consciousness. Compare this to Fodor's notion of cognitive encapsulation.
+  - Could you replace one neuron in the brain with a circuit, two, all?
+  - Could you replace a neuron with a person? Comes from discussion base of page 43.
+  - From base of page 44, what is the Pandemonium model of Selfridge and how does it relate here?
+  - How well does the parable of the two cities actually map onto the differences in communication and connectivity of the cerebellum and cerebrum?
+* 5 Two Blind Patients
+  - Why does Galileo use the term /circle/ of sick painters? Making reference with Dante's journey.
+  - Analyze the phrase of page 48: "Vision is in the mind, not in the eye."
+  - What is the origin of the idea of vision as unconscious inference?
+    - Discussion in [[http://rstb.royalsocietypublishing.org/content/352/1358/1121.full-text.pdf][Gregory]].
+    - Source [[https://archive.org/stream/lecturesonscient00helmiala#page/262/mode/2up][Helmholtz?]]/Theory of Empirical Vision (why "empirical"?)
+  - Who was Johannes Kepler
+  - Why the puzzle about the inverted image? Who first proved that the image on the retina is inverted and how?
+  - What are microsaccades?
+  - What is methanol, and what are the effects of methanol poisoning?
+  - What is the relation between visual imagery and sight?
+  - Is it possible that one could be blind and not know it? What are the implications of this for subjective theories of consciousness?
+  - Define confabulaton.
+  -  Define anosoganosia.
+* 6 Locked In
+  - What are the Seven Deadly Sins?
+    1. luxuria (lechery/lust)
+    2. gula (gluttony)
+    3. avaritia (avarice/greed)
+    4. acedia (sloth/discouragement)
+    5. ira (wrath)
+    6. invidia (envy)
+    7. superbia (pride)
+  - Who is Father P? Why Do you think so?
+    Part of the reason for including Pascal here may be his interest in free will and its role in human choice and salvation. This allows us to consider free will, and how it may impact on human choice, and consciousness. It is a trend in contemporary philosophy of mind to deny free will; to argue that it is an illusion.
+  - Are there problems with telling people they don't have free will?
+    Daniel Dennett thinks so. 
+   
+    Might be worth taking a moment to read and discuss. Not Dennett is not actually talking about whether we have Free Will, but whether we should tell people. But do we have it? What are the neuroscientists [[http://www.annualreviews.org/doi/full/10.1146/annurev-neuro-060909-153151][saying]]?
+  - Who invented the calculating machine? Who invented programming?
+    1. [[http://www.computerhistory.org/babbage/][Babbage]]
+    2. [[http://www.computerhistory.org/babbage/adalovelace/][Ada Lovelace]]
+    3. [[http://www.computerculture.org/wp-content/uploads/2012/10/jacquard2.jpeg]] and another [[http://www.computersciencelab.com/ComputerHistory/HtmlHelp/Images2/JacquardLoom.jpg]].
+  - What are the limits of computer vision and what is the "gist"?
+  - What is the locked in syndrome?
+  - What is central pontine myelinolysis?
+  - What is a vegetative state? How does that differ from being locked-in?
+  - Are people in a vegetative state conscious? How could you tell?
+  - Who was Mersenne, and what is a Mersenne Prime?
+  - How does the approach of Gallileo compare to that of Owen?
+  - How do you compare Mersenne and the machine?
+  - Can you pass the Turing test?
+  - And what is it and where did it come from?
+  - What is the alteration in the dying Frenchman? Why is it wrong (maybe), and who was it [[http://www.philippedechampaigne.org/Cardinal-Richelieu-(1585-1642)-on-his-Deathbed.html][really]]?
+  - What is the source and full quote from Valentine about her grandfather?
+    From the Count of Monte Cristo
+
+    #+BEGIN_QUOTE
+    It is true," said Valentine, as she passed the end of her slender
+    fingers through a small opening in the planks, and permitted
+    Maximilian to press his lips to them, "and you are a true and
+    faithful friend; but still you acted from motives of self-interest,
+    my dear Maximilian, for you well knew that from the moment in which
+    you had manifested an opposite spirit all would have been ended
+    between us. You promised to bestow on me the friendly affection of
+    a brother. For I have no friend but yourself upon earth, who am
+    neglected and forgotten by my father, harassed and persecuted by my
+    mother-in-law, and left to the sole companionship of a paralyzed
+    and speechless old man, whose withered hand can no longer press
+    mine, and who can speak to me with the eye alone, although there
+    still lingers in his heart the warmest tenderness for his poor
+    grandchild. Oh, how bitter a fate is mine, to serve either as a
+    victim or an enemy to all who are stronger than myself, while my
+    only friend and supporter is a living corpse! Indeed, indeed,
+    Maximilian, I am very miserable, and if you love me it must be out
+    of pity.
+  #+END_QUOTE
+  - What is Shadow Hand?
+* 7 Amnesia
+  - Is the amnesia of Veronica believable?
+  - Can you find the hippocampus on a human MRI scan?
+  - How do you tell one neuron from another anatomically?
+  - Why would you want to?
+  - How do you measure the size of the Earth?
+  - What are the kinds of computer memory, and what specifically is content addressable memory and what are the putative advantages.
+  - Who was Barbara Strozzi and other than music what may have been her principal occupation?
+* 8 Split Brains
+  - Who was Prince of Venosa?
+  - What is /chromatic/ music?
+  - What is hemispherectomy, and what is it used for as a treatment?
+  - What would you predict should happen to the consciousness of someone who has half their cerebral cortex removed? Why?
+  - Given that, what would you predict would happen to the consciousness of someone who had the two cerebral cortices separated?
+  - Given this, and what happens after split brain surgery, are we only one consciousness, or just the verbal one?
+  - If you think we are just one, could you ``wire'' two people together and make one of the consciousnesses disappear and one persist, or would you have one new, and different one?
+  - Is the effect of a corpus callosum on consciousness enough to demonstrate a theory of consciousness as integration?
+  - Why does Tononi choose to have the eyes frozen and unable to move?
+  - What is the meaning of the name ``Ishma --- El''?
+  - Why does Tononi make the claim: one who is blind from birth will never know what it is like to see?
+  - Is it odd that he uses the example of Indian tribe that always can tell whether someone
+ is telling the truth?
+* 9 Brain Conflict
+  - What is denial of illness and what is it called?
+  - What is the relevance of discussing zombies in a theory of mind debate?
+  - What is the relationship between zombies, automata, and calculating machines?
+  - Why did Tononi pick Teresa for this chapter?
+  - What is hysterial blindness and are the hysterically blind faking?
+  - Could you be blind and not know it? What are the implications of that for consciousness?
+  - What is Anton's syndrome?
+  - Should all conscious experiences have an fMRI correlate?
+  - What is binocular rivalry, alternating strabismus, and monocular flash suppression? What do they contribute to the discussion of perceptual experience and consciousness?
+* 10 A Brain Possessed
+  - What is the orgin for the phrase "one of us?"
+  - What are some of the early ideas regarding the nature of human epilepsy?
+  - What are some of the current ideas regarding the nature of human epilepsy?
+  - Does cerebral blood flow change with thinking? How could you tell and who was the first to do so?
+  - What are some modern approaches to measuring changes of cerebral blood flow with mental activity?
+  - What does the character Schleppfuss originate?
+    - Schleppfuss is a character from Doctor Faustus by Thomas Mann.Many authors and playwrights have writte on the theme of Faust where a man sells his soul to the Devil for knowledge and power.
+  - What does the alternations of consciousness seen with an epileptic seizure tell us about consciousness and its relations to neural activity?
+    - First, that consciousness can be absent when neurons fire; not just when they are silent.
+    - Second, neurons firing in a coordinated, synchronized fashion cannot be a simple explanation for consciousness.
+    - Why is this a point to be debated. Do people regard synchronous neural firing as important for consciousness?
+  - General comments on the elegance or subtlety of this chapter?
+    - I found this chapter to lack a little subtlety of the others. Not sure why the violent imagery is so important for this chapter. And I have literally no idea why a picture of Mengele is here. He did experiment on humans in an unethical fashion, but I am not aware of particular onnection to medieval torture or epilepsy theories.
+* 11 A Brain Asleep
+  - Who is the man met at the beginning of this chapter?
+  - What is your "evidence?"
+  - What do you make of the dreams? What were Descartes dreams really like?
+  - What about the claim comparing electrical activity during waking and sleep?
+  - What can sleep tell us about the neural basis of consciousness?
+  - What can sleep tell us about what it means to be conscious?
+  - What happens to the brain during sleep?
+  - Can you model the brain as singing and yelling voices?
+  - What does the empiricist say are the implications of sleep for theories of consciousness?
+  - Why does Tononi keep showing us pictures of people's eyes?
+  - Explain what is going on in the passage about "...explain my seeing the blue of the sky..."
+  - Is Tononi riffing on the Bible with "Thrice I shall ask you this."?
+  - What is the the loss of color vision called?
+  - What is the reflex evoked by the pinprick called (page 31)?
+  - Who doubted the risen Christ?
+  - An interesting question is if sleep (or whatever other example Frick
+    uses) leads to consciousness being abolished why does the same
+    "person" come back? What accounts for the continuity of self across
+    these breaks?
+  - What are the implications of vegetative states for theories of consciousness?
+  - What is the sin of projection?
+* 12 Enigma of Consciousness
+  - What is the source for the blank slate line?
+  - Philosophically what is being asserted by this blank slate reference?
+  - The assertion is made that "If the brain ceases ... nothing is left, not us ..." While we have certainly seen a lot of evidence that the brain is central to consciousness, have we seen anything to say that the brain is all of consciousness? Are we inferring absence from absence of evidence?
+** Some Review
+   - Is consciousness simply a matter of neurons and their numbers or only certain neurons/structures?
+     - No. Poussin with this supposed cerebellar disorder lost more
+       and did not lose consciousness.
+     - But recall that Copernicus was not conscious. Apparently the
+       cerebrum is critical.
+   - Is the cerebellum an impassable sea? What is the evidence for it being a less connected neural structure? 
+     - Are afferent sensory systems necessary for consciousness?
+       - The answer in the book seems to be no, but that seems
+         arguable. It might be that they are necessary at some point -
+         initially - in development, but that they are no longer
+         required. And while we may get along well without one or two,
+         what if all were gone, what would happen to our conscioius
+         state then?
+   - Are efferent arcs necessary?
+     - Apparently not. We have Mersenne communicating with his eye
+       blink. And without that we might not know that he was in
+       there, but he still could be as Owen's work with vegetative
+       state patients seems to suggest.
+   - Is consciousness unitary?
+     - Apparently, that too, is just appearance or happenstance,
+       because with the right kind of /disconnection/ we can be made
+       multiple. This doesn't necessitate psychiatric illness, but
+       could be related to callosotomy.
+   - The paradox of synchrony. Why is paradoxical?
+     - As we saw with seizures, when everything is "shouting" the
+       same message then consciousness may be lost. Here the
+       connectivity seems to allow for this unison, and therefore it
+       is the paradox that connectedness is necessary for
+       consciousness, and at the same time the route for its
+       abolition.
+   - Who is Alturi?
+   - What's with all this staring at blank walls that is mentioned repeatedly in this chapter.
+   - Galileo's questions
+     1. Why the brain and not the liver? Why the cerebrum and not the
+        cerebellum? Why here and not there?
+     2. what determines what consciousness "is"?
+     3. What gives consciousness its distinctive quality?
+   - What is shown in the figure on page 120.
+   - What is the function of the little punch cards
+   - What is the modern counterpart of Alturi's succession of simple steps?
+   - Why the apple with the bite?
+   - Contrast Frick's program with Alturi's? 
+     - Frick wants to find the neural correlates of consciousness to explain it. Alturi wants to find the computational mechanisms to explain it.
+   - Do we need both Alturi's and Frick's approaches?
+   - Is one approach more valuable than the other?
+* Chapter 13 - Photodiode
+
+. The first thought experimnent is included in the first notes above on
+  thought experiments.
+. [[http://en.wikipedia.org/wiki/Inertia][Principle of Inertia]]
+. "A thought experimnent to reveal the essence of consciousness." This
+  is the very essence of why
+  [[http://plato.stanford.edu/entries/kant-science/#Psy][Kant]] said
+  psychology could never be a science, and why many believe a science
+  of consciousness cannot exist. The mind cannot observe itself.
+
+. Binary codes: 1's and 0's
+
+. Why are pages 126 --- 129 blank? Who was the first person to do this?
+  Tristam
+  [[http://blog.whitneyannetrettien.com/2012/09/tristram-shandy-art-of-black-mourning.html][Shandy]]?
+. What is a
+  [[http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Photodiode.html][photodiode]]?
+  A [[./img/photodiode.jpg]]
+. Is Tononi playing the Imitation Game with the roles reversed? Galileo
+  is playing the role of the mahcine?
+. "...if not better?" Is that the reason why Galileo is so sure? The
+  machine is too accurate?
+. What is the difference(similarity) between a photodiode and a neuron?
+. Do you agree that " there must be a
+  [[http://plato.stanford.edu/entries/leibniz/#PriSufRea][reason]] why
+  things are as they are"? Why?
+. What are necessary and sufficient
+  [[http://en.wikipedia.org/wiki/Necessity_and_sufficiency][conditions]]?
+
+** Notes
+
+. Imitation Game [[http://cogprints.org/499/1/turing.HTML][Article]]
+. Chinese Room Argument
+  [[http://plato.stanford.edu/entries/chinese-room/][Searle]]
+
+* Chapter 14 - Information
+
+1. What is meant by the phrase, "... he [Alturi] had a smile on his face
+   like an enigma."
+
+   -  What does the word
+      [[http://dictionary.reference.com/browse/enigma][enigma]] mean?
+   -  What was the
+      [[https://en.wikipedia.org/wiki/Enigma_machine][enigma machine]]?
+   -  What did it
+      [[https://upload.wikimedia.org/wikipedia/commons/3/3e/EnigmaMachineLabeled.jpg]]
+      like?
+   -  How was Turing related to the
+      [[http://youtu.be/d2NWPG2gB_A][Enigma]]?
+   -  Youtube video of the operations of
+      [[http://youtu.be/ASfAPOiq_eQ][enigma]]
+   -  Where can I see one? Kingston and Alberta each have one on display
+      in museums.
+
+2. Who is[[http://en.wikipedia.org/wiki/Claude_Shannon]["S"?]] Claude
+   Shannon; one of the great minds of all time.
+
+   -  And tragically, what did he die from? Alzheimer's Disease.
+   -  Here is a nice
+      [[https://www2.bc.edu/~lewbel/Shannon.html][obiturary]] that links
+      to photos of his juggling machines, and has a reference to his
+      juggling theorem.
+
+3. How do you quantify
+   [[http://schneider.ncifcrf.gov/paper/primer/][information]]?
+
+   -  Shannon's Original
+      [[http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf][article]]
+      in the Bell Labs Technical Journal.
+
+4. What is the origin of the word
+   [[http://articles.latimes.com/2000/jul/29/local/me-61253][bit]]?
+5. Discussion questions:
+
+   -  Is it reasonable to say that a human brain contains more
+      information than a photodiode?
+   -  Is Shannon's metric for information the only one available? Could
+      be a good class scavanger hunt.
+   -  [[http://en.wikipedia.org/wiki/Fisher_information][Fisher
+      Information]]
+   -  [[https://en.wikipedia.org/wiki/Rényi_entropy][Renyi Information]]
+   -  [[http://en.wikipedia.org/wiki/Kolmogorov_complexity][Kolmogorov
+      Complexity]]
+   -  A source
+      [[http://trellisnew.tug-libraries.on.ca/vwebv/holdingsInfo?bibId=3248230&sk=WATERLOO&pds_handle=GUEST][book]]
+      for more.
+   -  My favorite
+      [[http://trellisnew.tug-libraries.on.ca/vwebv/holdingsInfo?searchId=4&recCount=25&recPointer=2&bibId=1112342][textbook]]
+      on information theory.
+   -  What is the justification for connecting this quantitative
+      difference to conscious experience.
+
+*** Notes
+
+1. The stills are from
+   [[https://en.wikipedia.org/wiki/Koyaanisqatsi][Koyaanisqatsi]] an
+   avant-garde film without dialogue. The
+   [[http://youtu.be/tDW-1JIa2gI][trailer]] on youtube.
+2. Boltzmann's
+   [[http://upload.wikimedia.org/wikipedia/commons/6/63/Zentralfriedhof_Vienna_-_Boltzmann.JPG]]
+3. Modern version of the beautiful
+   [[http://youtu.be/cZ34RDn34Ws][machine]].
+
+*** Miscellaneous Notes Extraneous to the Text
+
+1. Tyndall from
+   [[http://www.gutenberg.org/files/24527/24527-h/24527-h.htm][Fragments
+   of Science]] on the inability of every knowing the scientific basis
+   of consciousness.
+
+#+BEGIN_QUOTE
+  Granted that a definite thought, and a definite molecular action in
+  the brain, occur simultaneously; we do not possess the intellectual
+  organ, nor apparently any rudiment of the organ, which would enable us
+  to pass, by a process of reasoning, from the one to the other. They
+  appear together, but we do not know why. Were our minds and senses so
+  expanded, strengthened, and illuminated, as to enable us to see and
+  feel the very molecules of the brain; were we capable of following all
+  their motions, all their groupings, all their electric discharges, if
+  such there be; and were we intimately acquainted with the
+  corresponding states of thought and feeling, we should be as far as
+  ever from the solution of the problem, 'How are these physical
+  processes connected with the facts of consciousness?' The chasm
+  between the two classes of phenomena would still remain intellectually
+  impassable. Let the consciousness of love, for example, be associated
+  with a right-handed spiral motion of the molecules of the brain, and
+  the consciousness of hate with a left-handed spiral motion. We should
+  then know, when we love, that the motion is in one direction, and,
+  when we hate, that the motion is in the other; but the WHY?' would
+  remain as unanswerable as before.
+#+END_QUOTE
