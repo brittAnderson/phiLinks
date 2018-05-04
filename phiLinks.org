@@ -31,14 +31,17 @@
     - [[https://timesmachine.nytimes.com/svc/tmach/v1/refer?res=9D07E5DC123EE033A25752C1A9659C946697D6CF&pdf=true][Can you weigh the soul? (pdf)]]
     - [[http://brain.oxfordjournals.org/content/early/2014/01/09/brain.awt352.extract][Weighing brain activity]]
 ** Extra Content
+   - [[https://www.britannica.com/art/vanitas-art][What is a /vanitas/?]]
    - [[http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19981119-0900a.mp3][Edelman on Consciousness Podcast (mp3)]]
    - [[http://download.guardian.co.uk/audio/kip/science/series/science/1330106572501/9137/gnl.sci.120227.jp.science_weekly_conscious.mp3][Another consciousness podcast - general (mp3)]]
+   - [[http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0114.1983.tb00207.x/full][The Explanatory Gap (Levine, 1983)]]
 * 2 Introduction
 ** Francis Crick
    - [[http://www.nobelprize.org/nobel_prizes/medicine/laureates/1962/crick-bio.html][Nobel Prize Biography]]
    - [[https://www.youtube.com/watch?v=qzs2aAcfOTQ][Video - Conversation on Consciousness 1994]]
    - [[http://rstb.royalsocietypublishing.org/content/360/1458/1271.short][Crick and Koch article on Claustrum (2005)]]
    - [[https://upload.wikimedia.org/wikipedia/commons/d/d2/Gray742-emphasizing-claustrum.png][Illustration of the Claustrum]]
+   - [[https://www.medicalimageanalysisjournal.com/article/S0010-9452(11)00278-4/abstract?code=medima-site][Von Economo Neurons]]
 ** Concepts
    - [[https://en.wikipedia.org/wiki/Heliocentrism][Heliocentrism]]
    - [[http://en.wikipedia.org/wiki/Galileo_affair][Galileo and Heliocentrism]]
