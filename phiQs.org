@@ -137,7 +137,7 @@
   - Are there problems with telling people they don't have free will?
     Daniel Dennett thinks so. 
    
-    Might be worth taking a moment to read and discuss. Not Dennett is not actually talking about whether we have Free Will, but whether we should tell people. But do we have it? What are the neuroscientists [[http://www.annualreviews.org/doi/full/10.1146/annurev-neuro-060909-153151][saying]]?
+    Might be worth taking a moment to read and discuss. Note Dennett is not actually talking about whether we have Free Will, but whether we should tell people. But do we have it? What are the neuroscientists [[http://www.annualreviews.org/doi/full/10.1146/annurev-neuro-060909-153151][saying]]?
   - Who invented the calculating machine? Who invented programming?
     1. [[http://www.computerhistory.org/babbage/][Babbage]]
     2. [[http://www.computerhistory.org/babbage/adalovelace/][Ada Lovelace]]
@@ -148,7 +148,7 @@
   - What is a vegetative state? How does that differ from being locked-in?
   - Are people in a vegetative state conscious? How could you tell?
   - Who was Mersenne, and what is a Mersenne Prime?
-  - How does the approach of Gallileo compare to that of Owen?
+  - How does the approach of Gallileo compare to that of Adrian Owen?
   - How do you compare Mersenne and the machine?
   - Can you pass the Turing test?
   - And what is it and where did it come from?

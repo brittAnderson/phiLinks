@@ -119,7 +119,7 @@
 ** Cerebellar/Cerebral Facts and Figures
    - [[http://brain.oxfordjournals.org/content/133/3/652][Life without a cerebellum]]
    - [[http://onlinelibrary.wiley.com/doi/10.1002/cne.903260405/abstract;jsessionid=17130AAEBEBE9D5323824004F8CB6274.f03t02][Cerebellar Neuron Number]]
-   - [[http://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-9861(19970728)384:2<312::AID-CNE10>3.0.CO;2-K/abstract][Cerebral Neuron Number]]
+   - [[https://www.ncbi.nlm.nih.gov/pubmed/9215725][Cerebral Neuron Number]]
 * 5 Two Blind Patients
 ** Vision as Inference
   - Perception and Knowledge by [[http://rstb.royalsocietypublishing.org/content/352/1358/1121.full-text.pdf][Gregory]].
@@ -132,6 +132,9 @@
   - Methanol [[http://en.wikipedia.org/wiki/Methanol#Toxicity][poisoning]]
     [[http://www.sciencedirect.com/science/article/pii/0166223694900574][Imagery and Representation]]
   - Anton's syndrom ([[http://www.sciencedirect.com/science/article/pii/002839329500070J][anosognosia for cortical blindness]]).
+  - [[http://www.psychiatrictimes.com/cognitive-disorders/confabulation-bridge-between-neurology-and-psychiatry][Confabulation - a bridge between neurology and psychiatry]]
+  - [[http://michaelbach.de/ot/cog-blindSpot/index.html][Blind Spot Demonstration]]
+  - [[http://psycnet.apa.org/record/1981-06714-001][The Imagery Debate (Pylyshyn, 1981)]]
 ** Lomazzo
   - [[http://en.wikipedia.org/wiki/Gian_Paolo_Lomazzo][Gian Paolo Lomazzo]]
   - [[http://onlinelibrary.wiley.com/doi/10.1111/j.1477-4658.1987.tb00120.x/full][Commentary on the style of Lomazzo]]
