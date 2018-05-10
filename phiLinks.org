@@ -293,99 +293,47 @@
 ** Photodiodes
   - [[http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Photodiode.html][Photodiodes Explained]]?
   - [[https://www.thorlabs.com/images/xlarge/12174-xl.jpg][Image of a Photodiode]]
-* Chapter 14 - Information :noexport:
+* 14 Information
+  - The word [[http://dictionary.reference.com/browse/enigma][enigma]] defined?
+  - The [[https://en.wikipedia.org/wiki/Enigma_machine][enigma machine]]?
+  - The enigma [[https://upload.wikimedia.org/wikipedia/commons/3/3e/EnigmaMachineLabeled.jpg][pictured]]
+  - Turing's relation to the [[http://youtu.be/d2NWPG2gB_A][Enigma]]?
+  - Video of an [[http://youtu.be/ASfAPOiq_eQ][enigma]]
+  - Claude Shannon's [[https://www2.bc.edu/~lewbel/Shannon.html][obiturary]] 
+  - How do you quantify [[http://schneider.ncifcrf.gov/paper/primer/][information]]?
+  - Shannon's Bell Lab Technical Journal [[http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf][article]]
+  - Origin of the word [[http://articles.latimes.com/2000/jul/29/local/me-61253][bit]]?
+  - Discussion questions:
+  - [[http://en.wikipedia.org/wiki/Fisher_information][Fisher Information]]
+  - [[https://en.wikipedia.org/wiki/Rényi_entropy][Renyi Information]]
+  - [[http://en.wikipedia.org/wiki/Kolmogorov_complexity][Kolmogorov Complexity]]
+  - A source [[http://trellisnew.tug-libraries.on.ca/vwebv/holdingsInfo?bibId=3248230&sk=WATERLOO&pds_handle=GUEST][book]] for more.
+  - My favorite [[http://trellisnew.tug-libraries.on.ca/vwebv/holdingsInfo?searchId=4&recCount=25&recPointer=2&bibId=1112342][textbook]] on information theory.
+  - [[https://en.wikipedia.org/wiki/Koyaanisqatsi][Koyaanisqatsi]] an avant-garde film without dialogue.
+  - The [[http://youtu.be/tDW-1JIa2gI][trailer]] on youtube.
+  - Boltzmann's [[http://upload.wikimedia.org/wikipedia/commons/6/63/Zentralfriedhof_Vienna_-_Boltzmann.JPG][Grave]]
+  - Modern version of the beautiful [[http://youtu.be/cZ34RDn34Ws][machine]].
+  - Tyndall from [[http://www.gutenberg.org/files/24527/24527-h/24527-h.htm][Fragments of Science]] on the inability of every knowing the scientific basis of consciousness.
 
-1. What is meant by the phrase, "... he [Alturi] had a smile on his face
-   like an enigma."
-
-   -  What does the word
-      [[http://dictionary.reference.com/browse/enigma][enigma]] mean?
-   -  What was the
-      [[https://en.wikipedia.org/wiki/Enigma_machine][enigma machine]]?
-   -  What did it
-      [[https://upload.wikimedia.org/wikipedia/commons/3/3e/EnigmaMachineLabeled.jpg]]
-      like?
-   -  How was Turing related to the
-      [[http://youtu.be/d2NWPG2gB_A][Enigma]]?
-   -  Youtube video of the operations of
-      [[http://youtu.be/ASfAPOiq_eQ][enigma]]
-   -  Where can I see one? Kingston and Alberta each have one on display
-      in museums.
-
-2. Who is[[http://en.wikipedia.org/wiki/Claude_Shannon]["S"?]] Claude
-   Shannon; one of the great minds of all time.
-
-   -  And tragically, what did he die from? Alzheimer's Disease.
-   -  Here is a nice
-      [[https://www2.bc.edu/~lewbel/Shannon.html][obiturary]] that links
-      to photos of his juggling machines, and has a reference to his
-      juggling theorem.
-
-3. How do you quantify
-   [[http://schneider.ncifcrf.gov/paper/primer/][information]]?
-
-   -  Shannon's Original
-      [[http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf][article]]
-      in the Bell Labs Technical Journal.
-
-4. What is the origin of the word
-   [[http://articles.latimes.com/2000/jul/29/local/me-61253][bit]]?
-5. Discussion questions:
-
-   -  Is it reasonable to say that a human brain contains more
-      information than a photodiode?
-   -  Is Shannon's metric for information the only one available? Could
-      be a good class scavanger hunt.
-   -  [[http://en.wikipedia.org/wiki/Fisher_information][Fisher
-      Information]]
-   -  [[https://en.wikipedia.org/wiki/Rényi_entropy][Renyi Information]]
-   -  [[http://en.wikipedia.org/wiki/Kolmogorov_complexity][Kolmogorov
-      Complexity]]
-   -  A source
-      [[http://trellisnew.tug-libraries.on.ca/vwebv/holdingsInfo?bibId=3248230&sk=WATERLOO&pds_handle=GUEST][book]]
-      for more.
-   -  My favorite
-      [[http://trellisnew.tug-libraries.on.ca/vwebv/holdingsInfo?searchId=4&recCount=25&recPointer=2&bibId=1112342][textbook]]
-      on information theory.
-   -  What is the justification for connecting this quantitative
-      difference to conscious experience.
-
-*** Notes
-
-1. The stills are from
-   [[https://en.wikipedia.org/wiki/Koyaanisqatsi][Koyaanisqatsi]] an
-   avant-garde film without dialogue. The
-   [[http://youtu.be/tDW-1JIa2gI][trailer]] on youtube.
-2. Boltzmann's
-   [[http://upload.wikimedia.org/wikipedia/commons/6/63/Zentralfriedhof_Vienna_-_Boltzmann.JPG]]
-3. Modern version of the beautiful
-   [[http://youtu.be/cZ34RDn34Ws][machine]].
-
-*** Miscellaneous Notes Extraneous to the Text
-
-1. Tyndall from
-   [[http://www.gutenberg.org/files/24527/24527-h/24527-h.htm][Fragments
-   of Science]] on the inability of every knowing the scientific basis
-   of consciousness.
-
-#+BEGIN_QUOTE
-  Granted that a definite thought, and a definite molecular action in
-  the brain, occur simultaneously; we do not possess the intellectual
-  organ, nor apparently any rudiment of the organ, which would enable us
-  to pass, by a process of reasoning, from the one to the other. They
-  appear together, but we do not know why. Were our minds and senses so
-  expanded, strengthened, and illuminated, as to enable us to see and
-  feel the very molecules of the brain; were we capable of following all
-  their motions, all their groupings, all their electric discharges, if
-  such there be; and were we intimately acquainted with the
-  corresponding states of thought and feeling, we should be as far as
-  ever from the solution of the problem, 'How are these physical
-  processes connected with the facts of consciousness?' The chasm
-  between the two classes of phenomena would still remain intellectually
-  impassable. Let the consciousness of love, for example, be associated
-  with a right-handed spiral motion of the molecules of the brain, and
-  the consciousness of hate with a left-handed spiral motion. We should
-  then know, when we love, that the motion is in one direction, and,
-  when we hate, that the motion is in the other; but the WHY?' would
-  remain as unanswerable as before.
-#+END_QUOTE
+    #+BEGIN_QUOTE
+      Granted that a definite thought, and a definite molecular action in
+      the brain, occur simultaneously; we do not possess the intellectual
+      organ, nor apparently any rudiment of the organ, which would enable us
+      to pass, by a process of reasoning, from the one to the other. They
+      appear together, but we do not know why. Were our minds and senses so
+      expanded, strengthened, and illuminated, as to enable us to see and
+      feel the very molecules of the brain; were we capable of following all
+      their motions, all their groupings, all their electric discharges, if
+      such there be; and were we intimately acquainted with the
+      corresponding states of thought and feeling, we should be as far as
+      ever from the solution of the problem, 'How are these physical
+      processes connected with the facts of consciousness?' The chasm
+      between the two classes of phenomena would still remain intellectually
+      impassable. Let the consciousness of love, for example, be associated
+      with a right-handed spiral motion of the molecules of the brain, and
+      the consciousness of hate with a left-handed spiral motion. We should
+      then know, when we love, that the motion is in one direction, and,
+      when we hate, that the motion is in the other; but the WHY?' would
+      remain as unanswerable as before.
+    #+END_QUOTE
+* 15 
