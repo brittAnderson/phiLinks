@@ -247,13 +247,19 @@
    - [[http://link.springer.com/chapter/10.1007/978-1-4614-0308-1_10][Near-infrared Spectroscopy]]
 ** Miscellaneous
    - [[https://en.wikipedia.org/wiki/Paracelsus][Paracelsus (Wikipedia)]]
+   - [[https://en.wikipedia.org/wiki/Camphor][Camphor (wikipedia]]
    - [[http://youtu.be/hqTyEKB64EE][Mahler's Kindertotenlieder 1 (Youtube)]]
+   - [[https://youtu.be/d3Q6FVhqLY0][Dreyer's La passion de Jeanne d'Arc]]
+   - [[https://archive.org/details/in.ernet.dli.2015.186508][Doctor Faustus Thomas Mann (english translation)]]
+   - [[http://gutenberg.spiegel.de/buch/kindertodtenlieder-5068/1][Rückert Kindertotenlieder]]
 * 11 A Brain Asleep 
 ** Sleep
    - [[http://onlinelibrary.wiley.com/doi/10.1113/jphysiol.2010.197517/full][Energy Expenditure During Sleep]].
    - [[https://biokamikazi.files.wordpress.com/2016/01/25863_6.png?w=640][Stages of Sleep Seen With EEG]]
    - [[https://www.jstor.org/stable/750999][Descartes Dreams]]?
    - [[https://archive.org/stream/essayconcerningh00lock#page/n119/mode/2up][What Does Locke Say About Consciousness and Sleep?]]
+   - [[http://science.sciencemag.org/content/352/6287/812.short][Memory Consolidation and REM Sleep]]
+   - [[http://science.sciencemag.org/content/342/6156/373.short][Sleep Metabolite Clearance]]
 ** Skulls and Brains
    - [[http://media.npr.org/assets/img/2011/05/28/107957773-descartes-skull_custom-f85f7a58a774d78e50c724b8a134c4a3f3c3a16a-s6-c30.jpg][Descartes Skull]]
    - [[http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)61816-X/fulltext][Descartes Enlarged Ethmoid Sinus]]
@@ -265,6 +271,7 @@
    - [[https://www.biblegateway.com/passage/?search=John+21:15-17&version=NIV][Simon Peter Thrice Questioned]]?
    - [[https://en.wikipedia.org/wiki/Achromatopsia][Achromatopsia]]
    - [[https://wolfe4e.sinauer.com/wa04.02.html][Pandemonium Model]].
+   - [[https://en.wikipedia.org/wiki/Principle_of_explosion][A contradiction proves everything]]
 * 12 Enigma of Consciousness
 ** Aristotle and Locke on Empty Minds
    - [[https://archive.org/stream/cu31924028995807#page/116/mode/2up/search/tablet][Artistotle's Psychology (De Anima) Tabula Rasa]]
@@ -342,3 +349,4 @@
       remain as unanswerable as before.
     #+END_QUOTE
 * 15 
+

@@ -218,14 +218,9 @@
   - What are some of the current ideas regarding the nature of human epilepsy?
   - Does cerebral blood flow change with thinking? How could you tell and who was the first to do so?
   - What are some modern approaches to measuring changes of cerebral blood flow with mental activity?
-  - What does the character Schleppfuss originate?
-    - Schleppfuss is a character from Doctor Faustus by Thomas Mann.Many authors and playwrights have writte on the theme of Faust where a man sells his soul to the Devil for knowledge and power.
+  - Where does the character Schleppfuss originate?
   - What does the alternations of consciousness seen with an epileptic seizure tell us about consciousness and its relations to neural activity?
-    - First, that consciousness can be absent when neurons fire; not just when they are silent.
-    - Second, neurons firing in a coordinated, synchronized fashion cannot be a simple explanation for consciousness.
-    - Why is this a point to be debated. Do people regard synchronous neural firing as important for consciousness?
-  - General comments on the elegance or subtlety of this chapter?
-    - I found this chapter to lack a little subtlety of the others. Not sure why the violent imagery is so important for this chapter. And I have literally no idea why a picture of Mengele is here. He did experiment on humans in an unethical fashion, but I am not aware of particular onnection to medieval torture or epilepsy theories.
+  - Why is this a point to be debated. Do people regard synchronous neural firing as important for consciousness?
 * 11 A Brain Asleep
   - Who is the man met at the beginning of this chapter?
   - What is your "evidence?"
