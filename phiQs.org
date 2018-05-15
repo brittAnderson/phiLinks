@@ -206,10 +206,12 @@
   - What is the relationship between zombies, automata, and calculating machines?
   - Why did Tononi pick Teresa for this chapter?
   - What is hysterial blindness and are the hysterically blind faking?
+  - How does hysterical blindness differ from blindsight?
   - Could you be blind and not know it? What are the implications of that for consciousness?
   - What is Anton's syndrome?
   - Should all conscious experiences have an fMRI correlate?
   - What is binocular rivalry, alternating strabismus, and monocular flash suppression? What do they contribute to the discussion of perceptual experience and consciousness?
+  - What does O Quanta Qualia mean?
 * 10 A Brain Possessed
   - What is the orgin for the phrase "one of us?"
   - What are some of the early ideas regarding the nature of human epilepsy?
