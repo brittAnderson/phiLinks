@@ -291,3 +291,18 @@
   - Is Shannon's metric for information the only information metric available?
   - Why chose one over another?
   - What is the justification for connecting quantitative differences in information to conscious experience.
+* 15 Galileo and the Camera
+  - Is Galileo arguing that quantitative differences account for the presence/absence of consciousness or rather that consciousness is itself present to a greater/lesser degree?
+  - Is the camera conscious?
+  - Which possesses more information, a picture of randomly arranged gray scale pixels or a picture of a face with the same number of pixels, and the same gray scale range?
+  - Does the correlation of near-by pixels in natural images increase or decrease their information content?
+  - Explain the puzzle posed by the salt and pepper image on page 149?
+  - What is a category error (mistake)?
+  - Who is K?
+  - What do the words epistemology, ontology, and deontology mean?
+  - What is the significance of the passages at the base of 153 and top of 155 that K asks Galileo to parse? [[https://archive.org/stream/critiqueofreason00kantuoft#page/132/mode/2up/search/transcendental+unity][In context.]]
+  - Why do the images on 152 appear in b/w and those on 154 in color?
+  - What is apperception?
+  - What is this "panpsychism" mentioned at the end of the notes?
+
+
