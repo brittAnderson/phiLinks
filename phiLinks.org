@@ -293,7 +293,8 @@
    - [[http://cogprints.org/254/1/quinqual.htm][Quining Qualia - Daniel Dennett]]
    - [[https://en.wikipedia.org/wiki/Knowledge_argument][Knowledge Argument]]
    - [[https://youtu.be/mGYmiQkah4o][Mary's Room]]
-
+   - [[http://aardvark.ucsd.edu/perception/perceptual_constancy.pdf][Perceptual Constancy (pdf)]]
+     Relates to quote page 122 about recognition of the _same_ object despite changing shape, light and view point.
 * 13 Photodiode
 ** Philosophy and Logic
    - [[http://en.wikipedia.org/wiki/Inertia][Principle of Inertia]]
@@ -308,6 +309,12 @@
 ** Photodiodes
   - [[http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Photodiode.html][Photodiodes Explained]]?
   - [[https://www.thorlabs.com/images/xlarge/12174-xl.jpg][Image of a Photodiode]]
+** Quotes
+   - [[http://www.churchill-society-london.org.uk/RusnEnig.html][Enigmas and Mysteries]]
+     Of course enigma is also a play on words for Turing too.
+   - [[https://en.wikipedia.org/wiki/Ganzfeld_effect][There was nothing upon which to focus the eyes...]]
+** Perception and Consciousness
+   - [[http://www.jneurosci.org/content/28/10/2667.short][Perception and Consciousness compared by EEG]]
 * 14 Information
   - The word [[http://dictionary.reference.com/browse/enigma][enigma]] defined?
   - The [[https://en.wikipedia.org/wiki/Enigma_machine][enigma machine]]?
