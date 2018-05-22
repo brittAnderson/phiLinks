@@ -291,6 +291,9 @@
    - [[http://www.gestalttheory.net/people/metzger.html][Wolfgang Metzger]].
    - [[http://www.sciencedirect.com/science/article/pii/S0166223611000373][Connectivity and Microcircuits]],
    - [[http://cogprints.org/254/1/quinqual.htm][Quining Qualia - Daniel Dennett]]
+   - [[https://en.wikipedia.org/wiki/Knowledge_argument][Knowledge Argument]]
+   - [[https://youtu.be/mGYmiQkah4o][Mary's Room]]
+
 * 13 Photodiode
 ** Philosophy and Logic
    - [[http://en.wikipedia.org/wiki/Inertia][Principle of Inertia]]
