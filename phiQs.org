@@ -247,52 +247,27 @@
   - What is the source for the blank slate line?
   - Philosophically what is being asserted by this blank slate reference?
   - The assertion is made that "If the brain ceases ... nothing is left, not us ..." While we have certainly seen a lot of evidence that the brain is central to consciousness, have we seen anything to say that the brain is all of consciousness? Are we inferring absence from absence of evidence?
-** Some Review
-   - Is consciousness simply a matter of neurons and their numbers or only certain neurons/structures?
-     - No. Poussin with this supposed cerebellar disorder lost more
-       and did not lose consciousness.
-     - But recall that Copernicus was not conscious. Apparently the
-       cerebrum is critical.
-   - Is the cerebellum an impassable sea? What is the evidence for it being a less connected neural structure? 
-     - Are afferent sensory systems necessary for consciousness?
-       - The answer in the book seems to be no, but that seems
-         arguable. It might be that they are necessary at some point -
-         initially - in development, but that they are no longer
-         required. And while we may get along well without one or two,
-         what if all were gone, what would happen to our conscioius
-         state then?
-   - Are efferent arcs necessary?
-     - Apparently not. We have Mersenne communicating with his eye
-       blink. And without that we might not know that he was in
-       there, but he still could be as Owen's work with vegetative
-       state patients seems to suggest.
-   - Is consciousness unitary?
-     - Apparently, that too, is just appearance or happenstance,
-       because with the right kind of /disconnection/ we can be made
-       multiple. This doesn't necessitate psychiatric illness, but
-       could be related to callosotomy.
-   - The paradox of synchrony. Why is paradoxical?
-     - As we saw with seizures, when everything is "shouting" the
-       same message then consciousness may be lost. Here the
-       connectivity seems to allow for this unison, and therefore it
-       is the paradox that connectedness is necessary for
-       consciousness, and at the same time the route for its
-       abolition.
-   - Who is Alturi?
-   - What's with all this staring at blank walls that is mentioned repeatedly in this chapter.
-   - Galileo's questions
-     1. Why the brain and not the liver? Why the cerebrum and not the
-        cerebellum? Why here and not there?
-     2. what determines what consciousness "is"?
-     3. What gives consciousness its distinctive quality?
-   - What is shown in the figure on page 120.
-   - What is the function of the little punch cards
-   - What is the modern counterpart of Alturi's succession of simple steps?
-   - Why the apple with the bite?
-   - Contrast Frick's program with Alturi's? 
-     - Frick wants to find the neural correlates of consciousness to explain it. Alturi wants to find the computational mechanisms to explain it.
-   - Do we need both Alturi's and Frick's approaches?
-   - Is one approach more valuable than the other?
+  - Is consciousness simply a matter of neurons and their numbers or only certain neurons/structures?
+  - What is the evidence for the cerebellum being a less connected neural structure? 
+  - Are afferent sensory systems necessary for persistence of consciousness?
+  - Are afferent sensory systems necessary for the development of consciousness?
+  - Are efferent arcs necessary?
+  - What is the difference between Afferent and Efferent.
+  - Is consciousness unitary?
+  - What is the paradox of synchrony.
+  - Who is Alturi?
+  - What's with all this staring at blank walls that is mentioned repeatedly in this chapter.
+  - Galileo's questions
+    1. Why the brain and not the liver? 
+    2. what determines what consciousness "is"?
+    3. What gives consciousness its distinctive quality?
+  - What is shown in the figure on page 120.
+  - What is the function of the little punch cards
+  - What is the modern counterpart of Alturi's succession of simple steps?
+  - Why the apple with the bite?
+  - Contrast Frick's interest and explanation for consciousness with Alturi's? 
+  - Do we need both Alturi's and Frick's approaches?
+  - Is one approach more valuable than the other?
 * 13 Photodiode
   - What is the [[http://en.wikipedia.org/wiki/Inertia][Principle of Inertia]]
   - What was Kant's opinion on psychology as a science (and who was he by the way)?
