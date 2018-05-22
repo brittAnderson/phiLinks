@@ -1,0 +1,115 @@
+                        ━━━━━━━━━━━━━━━━━━━━━━━
+                         PRESENTATION SCHEDULE
+
+                             Britt Anderson
+                        ━━━━━━━━━━━━━━━━━━━━━━━
+
+
+                            <2018-05-22 Tue>
+
+
+1 Introduction
+══════════════
+
+  Lists who is responsible for which chapter.
+
+
+2 Expectations
+══════════════
+
+  You will be responsible for guiding the discussion for your chapter.
+  This presumes that you have,
+  • read the chapter
+  • identified key issues
+  • developed and posted questions to guide your classmates readings
+  • identified and shared at least two interesting links for material
+    related to your chapter
+
+
+2.1 Send me your questions/links at least one week prior to your presentation week.
+───────────────────────────────────────────────────────────────────────────────────
+
+  I will upload them, but you *must* give them to me in a plain text
+  file and the links must be in the following format:
+
+
+2.1.1 Questions should look exactly like this:
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  ┌────
+  │ - This is a question. 
+  └────
+  Note the hyphen?
+
+
+2.1.2 Links should look like this:
+╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
+  ┌────
+  │ [[https://somewebsite.oranother.com][A description of the link]]
+  └────
+  Note the square brackets
+
+
+3 Chapters and assignments - Round 1
+════════════════════════════════════
+
+3.1 June 6
+──────────
+
+  16, The many and the one
+
+  17, Galileo and the bat
+
+  18, Seeing Dark
+
+
+3.2 June 13
+───────────
+
+  19, Meaning of Dark
+
+  20, Palace of Light 
+
+  21, Garden of Qualia 
+
+
+4 Chapters and assignments - Round 2
+════════════════════════════════════
+
+4.1 June 20
+───────────
+
+  Chapters 22,232,24 (Britt Anderson)
+
+
+4.2 June 27
+───────────
+
+  25, Nightfall 3
+
+  26, Twilight 1
+
+  27, Twilight 2
+
+
+4.3 July 4
+──────────
+
+  28, Twilight 3
+
+  29, Daylight 1
+
+  30, Daylight 2
+
+
+4.4 July 11
+───────────
+
+  Chapters 31,32,33 (Britt Anderson)
+
+
+4.5 July 18
+───────────
+
+  • Three P Discussion/Final
