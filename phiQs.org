@@ -293,7 +293,7 @@
      - Frick wants to find the neural correlates of consciousness to explain it. Alturi wants to find the computational mechanisms to explain it.
    - Do we need both Alturi's and Frick's approaches?
    - Is one approach more valuable than the other?
-* 13 - Photodiode
+* 13 Photodiode
   - What is the [[http://en.wikipedia.org/wiki/Inertia][Principle of Inertia]]
   - What was Kant's opinion on psychology as a science (and who was he by the way)?
   - What is a binary code?
@@ -306,7 +306,7 @@
   - What are necessary and sufficient [[http://en.wikipedia.org/wiki/Necessity_and_sufficiency][conditions]]?
   - Wha is the Imitation Game [[http://cogprints.org/499/1/turing.HTML][Article]] (aka the "Turing Test")?
   - What is the Chinese Room Argument
-* 14 - Information
+* 14 Information
   - What is meant by the phrase, "... he [Alturi] had a smile on his face like an enigma."
   - Who is[[http://en.wikipedia.org/wiki/Claude_Shannon]["S"?]] 
   - What did he die of?
