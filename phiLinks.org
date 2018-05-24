@@ -171,6 +171,8 @@
 ** Miscellaneous
   - [[http://plato.stanford.edu/entries/modularity-mind/][Modularity of Mind (Stanford Encyclopedia)]]
   - [[http://youtu.be/9ubXFMklEe8][Shadow Hand robotics demonstrated (video)]]
+  - [[http://dx.doi.org/10.3758/bf03210815][Attention and the Stroop]]
+  - [[https://doi.org/10.3758/bf03210834][Unconsciously Controlled Processing]]
 * 7 Amnesia
 ** Veronica Franco
   - [[https://en.wikipedia.org/wiki/Veronica_Franco][Veronica Franco]]
@@ -231,6 +233,7 @@
    - [[http://www.professeurs-medecine-nancy.fr/Grignon12.htm][Charles Le Pois]].
    - [[http://www.gutenberg.org/files/35977/35977-h/35977-h.htm][Letters of Abelard and Heloise]]
    - [[https://youtu.be/gcF_CnUgLeQ][O Quanta Qualia par Abelard (youtube)]]
+   - [[http://www.cbc.ca/cbcdocspov/m_features/the-hogan-twins-share-a-brain-and-see-out-of-each-others-eyes][Opposite of Split Brain - Conjoined Twins?]]
 * 10 A Brain Possessed
 ** One of Us
    - [[http://youtu.be/1Y_KNYNzN6A][Simpsons]]?
@@ -240,6 +243,7 @@
 ** Epilepsy
    - [[http://books.google.ca/books?hl=en&lr=&id=cPi6NR5qbsAC&oi=fnd&pg=PR7&dq=epilepsy+history&ots=nWlAYAgbWd&sig=rqAWFg9PoPUZcjz-8tcFz4Q6gYE#v=onepage&q=epilepsy%20history&f=false][Early theory of Epilepsy]]
    - [[http://youtu.be/Nds2U4CzvC4][A Seizure Recorded in Hospital (youtube)]]
+   - [[https://www.youtube.com/watch?v=BvqA3vbNYPc][Eine Andere (auf Deutsch)]]
    - [[http://www.cell.com/neuron/issue?pii=S0896-6273(00)X0252-8][Synchrony Effects on Cognition (several articles in this issue of Neuron)]]
 ** Measuring Increased Cerebral Blood Flow
    - [[https://en.wikipedia.org/wiki/Angelo_Mosso][Angelo Mosso (Wikipedia)]]
