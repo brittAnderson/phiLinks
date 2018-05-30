@@ -394,7 +394,7 @@
 	Entia non sunt multiplicanda praeter necessitatem.
 	More things should not be used than are necessary.
        #+END_QUOTE
-   - [[https://en.wikipedia.org/wiki/The_Assayer][Galileo's Il Saggiatore (The Assayer)]]
+   - [[https://en.wikipedia.org/wiki/The_Assayer][Galileo's Il Saggiatore (The Assayer) Wiki]]
    - [[https://web.stanford.edu/~jsabol/certainty/readings/Galileo-Assayer.pdf][Galileo's Il Saggiatore (The Assayer) Abridged Translation]]
 ** Integrated Information Theory
    - [[http://integratedinformationtheory.org/index.html][Wisconsin Institute for Sleep and Consciousness's website regarding Integrated Information Theory]]
