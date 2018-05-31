@@ -379,7 +379,29 @@
    - [[https://archive.org/details/conceptofmind032022mbp][The Concept of Mind (Ryle)]]
    - [[https://plato.stanford.edu/entries/kant-mind/][Kant's View of the Mind]]
    - [[https://archive.org/details/critiqueofreason00kantuoft][Critique of Pure Reason]]
-* 16
+* 16 Integrated Information: The Many and the One
+** People
+   - [[https://plato.stanford.edu/entries/james/][William James]]
+   - [[https://en.wikipedia.org/wiki/Kurt_Koffka][Kurt Koffka]]
+   - [[https://plato.stanford.edu/entries/ockham/][William of Ockham]]
+** Quotes
+   - [[https://plato.stanford.edu/entries/aristotle-metaphysics/#UnitReco][Aristotle's Metaphysics]]
+       #+BEGIN_QUOTE
+	The whole is more than the sum of its parts
+       #+END_QUOTE
+   - [[https://simple.wikipedia.org/wiki/Occam%27s_razor][Occam's Razer]]
+       #+BEGIN_QUOTE
+	Entia non sunt multiplicanda praeter necessitatem.
+	More things should not be used than are necessary.
+       #+END_QUOTE
+   - [[https://en.wikipedia.org/wiki/The_Assayer][Galileo's Il Saggiatore (The Assayer) Wiki]]
+   - [[https://web.stanford.edu/~jsabol/certainty/readings/Galileo-Assayer.pdf][Galileo's Il Saggiatore (The Assayer) Abridged Translation]]
+** Integrated Information Theory
+   - [[http://integratedinformationtheory.org/index.html][Wisconsin Institute for Sleep and Consciousness's website regarding Integrated Information Theory]]
+   - [[https://www.ncbi.nlm.nih.gov/pubmed/23802335][Tononi's paper on the Integrated information theory of consciousness]]
+** Miscellaneous
+   - [[https://plato.stanford.edu/entries/properties-emergent/][Emergencnt Properties]]
+   - [[https://youtu.be/16W7c0mb-rE][Querky Video Explaining Emergence]]
 * 17 Galileo and the Bat
   - [[https://warwick.ac.uk/fac/cross_fac/iatl/activities/modules/ugmodules/humananimalstudies/lectures/32/nagel_bat.pdf][What is it like to be a bat?]]
   - [[http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1519-69842008000300017][Brain of a vampire bat]]
