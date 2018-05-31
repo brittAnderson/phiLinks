@@ -304,6 +304,7 @@
   - Why do the images on 152 appear in b/w and those on 154 in color?
   - What is apperception?
   - What is this "panpsychism" mentioned at the end of the notes?
+
 * 16 Integrated Information: The Many and the One
   - Who was famous for the phrase, "the whole is more than the sum of its parts"?
     1. What school of psychology is it related to?
@@ -323,5 +324,40 @@
   - Who is being quoted at the end of the chapter, from Frick's notes?
   - Is there meaning behind J finding Alturi and Galileo "too far away"?
   - Is it possible to see creativity or art in the lense of integrated information?
-
-
+* 17 Galileo and the Ba
+  - What is the second problem of consciousness?
+  - Who is N and what is he known for?
+  - What does N mean when he says “each of us lives in a cave without openings”?
+  - What exactly is the issue that N is trying to raise? Do you think he is right?
+  - Does this relate to the modularity of function?
+  - What do you think determines the quality of consciousness?
+  - What is the significance of twong?
+  - What does the cave represent?
+  - Why do you think the author describes the chapter as “sadly underdeveloped”?
+  - How do you think Alturi would respond to N’s statement about the mind?
+* 18
+* 19
+* 20
+* 21
+* 22 Introduction
+  - Why isn't Darwin referred to by name?
+  - Who were the Vestals?
+  - What is "the house?"
+  - Why does this image of the Magdalene reappear?
+* 23 Nightfall 1 - Death
+  - "Ash that could be touched, unlike his soul." Why can one be touched and not the other?
+  - "Bruno was burned." Who is Bruno
+  - In this paragraph can you see any similarity to Hamlet? To be or not to be ...
+  - How does Galileo relate death and consciousness? Is this consistent with the integrated information account? Is it testable?
+  - From the evidence in this chapter do you believe that Tononi is a physicalist? How to accomodate his statement that: "...consciousness did not reduce to matter...But consciousness did rely on matter"?
+  - What is a demiurge?
+  - If consciousness is in principle a mechanical relation between parts, would it have to end with death? Could you sustain it? Recreate it? Duplicate it?
+  - On the other hand if you equate consciousness with Phi, doesn't consciousness "die" with each changing shape?
+  - Is death in fact relevant for physicalist theories, or more a selfish preoccupation?
+* 24 Nightfall 2 - Dementia
+  - What is a pillory?
+  - Galileo wonders if Bellarmine burned his brain from too much study. Is there a relation between cognitive activity and dementia risk?
+  - "No, Friar, it was because he lost his glue..." What is the brain's "glue"?
+  - What are the implications of IT for dementia?
+  - Is there necessarily a change in integrated information with dementia?
+  - Can dementia provide an empirical test case for theories like Integrated Information?

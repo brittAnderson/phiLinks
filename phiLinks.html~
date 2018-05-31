@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2018-05-22 Tue 16:16 -->
+<!-- 2018-05-31 Thu 14:47 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Links to Explore Topics in Phi</title>
@@ -234,209 +234,243 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org3851e23">Preface</a>
+<li><a href="#orga9fefa1">Preface</a>
 <ul>
-<li><a href="#org7c19685">Thought Experiments</a></li>
+<li><a href="#org79b1c59">Thought Experiments</a></li>
 </ul>
 </li>
-<li><a href="#org898ebd4">1 Prologue</a>
+<li><a href="#orgb0f354f">1 Prologue</a>
 <ul>
-<li><a href="#org1d225b6">Gross Anatomy of the Brain</a></li>
-<li><a href="#org89ed08e">Idealism</a></li>
-<li><a href="#org3e7efd0">Rationalism</a></li>
-<li><a href="#org9ed7223">Poems</a></li>
-<li><a href="#org1081333">Scientific References</a>
+<li><a href="#org4d888b0">Gross Anatomy of the Brain</a></li>
+<li><a href="#org7638f80">Idealism</a></li>
+<li><a href="#org76eebef">Rationalism</a></li>
+<li><a href="#orgfd8da62">Poems</a></li>
+<li><a href="#org0d9e7cb">Scientific References</a>
 <ul>
-<li><a href="#org5a8bfe7">Weighing soul/brain activity</a></li>
+<li><a href="#org61c7d3e">Weighing soul/brain activity</a></li>
 </ul>
 </li>
-<li><a href="#org7d6f9fa">Extra Content</a></li>
+<li><a href="#org6549af4">Extra Content</a></li>
 </ul>
 </li>
-<li><a href="#org1f070de">2 Introduction</a>
+<li><a href="#orgbbb130a">2 Introduction</a>
 <ul>
-<li><a href="#org0e4945d">Francis Crick</a></li>
-<li><a href="#org99e042e">Concepts</a></li>
-<li><a href="#orga4617d9">Giordano Bruno</a></li>
-<li><a href="#orge0f077a">Other Figures</a></li>
+<li><a href="#org1c60117">Francis Crick</a></li>
+<li><a href="#orgbb653c7">Concepts</a></li>
+<li><a href="#org2d46bc4">Giordano Bruno</a></li>
+<li><a href="#org89ec437">Other Figures</a></li>
 </ul>
 </li>
-<li><a href="#org525b444">3 Cerebrum</a>
+<li><a href="#orga064496">3 Cerebrum</a>
 <ul>
-<li><a href="#orga861ca8">People</a>
+<li><a href="#orgfd3152d">People</a>
 <ul>
-<li><a href="#orgf8add0f">Wilder Penfield</a></li>
+<li><a href="#org2856710">Wilder Penfield</a></li>
 </ul>
 </li>
-<li><a href="#org083c1c3">Concepts</a>
+<li><a href="#orgd19e7e1">Concepts</a>
 <ul>
-<li><a href="#org630647e">Cerebral Ventricles</a></li>
-<li><a href="#orgde1799e">Memory Palace</a></li>
-<li><a href="#org6fac1a1">Neurons and their Delineation</a></li>
-<li><a href="#org1c82a2f">Visual Areas of the Brain</a></li>
-<li><a href="#org4ece19f">Cortical Connectivity</a></li>
-<li><a href="#org28de245">Abnormal States of Consciousness</a></li>
-<li><a href="#org0e9315f">Cartesian Theater and Homunculi</a></li>
-<li><a href="#orga181b34">Reflexes</a></li>
+<li><a href="#org8757385">Cerebral Ventricles</a></li>
+<li><a href="#org165921c">Memory Palace</a></li>
+<li><a href="#org643f489">Neurons and their Delineation</a></li>
+<li><a href="#org4e5b710">Visual Areas of the Brain</a></li>
+<li><a href="#org4aa3ff4">Cortical Connectivity</a></li>
+<li><a href="#orgb5e4b2d">Abnormal States of Consciousness</a></li>
+<li><a href="#org70b120d">Cartesian Theater and Homunculi</a></li>
+<li><a href="#orgdf0c3d3">Reflexes</a></li>
 </ul>
 </li>
-<li><a href="#org8ed70f7">Quotes and References</a>
+<li><a href="#org2e1efce">Quotes and References</a>
 <ul>
-<li><a href="#orgb839c44">Flowers and their Meanings in Myth</a></li>
-<li><a href="#org3e7f966">E pur si muove</a></li>
-<li><a href="#org90668a4">Canto III - Divina Commedia</a></li>
-<li><a href="#org16845ac">History of Italy</a></li>
+<li><a href="#org60016fc">Flowers and their Meanings in Myth</a></li>
+<li><a href="#orgaff4631">E pur si muove</a></li>
+<li><a href="#orge9761b6">Canto III - Divina Commedia</a></li>
+<li><a href="#orge8c3664">History of Italy</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#org6927fe9">4 Cerebellum</a>
+<li><a href="#orgb3630be">4 Cerebellum</a>
 <ul>
-<li><a href="#orgf59e2bd">Nicolas Poussin</a></li>
-<li><a href="#orge50a270">Modularity of Mind</a></li>
-<li><a href="#org91a3731">Miscellaneous</a></li>
-<li><a href="#org6c90e28">Object Constancy</a></li>
-<li><a href="#orgd98f37d">Cerebellar/Cerebral Facts and Figures</a></li>
+<li><a href="#org864690e">Nicolas Poussin</a></li>
+<li><a href="#orgb44037f">Modularity of Mind</a></li>
+<li><a href="#orgecafc20">Miscellaneous</a></li>
+<li><a href="#org213a3f4">Object Constancy</a></li>
+<li><a href="#org399a07b">Cerebellar/Cerebral Facts and Figures</a></li>
 </ul>
 </li>
-<li><a href="#org5a55e79">5 Two Blind Patients</a>
+<li><a href="#orgaf8dd54">5 Two Blind Patients</a>
 <ul>
-<li><a href="#orgec8108b">Vision as Inference</a></li>
-<li><a href="#orgee59e0a">Kepler</a></li>
-<li><a href="#org5a8b0ce">Visual Facts and Phenomena</a></li>
-<li><a href="#orgb47b285">Lomazzo</a></li>
-<li><a href="#org5f900a6">Miscellaneous</a></li>
+<li><a href="#org511bad8">Vision as Inference</a></li>
+<li><a href="#org49ee729">Kepler</a></li>
+<li><a href="#org328bd04">Visual Facts and Phenomena</a></li>
+<li><a href="#org78589a9">Lomazzo</a></li>
+<li><a href="#orgcd0291e">Miscellaneous</a></li>
 </ul>
 </li>
-<li><a href="#org9ee2f7d">6 Locked In</a>
+<li><a href="#org0219cff">6 Locked In</a>
 <ul>
-<li><a href="#org2882202">Religion</a></li>
-<li><a href="#org0b54130">Free Will</a></li>
-<li><a href="#orgdf14769">Early Computing Machine History</a></li>
-<li><a href="#org6d9f4e2">Computer Vision</a></li>
-<li><a href="#orgc0c3bef">Locked In Syndrome</a></li>
-<li><a href="#orga60fae4">Detecting Consciousness</a></li>
-<li><a href="#org06531a1">Mersenne</a></li>
-<li><a href="#orga5049ab">Miscellaneous</a></li>
+<li><a href="#org8b7fb87">Religion</a></li>
+<li><a href="#orgd82bc41">Free Will</a></li>
+<li><a href="#orgdd5130a">Early Computing Machine History</a></li>
+<li><a href="#orgc9c573d">Computer Vision</a></li>
+<li><a href="#orgcbc7c06">Locked In Syndrome</a></li>
+<li><a href="#org4a16ce7">Detecting Consciousness</a></li>
+<li><a href="#orga8f601f">Mersenne</a></li>
+<li><a href="#org076a736">Miscellaneous</a></li>
 </ul>
 </li>
-<li><a href="#orgac25f10">7 Amnesia</a>
+<li><a href="#orgdfa7aa3">7 Amnesia</a>
 <ul>
-<li><a href="#org4599509">Veronica Franco</a></li>
-<li><a href="#orgc972420">Memory Impairment Cases and Anatomy</a></li>
-<li><a href="#org35e1546">Barbara Strozzi</a></li>
-<li><a href="#org105ce4e">Miscellaneous</a></li>
+<li><a href="#orgf0a00e3">Veronica Franco</a></li>
+<li><a href="#org08aa3c9">Memory Impairment Cases and Anatomy</a></li>
+<li><a href="#orgcc28f4b">Barbara Strozzi</a></li>
+<li><a href="#orga2e6099">Miscellaneous</a></li>
 </ul>
 </li>
-<li><a href="#orgfc61e91">8 Split Brains</a>
+<li><a href="#orgd2ba900">8 Split Brains</a>
 <ul>
-<li><a href="#org736e3eb">Carlo Gesualdo and Music</a></li>
-<li><a href="#org3f376da">Hemispheres and Consciousness and Surgery</a></li>
-<li><a href="#org5ec91ce">Miscellaneous</a></li>
+<li><a href="#org02fa804">Carlo Gesualdo and Music</a></li>
+<li><a href="#orgea1fa40">Hemispheres and Consciousness and Surgery</a></li>
+<li><a href="#orgb4b0936">Miscellaneous</a></li>
 </ul>
 </li>
-<li><a href="#orge56cef5">9 Brain Conflict</a>
+<li><a href="#org759db8f">9 Brain Conflict</a>
 <ul>
-<li><a href="#orgf720cd5">Zombies</a></li>
-<li><a href="#orgab7eb3f">Hysteria</a></li>
-<li><a href="#orgbbcd464">Visual Loss</a></li>
-<li><a href="#org200cc2f">Miscellaneous</a></li>
+<li><a href="#orgff2dbc6">Zombies</a></li>
+<li><a href="#org05caeda">Hysteria</a></li>
+<li><a href="#orgc6b2102">Visual Loss</a></li>
+<li><a href="#org0f47d95">Miscellaneous</a></li>
 </ul>
 </li>
-<li><a href="#org3c06952">10 A Brain Possessed</a>
+<li><a href="#org9df388b">10 A Brain Possessed</a>
 <ul>
-<li><a href="#orgf8fc25f">One of Us</a></li>
-<li><a href="#org73771ed">Epilepsy</a></li>
-<li><a href="#org33b6093">Measuring Increased Cerebral Blood Flow</a></li>
-<li><a href="#org1223a26">Miscellaneous</a></li>
+<li><a href="#org68318f3">One of Us</a></li>
+<li><a href="#org220ac8b">Epilepsy</a></li>
+<li><a href="#org298705f">Measuring Increased Cerebral Blood Flow</a></li>
+<li><a href="#org1a3dfb6">Miscellaneous</a></li>
 </ul>
 </li>
-<li><a href="#orged97826">11 A Brain Asleep</a>
+<li><a href="#org95ff23c">11 A Brain Asleep</a>
 <ul>
-<li><a href="#orgf8a29f0">Sleep</a></li>
-<li><a href="#orgd72673c">Skulls and Brains</a></li>
-<li><a href="#org3a087ea">Miscellaneous</a></li>
+<li><a href="#orgfef8ee7">Sleep</a></li>
+<li><a href="#org884f7bb">Skulls and Brains</a></li>
+<li><a href="#orgd24d576">Miscellaneous</a></li>
 </ul>
 </li>
-<li><a href="#org813c620">12 Enigma of Consciousness</a>
+<li><a href="#orgbfb3452">12 Enigma of Consciousness</a>
 <ul>
-<li><a href="#org48393d1">Aristotle and Locke on Empty Minds</a></li>
-<li><a href="#orgd7b5bad">Alan Turing</a></li>
-<li><a href="#org926c93f">Charles Sherrington</a></li>
-<li><a href="#org6e1be4d">Miscellaneous</a></li>
+<li><a href="#org681e28c">Aristotle and Locke on Empty Minds</a></li>
+<li><a href="#orgc224dad">Alan Turing</a></li>
+<li><a href="#org9a1c0b6">Charles Sherrington</a></li>
+<li><a href="#org60a620b">Miscellaneous</a></li>
 </ul>
 </li>
-<li><a href="#org2378702">13 Photodiode</a>
+<li><a href="#org04c5b9f">13 Photodiode</a>
 <ul>
-<li><a href="#org6873113">Philosophy and Logic</a></li>
-<li><a href="#org530513c">Tristam Shandy</a></li>
-<li><a href="#org7ee5762">Photodiodes</a></li>
-<li><a href="#orgb56c061">Quotes</a></li>
-<li><a href="#orge268cbd">Perception and Consciousness</a></li>
+<li><a href="#org647b789">Philosophy and Logic</a></li>
+<li><a href="#orga2b3837">Tristam Shandy</a></li>
+<li><a href="#orgd4ba401">Photodiodes</a></li>
+<li><a href="#org278bb7e">Quotes</a></li>
+<li><a href="#orgb2cc6ab">Perception and Consciousness</a></li>
 </ul>
 </li>
-<li><a href="#orgff930cf">14 Information</a>
+<li><a href="#org76c4bf0">14 Information</a>
 <ul>
-<li><a href="#orge0dd37c">Shannon</a></li>
-<li><a href="#orgeadbac3">Information Quantification</a></li>
-<li><a href="#orga1510cd">Miscellaneous</a></li>
-<li><a href="#org5a8d1ea">Quotes</a></li>
+<li><a href="#org32f5a68">Shannon</a></li>
+<li><a href="#orgdd59b50">Information Quantification</a></li>
+<li><a href="#org0f23abf">Miscellaneous</a></li>
+<li><a href="#org70f31c9">Quotes</a></li>
 </ul>
 </li>
-<li><a href="#orgfa667ed">15 Galileo and the Camera</a>
+<li><a href="#org26ef333">15 Galileo and the Camera</a>
 <ul>
-<li><a href="#org32192ae">Characters</a></li>
-<li><a href="#orgf88ed93">Categories And Mistakes</a></li>
+<li><a href="#orgbed2a97">Characters</a></li>
+<li><a href="#org92e95f7">Categories And Mistakes</a></li>
+</ul>
+</li>
+<li><a href="#orgc60394c">16</a></li>
+<li><a href="#org0e1bfb3">17</a></li>
+<li><a href="#orgfff400d">18</a></li>
+<li><a href="#org5c1396d">19</a></li>
+<li><a href="#orgff55c72">20</a></li>
+<li><a href="#org677036a">21</a></li>
+<li><a href="#org5bb45c4">22 Introduction</a>
+<ul>
+<li><a href="#orga537369">Vestal Virgins</a></li>
+<li><a href="#orge9a535d">Darwin's Religious Views</a></li>
+<li><a href="#org21ac279">Darwin and the Problem of Consciousness</a></li>
+<li><a href="#org64ff9ab">Neural Darwinisms - Edelman (Neuron)</a></li>
+<li><a href="#org6a12c4f">Witness to the Resurrection</a></li>
+</ul>
+</li>
+<li><a href="#orgfad01d3">23 Nightfall 1 - Death</a>
+<ul>
+<li><a href="#orgc3516e2">Giordano Bruno</a></li>
+<li><a href="#orgb235743">Philip Larkin</a></li>
+<li><a href="#org3c6e9f3">Andreas Vesalius</a></li>
+<li><a href="#org8beda5c">Brain Death</a></li>
+<li><a href="#org47038b1">Synaptic Pruning</a></li>
+<li><a href="#org062543a">Demiurge</a></li>
+<li><a href="#org2d55560">Alain Renais</a></li>
+<li><a href="#org79fa5f1">Sculpture</a></li>
+</ul>
+</li>
+<li><a href="#org7116e50">24 Nightfall 2 - Dementia</a>
+<ul>
+<li><a href="#org974188f">Dementia</a></li>
+<li><a href="#org33b1d3a">Catholic Characters and Concepts</a></li>
+<li><a href="#orgab971a7">Miscellaneous</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org3851e23" class="outline-2">
-<h2 id="org3851e23">Preface</h2>
-<div class="outline-text-2" id="text-org3851e23">
+<div id="outline-container-orga9fefa1" class="outline-2">
+<h2 id="orga9fefa1">Preface</h2>
+<div class="outline-text-2" id="text-orga9fefa1">
 </div>
-<div id="outline-container-org7c19685" class="outline-3">
-<h3 id="org7c19685">Thought Experiments</h3>
-<div class="outline-text-3" id="text-org7c19685">
+<div id="outline-container-org79b1c59" class="outline-3">
+<h3 id="org79b1c59">Thought Experiments</h3>
+<div class="outline-text-3" id="text-org79b1c59">
 <ul class="org-ul">
 <li><a href="https://web.archive.org/web/20141229121956/http://www.philosophical-investigations.org/Galileo's_Thought_Experiments">Galileo Thought Experiments</a></li>
 </ul>
 </div>
 </div>
 </div>
-<div id="outline-container-org898ebd4" class="outline-2">
-<h2 id="org898ebd4">1 Prologue</h2>
-<div class="outline-text-2" id="text-org898ebd4">
+<div id="outline-container-orgb0f354f" class="outline-2">
+<h2 id="orgb0f354f">1 Prologue</h2>
+<div class="outline-text-2" id="text-orgb0f354f">
 </div>
-<div id="outline-container-org1d225b6" class="outline-3">
-<h3 id="org1d225b6">Gross Anatomy of the Brain</h3>
-<div class="outline-text-3" id="text-org1d225b6">
+<div id="outline-container-org4d888b0" class="outline-3">
+<h3 id="org4d888b0">Gross Anatomy of the Brain</h3>
+<div class="outline-text-3" id="text-org4d888b0">
 <ul class="org-ul">
 <li><a href="http://youtu.be/jHxyP-nUhUY">Video of Dissection of a Fresh (unfixed) Human Brain</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org89ed08e" class="outline-3">
-<h3 id="org89ed08e">Idealism</h3>
-<div class="outline-text-3" id="text-org89ed08e">
+<div id="outline-container-org7638f80" class="outline-3">
+<h3 id="org7638f80">Idealism</h3>
+<div class="outline-text-3" id="text-org7638f80">
 <ul class="org-ul">
 <li><a href="http://plato.stanford.edu/entries/berkeley/">Berkeley</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org3e7efd0" class="outline-3">
-<h3 id="org3e7efd0">Rationalism</h3>
-<div class="outline-text-3" id="text-org3e7efd0">
+<div id="outline-container-org76eebef" class="outline-3">
+<h3 id="org76eebef">Rationalism</h3>
+<div class="outline-text-3" id="text-org76eebef">
 <ul class="org-ul">
 <li><a href="http://plato.stanford.edu/entries/descartes/">Descartes</a></li>
 <li><a href="https://ia600402.us.archive.org/28/items/discoursdelamtho13846gut/13846-h/13846-h.htm">Je pense, donc je suis</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org9ed7223" class="outline-3">
-<h3 id="org9ed7223">Poems</h3>
-<div class="outline-text-3" id="text-org9ed7223">
+<div id="outline-container-orgfd8da62" class="outline-3">
+<h3 id="orgfd8da62">Poems</h3>
+<div class="outline-text-3" id="text-orgfd8da62">
 <ul class="org-ul">
 <li><a href="https://thepoeticquotidian.blogspot.ca/2006/12/james-merrill-b-o-d-y.html">BODY - James Merrill</a></li>
 </ul>
@@ -445,16 +479,16 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org1081333" class="outline-3">
-<h3 id="org1081333">Scientific References</h3>
-<div class="outline-text-3" id="text-org1081333">
+<div id="outline-container-org0d9e7cb" class="outline-3">
+<h3 id="org0d9e7cb">Scientific References</h3>
+<div class="outline-text-3" id="text-org0d9e7cb">
 <ul class="org-ul">
 <li><a href="http://en.wikipedia.org/wiki/Santorio_Santorio">Santorio Santorio (metabolic studies)</a></li>
 </ul>
 </div>
-<div id="outline-container-org5a8bfe7" class="outline-4">
-<h4 id="org5a8bfe7">Weighing soul/brain activity</h4>
-<div class="outline-text-4" id="text-org5a8bfe7">
+<div id="outline-container-org61c7d3e" class="outline-4">
+<h4 id="org61c7d3e">Weighing soul/brain activity</h4>
+<div class="outline-text-4" id="text-org61c7d3e">
 <ul class="org-ul">
 <li><a href="https://timesmachine.nytimes.com/svc/tmach/v1/refer?res=9D07E5DC123EE033A25752C1A9659C946697D6CF&amp;pdf=true">Can you weigh the soul? (pdf)</a></li>
 <li><a href="http://brain.oxfordjournals.org/content/early/2014/01/09/brain.awt352.extract">Weighing brain activity</a></li>
@@ -462,9 +496,9 @@ for the JavaScript code in this tag.
 </div>
 </div>
 </div>
-<div id="outline-container-org7d6f9fa" class="outline-3">
-<h3 id="org7d6f9fa">Extra Content</h3>
-<div class="outline-text-3" id="text-org7d6f9fa">
+<div id="outline-container-org6549af4" class="outline-3">
+<h3 id="org6549af4">Extra Content</h3>
+<div class="outline-text-3" id="text-org6549af4">
 <ul class="org-ul">
 <li><a href="https://www.britannica.com/art/vanitas-art">What is a <i>vanitas</i>?</a></li>
 <li><a href="http://downloads.bbc.co.uk/podcasts/radio4/iots/iots_19981119-0900a.mp3">Edelman on Consciousness Podcast (mp3)</a></li>
@@ -474,13 +508,13 @@ for the JavaScript code in this tag.
 </div>
 </div>
 </div>
-<div id="outline-container-org1f070de" class="outline-2">
-<h2 id="org1f070de">2 Introduction</h2>
-<div class="outline-text-2" id="text-org1f070de">
+<div id="outline-container-orgbbb130a" class="outline-2">
+<h2 id="orgbbb130a">2 Introduction</h2>
+<div class="outline-text-2" id="text-orgbbb130a">
 </div>
-<div id="outline-container-org0e4945d" class="outline-3">
-<h3 id="org0e4945d">Francis Crick</h3>
-<div class="outline-text-3" id="text-org0e4945d">
+<div id="outline-container-org1c60117" class="outline-3">
+<h3 id="org1c60117">Francis Crick</h3>
+<div class="outline-text-3" id="text-org1c60117">
 <ul class="org-ul">
 <li><a href="http://www.nobelprize.org/nobel_prizes/medicine/laureates/1962/crick-bio.html">Nobel Prize Biography</a></li>
 <li><a href="https://www.youtube.com/watch?v=qzs2aAcfOTQ">Video - Conversation on Consciousness 1994</a></li>
@@ -490,9 +524,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org99e042e" class="outline-3">
-<h3 id="org99e042e">Concepts</h3>
-<div class="outline-text-3" id="text-org99e042e">
+<div id="outline-container-orgbb653c7" class="outline-3">
+<h3 id="orgbb653c7">Concepts</h3>
+<div class="outline-text-3" id="text-orgbb653c7">
 <ul class="org-ul">
 <li><a href="https://en.wikipedia.org/wiki/Heliocentrism">Heliocentrism</a></li>
 <li><a href="http://en.wikipedia.org/wiki/Galileo_affair">Galileo and Heliocentrism</a></li>
@@ -501,9 +535,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orga4617d9" class="outline-3">
-<h3 id="orga4617d9">Giordano Bruno</h3>
-<div class="outline-text-3" id="text-orga4617d9">
+<div id="outline-container-org2d46bc4" class="outline-3">
+<h3 id="org2d46bc4">Giordano Bruno</h3>
+<div class="outline-text-3" id="text-org2d46bc4">
 <ul class="org-ul">
 <li><a href="https://www.thenation.com/article/hungry-mind-giordano-bruno-philosopher-and-heretic/">Brief Biography and Book Review (2008)</a></li>
 <li><a href="http://www.imdb.com/title/tt0070109/">Giordano Bruno - The Film (1973)</a></li>
@@ -511,9 +545,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orge0f077a" class="outline-3">
-<h3 id="orge0f077a">Other Figures</h3>
-<div class="outline-text-3" id="text-orge0f077a">
+<div id="outline-container-org89ec437" class="outline-3">
+<h3 id="org89ec437">Other Figures</h3>
+<div class="outline-text-3" id="text-org89ec437">
 <ul class="org-ul">
 <li><a href="https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer">Albrecht Durer - wikipedia</a></li>
 <li><a href="https://plato.stanford.edu/entries/lucretius/">Lucretius (Stanford Encyclopedia Philosophy)</a></li>
@@ -521,21 +555,21 @@ for the JavaScript code in this tag.
 </div>
 </div>
 </div>
-<div id="outline-container-org525b444" class="outline-2">
-<h2 id="org525b444">3 Cerebrum</h2>
-<div class="outline-text-2" id="text-org525b444">
+<div id="outline-container-orga064496" class="outline-2">
+<h2 id="orga064496">3 Cerebrum</h2>
+<div class="outline-text-2" id="text-orga064496">
 </div>
-<div id="outline-container-orga861ca8" class="outline-3">
-<h3 id="orga861ca8">People</h3>
-<div class="outline-text-3" id="text-orga861ca8">
+<div id="outline-container-orgfd3152d" class="outline-3">
+<h3 id="orgfd3152d">People</h3>
+<div class="outline-text-3" id="text-orgfd3152d">
 <ul class="org-ul">
 <li><a href="http://en.wikipedia.org/wiki/Nicolaus_Copernicus">Nicolaus Copernicus</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Dante_Alighieri">Dante - wikipedia</a></li>
 </ul>
 </div>
-<div id="outline-container-orgf8add0f" class="outline-4">
-<h4 id="orgf8add0f">Wilder Penfield</h4>
-<div class="outline-text-4" id="text-orgf8add0f">
+<div id="outline-container-org2856710" class="outline-4">
+<h4 id="org2856710">Wilder Penfield</h4>
+<div class="outline-text-4" id="text-org2856710">
 <ul class="org-ul">
 <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3221191/">Brief Biography</a></li>
 <li><a href="http://archneurpsyc.jamanetwork.com/article.aspx?articleid=647745">Penfield Article on Cortex and Consciousness (1938)</a></li>
@@ -545,47 +579,47 @@ for the JavaScript code in this tag.
 </div>
 </div>
 </div>
-<div id="outline-container-org083c1c3" class="outline-3">
-<h3 id="org083c1c3">Concepts</h3>
-<div class="outline-text-3" id="text-org083c1c3">
+<div id="outline-container-orgd19e7e1" class="outline-3">
+<h3 id="orgd19e7e1">Concepts</h3>
+<div class="outline-text-3" id="text-orgd19e7e1">
 </div>
-<div id="outline-container-org630647e" class="outline-4">
-<h4 id="org630647e">Cerebral Ventricles</h4>
-<div class="outline-text-4" id="text-org630647e">
+<div id="outline-container-org8757385" class="outline-4">
+<h4 id="org8757385">Cerebral Ventricles</h4>
+<div class="outline-text-4" id="text-org8757385">
 <ul class="org-ul">
 <li><a href="https://www.ncbi.nlm.nih.gov/books/NBK11083/">Cerebral Ventricles</a></li>
 <li><a href="http://www.davinciandthebrain.org/neuro.jsp">Ventricles and Leonardo da Vinci</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgde1799e" class="outline-4">
-<h4 id="orgde1799e">Memory Palace</h4>
-<div class="outline-text-4" id="text-orgde1799e">
+<div id="outline-container-org165921c" class="outline-4">
+<h4 id="org165921c">Memory Palace</h4>
+<div class="outline-text-4" id="text-org165921c">
 <ul class="org-ul">
 <li><a href="https://en.wikipedia.org/wiki/Method_of_loci">Method of Loci</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org6fac1a1" class="outline-4">
-<h4 id="org6fac1a1">Neurons and their Delineation</h4>
-<div class="outline-text-4" id="text-org6fac1a1">
+<div id="outline-container-org643f489" class="outline-4">
+<h4 id="org643f489">Neurons and their Delineation</h4>
+<div class="outline-text-4" id="text-org643f489">
 <ul class="org-ul">
 <li><a href="https://pdfs.semanticscholar.org/ba7a/9617fd7989aaf40c54ef416d9cb137bdf5ab.pdf">Santiago Ramon y Cajal and the Golgi Stain (pdf)</a></li>
 <li><a href="https://nyamcenterforhistory.files.wordpress.com/2014/04/histologie-watermark.jpg">Cajal Illustration of a Golgi stained Cortical Neuron</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org1c82a2f" class="outline-4">
-<h4 id="org1c82a2f">Visual Areas of the Brain</h4>
-<div class="outline-text-4" id="text-org1c82a2f">
+<div id="outline-container-org4e5b710" class="outline-4">
+<h4 id="org4e5b710">Visual Areas of the Brain</h4>
+<div class="outline-text-4" id="text-org4e5b710">
 <p>
 <a href="http://www.cns.nyu.edu/~david/courses/perception/lecturenotes/motion/motion-slides/motion.014.jpg">Cerebral Map of the Visual Areas</a>
 </p>
 </div>
 </div>
-<div id="outline-container-org4ece19f" class="outline-4">
-<h4 id="org4ece19f">Cortical Connectivity</h4>
-<div class="outline-text-4" id="text-org4ece19f">
+<div id="outline-container-org4aa3ff4" class="outline-4">
+<h4 id="org4aa3ff4">Cortical Connectivity</h4>
+<div class="outline-text-4" id="text-org4aa3ff4">
 <ul class="org-ul">
 <li><a href="http://www.civm.duhs.duke.edu/rhesusatlas/RhesusAtlasFig.jpg">Diffusion Tensor Image of a Monkey Brain</a></li>
 <li><a href="http://link.springer.com/article/10.1007/s12031-007-0029-0">Diffusion Tensor Imaging - Technical Description</a></li>
@@ -594,9 +628,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org28de245" class="outline-4">
-<h4 id="org28de245">Abnormal States of Consciousness</h4>
-<div class="outline-text-4" id="text-org28de245">
+<div id="outline-container-orgb5e4b2d" class="outline-4">
+<h4 id="orgb5e4b2d">Abnormal States of Consciousness</h4>
+<div class="outline-text-4" id="text-orgb5e4b2d">
 <ul class="org-ul">
 <li><a href="https://www.sciencedirect.com/science/article/pii/S147444220400852X?via%3Dihub">Brain Function in Coma</a></li>
 <li><a href="http://uwo.ca/bmi/owenlab/pdf/2014-Owen-NewsandViews.pdf">Consciousness and Brain Damage (pdf)</a></li>
@@ -604,55 +638,55 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org0e9315f" class="outline-4">
-<h4 id="org0e9315f">Cartesian Theater and Homunculi</h4>
-<div class="outline-text-4" id="text-org0e9315f">
+<div id="outline-container-org70b120d" class="outline-4">
+<h4 id="org70b120d">Cartesian Theater and Homunculi</h4>
+<div class="outline-text-4" id="text-org70b120d">
 <ul class="org-ul">
 <li><a href="http://scholarpedia.org/article/Multiple_drafts_model">Multiple Drafts Model</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orga181b34" class="outline-4">
-<h4 id="orga181b34">Reflexes</h4>
-<div class="outline-text-4" id="text-orga181b34">
+<div id="outline-container-orgdf0c3d3" class="outline-4">
+<h4 id="orgdf0c3d3">Reflexes</h4>
+<div class="outline-text-4" id="text-orgdf0c3d3">
 <ul class="org-ul">
 <li><a href="https://books.google.ca/books?id=CvgxUpZ7ZfUC&amp;pg=PA490&amp;lpg=PA490&amp;dq=babinski+reflex+triple+flexor+response+lewis&amp;source=bl&amp;ots=Ddv2t4NXmm&amp;sig=bWN2YWG8gasjiRStldbcX_fmJMU&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiNrsjLxuLaAhXE3YMKHbNmAMQQ6AEIdzAM#v=onepage&amp;q=babinski%20reflex%20triple%20flexor%20response%20lewis&amp;f=false">Babinski and Triple Flexor</a></li>
 </ul>
 </div>
 </div>
 </div>
-<div id="outline-container-org8ed70f7" class="outline-3">
-<h3 id="org8ed70f7">Quotes and References</h3>
-<div class="outline-text-3" id="text-org8ed70f7">
+<div id="outline-container-org2e1efce" class="outline-3">
+<h3 id="org2e1efce">Quotes and References</h3>
+<div class="outline-text-3" id="text-org2e1efce">
 </div>
-<div id="outline-container-orgb839c44" class="outline-4">
-<h4 id="orgb839c44">Flowers and their Meanings in Myth</h4>
-<div class="outline-text-4" id="text-orgb839c44">
+<div id="outline-container-org60016fc" class="outline-4">
+<h4 id="org60016fc">Flowers and their Meanings in Myth</h4>
+<div class="outline-text-4" id="text-org60016fc">
 <ul class="org-ul">
 <li><a href="http://classroom.synonym.com/people-turning-flowers-greek-mythology-14366.html">People Turning into Flowers</a></li>
 <li><a href="https://archive.org/stream/ovid01ovidgoog#page/n32/mode/2up/search/daphne">Daphne and Apollo in Ovid</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org3e7f966" class="outline-4">
-<h4 id="org3e7f966">E pur si muove</h4>
-<div class="outline-text-4" id="text-org3e7f966">
+<div id="outline-container-orgaff4631" class="outline-4">
+<h4 id="orgaff4631">E pur si muove</h4>
+<div class="outline-text-4" id="text-orgaff4631">
 <ul class="org-ul">
 <li><a href="http://en.wikipedia.org/wiki/And_yet_it_moves">And yet it moves</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org90668a4" class="outline-4">
-<h4 id="org90668a4">Canto III - Divina Commedia</h4>
-<div class="outline-text-4" id="text-org90668a4">
+<div id="outline-container-orge9761b6" class="outline-4">
+<h4 id="orge9761b6">Canto III - Divina Commedia</h4>
+<div class="outline-text-4" id="text-orge9761b6">
 <ul class="org-ul">
 <li><a href="https://archive.org/stream/divinecomedyofda19021dant#page/16/mode/2up">Dante's Divine Comedy Canto III</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org16845ac" class="outline-4">
-<h4 id="org16845ac">History of Italy</h4>
-<div class="outline-text-4" id="text-org16845ac">
+<div id="outline-container-orge8c3664" class="outline-4">
+<h4 id="orge8c3664">History of Italy</h4>
+<div class="outline-text-4" id="text-orge8c3664">
 <ul class="org-ul">
 <li><a href="https://en.wikipedia.org/wiki/Italian_unification">Unification</a></li>
 </ul>
@@ -660,13 +694,13 @@ for the JavaScript code in this tag.
 </div>
 </div>
 </div>
-<div id="outline-container-org6927fe9" class="outline-2">
-<h2 id="org6927fe9">4 Cerebellum</h2>
-<div class="outline-text-2" id="text-org6927fe9">
+<div id="outline-container-orgb3630be" class="outline-2">
+<h2 id="orgb3630be">4 Cerebellum</h2>
+<div class="outline-text-2" id="text-orgb3630be">
 </div>
-<div id="outline-container-orgf59e2bd" class="outline-3">
-<h3 id="orgf59e2bd">Nicolas Poussin</h3>
-<div class="outline-text-3" id="text-orgf59e2bd">
+<div id="outline-container-org864690e" class="outline-3">
+<h3 id="org864690e">Nicolas Poussin</h3>
+<div class="outline-text-3" id="text-org864690e">
 <ul class="org-ul">
 <li><a href="http://www.metmuseum.org/toah/hd/pous/hd_pous.htm">Nicolas Poussin - 1594:1665 - brief bio</a></li>
 <li><a href="http://eugrafal.free.fr/Haggard-Rodgers-2000.pdf">Movement Disorder of Nicolas Poussin</a></li>
@@ -677,9 +711,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orge50a270" class="outline-3">
-<h3 id="orge50a270">Modularity of Mind</h3>
-<div class="outline-text-3" id="text-orge50a270">
+<div id="outline-container-orgb44037f" class="outline-3">
+<h3 id="orgb44037f">Modularity of Mind</h3>
+<div class="outline-text-3" id="text-orgb44037f">
 <ul class="org-ul">
 <li><a href="https://plato.stanford.edu/entries/modularity-mind/">Modularity of Mind (Stanford Encyclopedia)</a></li>
 <li><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/phc3.12043">Cognitive Penetrability</a></li>
@@ -689,9 +723,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org91a3731" class="outline-3">
-<h3 id="org91a3731">Miscellaneous</h3>
-<div class="outline-text-3" id="text-org91a3731">
+<div id="outline-container-orgecafc20" class="outline-3">
+<h3 id="orgecafc20">Miscellaneous</h3>
+<div class="outline-text-3" id="text-orgecafc20">
 <ul class="org-ul">
 <li><a href="http://books.google.ca/books?id=QGMRBwz7oWsC&amp;pg=PA77&amp;lpg=PA77&amp;dq=pope+protomedicus&amp;source=bl&amp;ots=3rNQ7FjZrB&amp;sig=jnFdJcz1BsBpjnqpp_X5SY6ufxo&amp;hl=en&amp;sa=X&amp;ei=VyBzVJj9DZKMyASP0IKwCA&amp;ved=0CB8Q6AEwAA#v=onepage&amp;q=pope%20protomedicus&amp;f=false">Protomedicus</a></li>
 <li><a href="https://www.google.ca/search?q=putti&amp;num=20&amp;sa=X&amp;hl=en&amp;biw=1434&amp;bih=759&amp;tbm=isch&amp;tbo=u&amp;source=univ&amp;ei=jyBzVLaBJ4WgyAS97IBw&amp;ved=0CDcQsAQ">Putti</a></li>
@@ -700,17 +734,17 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org6c90e28" class="outline-3">
-<h3 id="org6c90e28">Object Constancy</h3>
-<div class="outline-text-3" id="text-org6c90e28">
+<div id="outline-container-org213a3f4" class="outline-3">
+<h3 id="org213a3f4">Object Constancy</h3>
+<div class="outline-text-3" id="text-org213a3f4">
 <ul class="org-ul">
 <li><a href="http://www.tandfonline.com/doi/abs/10.1080/14640748908402393#.VHMkT38YLt4">Object Constancy</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgd98f37d" class="outline-3">
-<h3 id="orgd98f37d">Cerebellar/Cerebral Facts and Figures</h3>
-<div class="outline-text-3" id="text-orgd98f37d">
+<div id="outline-container-org399a07b" class="outline-3">
+<h3 id="org399a07b">Cerebellar/Cerebral Facts and Figures</h3>
+<div class="outline-text-3" id="text-org399a07b">
 <ul class="org-ul">
 <li><a href="http://brain.oxfordjournals.org/content/133/3/652">Life without a cerebellum</a></li>
 <li><a href="http://onlinelibrary.wiley.com/doi/10.1002/cne.903260405/abstract;jsessionid=17130AAEBEBE9D5323824004F8CB6274.f03t02">Cerebellar Neuron Number</a></li>
@@ -719,30 +753,30 @@ for the JavaScript code in this tag.
 </div>
 </div>
 </div>
-<div id="outline-container-org5a55e79" class="outline-2">
-<h2 id="org5a55e79">5 Two Blind Patients</h2>
-<div class="outline-text-2" id="text-org5a55e79">
+<div id="outline-container-orgaf8dd54" class="outline-2">
+<h2 id="orgaf8dd54">5 Two Blind Patients</h2>
+<div class="outline-text-2" id="text-orgaf8dd54">
 </div>
-<div id="outline-container-orgec8108b" class="outline-3">
-<h3 id="orgec8108b">Vision as Inference</h3>
-<div class="outline-text-3" id="text-orgec8108b">
+<div id="outline-container-org511bad8" class="outline-3">
+<h3 id="org511bad8">Vision as Inference</h3>
+<div class="outline-text-3" id="text-org511bad8">
 <ul class="org-ul">
 <li>Perception and Knowledge by <a href="http://rstb.royalsocietypublishing.org/content/352/1358/1121.full-text.pdf">Gregory</a>.</li>
 <li><a href="https://archive.org/stream/lecturesonscient00helmiala#page/262/mode/2up">Helmholtz</a> on Empirical Vision</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgee59e0a" class="outline-3">
-<h3 id="orgee59e0a">Kepler</h3>
-<div class="outline-text-3" id="text-orgee59e0a">
+<div id="outline-container-org49ee729" class="outline-3">
+<h3 id="org49ee729">Kepler</h3>
+<div class="outline-text-3" id="text-org49ee729">
 <ul class="org-ul">
 <li><a href="http://en.wikipedia.org/wiki/Johannes_Kepler">Kepler</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org5a8b0ce" class="outline-3">
-<h3 id="org5a8b0ce">Visual Facts and Phenomena</h3>
-<div class="outline-text-3" id="text-org5a8b0ce">
+<div id="outline-container-org328bd04" class="outline-3">
+<h3 id="org328bd04">Visual Facts and Phenomena</h3>
+<div class="outline-text-3" id="text-org328bd04">
 <ul class="org-ul">
 <li><a href="https://archive.org/stream/discoursdelameth00desc#page/60/mode/2up/search/oeil">Descartes and the inversion of the retinal image</a></li>
 <li><a href="http://www.nature.com/nrn/journal/v14/n2/full/nrn3405.html">Microsaccades</a></li>
@@ -755,18 +789,18 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgb47b285" class="outline-3">
-<h3 id="orgb47b285">Lomazzo</h3>
-<div class="outline-text-3" id="text-orgb47b285">
+<div id="outline-container-org78589a9" class="outline-3">
+<h3 id="org78589a9">Lomazzo</h3>
+<div class="outline-text-3" id="text-org78589a9">
 <ul class="org-ul">
 <li><a href="http://en.wikipedia.org/wiki/Gian_Paolo_Lomazzo">Gian Paolo Lomazzo</a></li>
 <li><a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1477-4658.1987.tb00120.x/full">Commentary on the style of Lomazzo</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org5f900a6" class="outline-3">
-<h3 id="org5f900a6">Miscellaneous</h3>
-<div class="outline-text-3" id="text-org5f900a6">
+<div id="outline-container-orgcd0291e" class="outline-3">
+<h3 id="orgcd0291e">Miscellaneous</h3>
+<div class="outline-text-3" id="text-orgcd0291e">
 <ul class="org-ul">
 <li><a href="http://en.wikipedia.org/wiki/Sofonisba_Anguissola">Sofonisba Anugissola</a></li>
 <li><a href="http://archive.org/stream/adluciliumepistu01seneuoft/adluciliumepistu01seneuoft_djvu.txt">Ad Luciliuum epistulae morales - with English translation</a> (contains Harpaste)</li>
@@ -774,22 +808,22 @@ for the JavaScript code in this tag.
 </div>
 </div>
 </div>
-<div id="outline-container-org9ee2f7d" class="outline-2">
-<h2 id="org9ee2f7d">6 Locked In</h2>
-<div class="outline-text-2" id="text-org9ee2f7d">
+<div id="outline-container-org0219cff" class="outline-2">
+<h2 id="org0219cff">6 Locked In</h2>
+<div class="outline-text-2" id="text-org0219cff">
 </div>
-<div id="outline-container-org2882202" class="outline-3">
-<h3 id="org2882202">Religion</h3>
-<div class="outline-text-3" id="text-org2882202">
+<div id="outline-container-org8b7fb87" class="outline-3">
+<h3 id="org8b7fb87">Religion</h3>
+<div class="outline-text-3" id="text-org8b7fb87">
 <ul class="org-ul">
 <li><a href="http://en.wikipedia.org/wiki/Inquisition">The Inquisition (Wikipedia)</a></li>
 <li><a href="http://plato.stanford.edu/entries/pascal/">Blaise Pascal (Stanford Encyclopedia)</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org0b54130" class="outline-3">
-<h3 id="org0b54130">Free Will</h3>
-<div class="outline-text-3" id="text-org0b54130">
+<div id="outline-container-orgd82bc41" class="outline-3">
+<h3 id="orgd82bc41">Free Will</h3>
+<div class="outline-text-3" id="text-orgd82bc41">
 <ul class="org-ul">
 <li><a href="http://bigthink.com/videos/daniel-dennett-on-the-nefarious-neurosurgeon">Why Daniel Dennett thinks telling people they don't have free will is harmful (video)</a></li>
 <li><a href="http://pss.sagepub.com/content/19/1/49.full">A belief in determinism encourages cheating</a>.</li>
@@ -797,9 +831,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgdf14769" class="outline-3">
-<h3 id="orgdf14769">Early Computing Machine History</h3>
-<div class="outline-text-3" id="text-orgdf14769">
+<div id="outline-container-orgdd5130a" class="outline-3">
+<h3 id="orgdd5130a">Early Computing Machine History</h3>
+<div class="outline-text-3" id="text-orgdd5130a">
 <ul class="org-ul">
 <li><a href="http://www.computerhistory.org/babbage/">Babbage's Automatic Computing Machine</a></li>
 <li><a href="http://www.computerhistory.org/babbage/adalovelace/">Ada Lovelace</a></li>
@@ -808,18 +842,18 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org6d9f4e2" class="outline-3">
-<h3 id="org6d9f4e2">Computer Vision</h3>
-<div class="outline-text-3" id="text-org6d9f4e2">
+<div id="outline-container-orgc9c573d" class="outline-3">
+<h3 id="orgc9c573d">Computer Vision</h3>
+<div class="outline-text-3" id="text-orgc9c573d">
 <ul class="org-ul">
 <li><a href="http://www.eetimes.com/document.asp?doc_id=1261453">Limitations of computer vision - dynamics</a>.</li>
 <li><a href="http://www.sciencedirect.com/science/article/pii/S0042698908003544">The role of gist in scene recognition</a>.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgc0c3bef" class="outline-3">
-<h3 id="orgc0c3bef">Locked In Syndrome</h3>
-<div class="outline-text-3" id="text-orgc0c3bef">
+<div id="outline-container-orgcbc7c06" class="outline-3">
+<h3 id="orgcbc7c06">Locked In Syndrome</h3>
+<div class="outline-text-3" id="text-orgcbc7c06">
 <ul class="org-ul">
 <li><a href="http://www.bmj.com/content/330/7488/406?variant=full-text">Clinical Review - The locked-in syndrome (BMJ)</a>.</li>
 <li><a href="http://upload.wikimedia.org/wikipedia/commons/f/f8/CPM3.jpg">MRI of central pontine myelinolysis</a></li>
@@ -828,50 +862,52 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orga60fae4" class="outline-3">
-<h3 id="orga60fae4">Detecting Consciousness</h3>
-<div class="outline-text-3" id="text-orga60fae4">
+<div id="outline-container-org4a16ce7" class="outline-3">
+<h3 id="org4a16ce7">Detecting Consciousness</h3>
+<div class="outline-text-3" id="text-org4a16ce7">
 <ul class="org-ul">
 <li><a href="http://www.sciencemag.org/content/313/5792/1402.full">Detecting awareness in the vegetative state (2006)</a>?</li>
 <li><a href="http://www.theguardian.com/technology/2014/jun/08/super-computer-simulates-13-year-old-boy-passes-turing-test">Computer passes the Turing test</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org06531a1" class="outline-3">
-<h3 id="org06531a1">Mersenne</h3>
-<div class="outline-text-3" id="text-org06531a1">
+<div id="outline-container-orga8f601f" class="outline-3">
+<h3 id="orga8f601f">Mersenne</h3>
+<div class="outline-text-3" id="text-orga8f601f">
 <ul class="org-ul">
 <li><a href="https://archive.org/stream/bub_gb_yKNvuZphg-8C">Mersenne's Book (French)</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Mersenne_prime">Mersenne Prime (Wikipedia)</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orga5049ab" class="outline-3">
-<h3 id="orga5049ab">Miscellaneous</h3>
-<div class="outline-text-3" id="text-orga5049ab">
+<div id="outline-container-org076a736" class="outline-3">
+<h3 id="org076a736">Miscellaneous</h3>
+<div class="outline-text-3" id="text-org076a736">
 <ul class="org-ul">
 <li><a href="http://plato.stanford.edu/entries/modularity-mind/">Modularity of Mind (Stanford Encyclopedia)</a></li>
 <li><a href="http://youtu.be/9ubXFMklEe8">Shadow Hand robotics demonstrated (video)</a></li>
+<li><a href="http://dx.doi.org/10.3758/bf03210815">Attention and the Stroop</a></li>
+<li><a href="https://doi.org/10.3758/bf03210834">Unconsciously Controlled Processing</a></li>
 </ul>
 </div>
 </div>
 </div>
-<div id="outline-container-orgac25f10" class="outline-2">
-<h2 id="orgac25f10">7 Amnesia</h2>
-<div class="outline-text-2" id="text-orgac25f10">
+<div id="outline-container-orgdfa7aa3" class="outline-2">
+<h2 id="orgdfa7aa3">7 Amnesia</h2>
+<div class="outline-text-2" id="text-orgdfa7aa3">
 </div>
-<div id="outline-container-org4599509" class="outline-3">
-<h3 id="org4599509">Veronica Franco</h3>
-<div class="outline-text-3" id="text-org4599509">
+<div id="outline-container-orgf0a00e3" class="outline-3">
+<h3 id="orgf0a00e3">Veronica Franco</h3>
+<div class="outline-text-3" id="text-orgf0a00e3">
 <ul class="org-ul">
 <li><a href="https://en.wikipedia.org/wiki/Veronica_Franco">Veronica Franco</a></li>
 <li><a href="https://archive.org/details/terzerimeesonett00franuoft">Terze Rima by Veronica Franco (Italian)</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgc972420" class="outline-3">
-<h3 id="orgc972420">Memory Impairment Cases and Anatomy</h3>
-<div class="outline-text-3" id="text-orgc972420">
+<div id="outline-container-org08aa3c9" class="outline-3">
+<h3 id="org08aa3c9">Memory Impairment Cases and Anatomy</h3>
+<div class="outline-text-3" id="text-org08aa3c9">
 <ul class="org-ul">
 <li><a href="http://youtu.be/Vwigmktix2Y">Case of Extreme Short Term Memory Impairment (video)</a></li>
 <li><a href="https://media.nature.com/lw926/nature-assets/nrn/journal/v10/n4/images/nrn2614-f1.jpg">Anatomy of Hippocampus and Parahippocampus</a></li>
@@ -883,31 +919,31 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org35e1546" class="outline-3">
-<h3 id="org35e1546">Barbara Strozzi</h3>
-<div class="outline-text-3" id="text-org35e1546">
+<div id="outline-container-orgcc28f4b" class="outline-3">
+<h3 id="orgcc28f4b">Barbara Strozzi</h3>
+<div class="outline-text-3" id="text-orgcc28f4b">
 <ul class="org-ul">
 <li><a href="http://www.musicacademyonline.com/composer/biographies.php?bid=134">Barbara Strozzi</a></li>
 <li><a href="http://youtu.be/w2lBnocuMC0">Example of Strozzi's Music (youtube)</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org105ce4e" class="outline-3">
-<h3 id="org105ce4e">Miscellaneous</h3>
-<div class="outline-text-3" id="text-org105ce4e">
+<div id="outline-container-orga2e6099" class="outline-3">
+<h3 id="orga2e6099">Miscellaneous</h3>
+<div class="outline-text-3" id="text-orga2e6099">
 <ul class="org-ul">
 <li><a href="http://ac.els-cdn.com/0315086084900259/1-s2.0-0315086084900259-main.pdf?_tid=1aaebef4-967a-11e4-9677-00000aacb35e&amp;acdnat=1420641370_c65d6ba57be19696a75fedb0cca191db">Eratosthenes measurement critiqued (1984)</a></li>
 </ul>
 </div>
 </div>
 </div>
-<div id="outline-container-orgfc61e91" class="outline-2">
-<h2 id="orgfc61e91">8 Split Brains</h2>
-<div class="outline-text-2" id="text-orgfc61e91">
+<div id="outline-container-orgd2ba900" class="outline-2">
+<h2 id="orgd2ba900">8 Split Brains</h2>
+<div class="outline-text-2" id="text-orgd2ba900">
 </div>
-<div id="outline-container-org736e3eb" class="outline-3">
-<h3 id="org736e3eb">Carlo Gesualdo and Music</h3>
-<div class="outline-text-3" id="text-org736e3eb">
+<div id="outline-container-org02fa804" class="outline-3">
+<h3 id="org02fa804">Carlo Gesualdo and Music</h3>
+<div class="outline-text-3" id="text-org02fa804">
 <ul class="org-ul">
 <li><a href="https://en.wikipedia.org/wiki/Carlo_Gesualdo">Carlo Gesualdo (Wikipedia)</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Diatonic_and_chromatic">Chromatic Music (Wikipedia)</a></li>
@@ -916,9 +952,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org3f376da" class="outline-3">
-<h3 id="org3f376da">Hemispheres and Consciousness and Surgery</h3>
-<div class="outline-text-3" id="text-org3f376da">
+<div id="outline-container-orgea1fa40" class="outline-3">
+<h3 id="orgea1fa40">Hemispheres and Consciousness and Surgery</h3>
+<div class="outline-text-3" id="text-orgea1fa40">
 <ul class="org-ul">
 <li><a href="https://youtu.be/rH0TgAZ4coc">Hemispherectomy Patient Story and Surgery (Video - YouTube)</a></li>
 <li><a href="http://www.nytimes.com/2011/11/01/science/telling-the-story-of-the-brains-cacophony-of-competing-voices.html?pagewanted=all&amp;_r=0">Gazzaniga Discusses Split Brain Research</a>.</li>
@@ -931,9 +967,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org5ec91ce" class="outline-3">
-<h3 id="org5ec91ce">Miscellaneous</h3>
-<div class="outline-text-3" id="text-org5ec91ce">
+<div id="outline-container-orgb4b0936" class="outline-3">
+<h3 id="orgb4b0936">Miscellaneous</h3>
+<div class="outline-text-3" id="text-orgb4b0936">
 <ul class="org-ul">
 <li><a href="https://archive.org/stream/lockesessayconce00lock#page/67/mode/1up">Molineaux's Problem</a>?</li>
 <li><a href="http://mathforum.org/dr.math/faq/faq.liar.html">Liars and Truthtellers</a>.</li>
@@ -945,13 +981,13 @@ for the JavaScript code in this tag.
 </div>
 </div>
 </div>
-<div id="outline-container-orge56cef5" class="outline-2">
-<h2 id="orge56cef5">9 Brain Conflict</h2>
-<div class="outline-text-2" id="text-orge56cef5">
+<div id="outline-container-org759db8f" class="outline-2">
+<h2 id="org759db8f">9 Brain Conflict</h2>
+<div class="outline-text-2" id="text-org759db8f">
 </div>
-<div id="outline-container-orgf720cd5" class="outline-3">
-<h3 id="orgf720cd5">Zombies</h3>
-<div class="outline-text-3" id="text-orgf720cd5">
+<div id="outline-container-orgff2dbc6" class="outline-3">
+<h3 id="orgff2dbc6">Zombies</h3>
+<div class="outline-text-3" id="text-orgff2dbc6">
 <ul class="org-ul">
 <li><a href="http://plato.stanford.edu/entries/zombies/">Zombies in Philosophy of Mind</a></li>
 <li><a href="http://upload.wikimedia.org/wikipedia/commons/2/27/Kempelen_chess1.jpg">The Original Mechanical Turk</a></li>
@@ -959,9 +995,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgab7eb3f" class="outline-3">
-<h3 id="orgab7eb3f">Hysteria</h3>
-<div class="outline-text-3" id="text-orgab7eb3f">
+<div id="outline-container-org05caeda" class="outline-3">
+<h3 id="org05caeda">Hysteria</h3>
+<div class="outline-text-3" id="text-org05caeda">
 <ul class="org-ul">
 <li><a href="http://journals.sagepub.com/doi/abs/10.1177/007327538902700301">History of Hysteria</a></li>
 <li><a href="./pdf/charcot.pdf">Charcot and the l'Hopital Salpêtrière</a></li>
@@ -971,9 +1007,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgbbcd464" class="outline-3">
-<h3 id="orgbbcd464">Visual Loss</h3>
-<div class="outline-text-3" id="text-orgbbcd464">
+<div id="outline-container-orgc6b2102" class="outline-3">
+<h3 id="orgc6b2102">Visual Loss</h3>
+<div class="outline-text-3" id="text-orgc6b2102">
 <ul class="org-ul">
 <li><a href="https://www.sciencedirect.com/science/article/pii/S0959438896800754">Blindsight</a></li>
 <li><a href="https://link.springer.com/content/pdf/10.1007/BF02126945.pdf">Anton's Syndrome (German;pdf)</a></li>
@@ -982,25 +1018,26 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org200cc2f" class="outline-3">
-<h3 id="org200cc2f">Miscellaneous</h3>
-<div class="outline-text-3" id="text-org200cc2f">
+<div id="outline-container-org0f47d95" class="outline-3">
+<h3 id="org0f47d95">Miscellaneous</h3>
+<div class="outline-text-3" id="text-org0f47d95">
 <ul class="org-ul">
 <li><a href="https://en.wikipedia.org/wiki/Teresa_of_%C3%81vila">Teresa of Ávila</a></li>
 <li><a href="http://www.professeurs-medecine-nancy.fr/Grignon12.htm">Charles Le Pois</a>.</li>
 <li><a href="http://www.gutenberg.org/files/35977/35977-h/35977-h.htm">Letters of Abelard and Heloise</a></li>
 <li><a href="https://youtu.be/gcF_CnUgLeQ">O Quanta Qualia par Abelard (youtube)</a></li>
+<li><a href="http://www.cbc.ca/cbcdocspov/m_features/the-hogan-twins-share-a-brain-and-see-out-of-each-others-eyes">Opposite of Split Brain - Conjoined Twins?</a></li>
 </ul>
 </div>
 </div>
 </div>
-<div id="outline-container-org3c06952" class="outline-2">
-<h2 id="org3c06952">10 A Brain Possessed</h2>
-<div class="outline-text-2" id="text-org3c06952">
+<div id="outline-container-org9df388b" class="outline-2">
+<h2 id="org9df388b">10 A Brain Possessed</h2>
+<div class="outline-text-2" id="text-org9df388b">
 </div>
-<div id="outline-container-orgf8fc25f" class="outline-3">
-<h3 id="orgf8fc25f">One of Us</h3>
-<div class="outline-text-3" id="text-orgf8fc25f">
+<div id="outline-container-org68318f3" class="outline-3">
+<h3 id="org68318f3">One of Us</h3>
+<div class="outline-text-3" id="text-org68318f3">
 <ul class="org-ul">
 <li><a href="http://youtu.be/1Y_KNYNzN6A">Simpsons</a>?</li>
 <li><a href="http://en.wikipedia.org/wiki/Freaks">Freaks (Wikipedia description)</a>?</li>
@@ -1009,19 +1046,20 @@ Dinner party seen with "One of Us" starts around 3:30.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org73771ed" class="outline-3">
-<h3 id="org73771ed">Epilepsy</h3>
-<div class="outline-text-3" id="text-org73771ed">
+<div id="outline-container-org220ac8b" class="outline-3">
+<h3 id="org220ac8b">Epilepsy</h3>
+<div class="outline-text-3" id="text-org220ac8b">
 <ul class="org-ul">
 <li><a href="http://books.google.ca/books?hl=en&amp;lr=&amp;id=cPi6NR5qbsAC&amp;oi=fnd&amp;pg=PR7&amp;dq=epilepsy+history&amp;ots=nWlAYAgbWd&amp;sig=rqAWFg9PoPUZcjz-8tcFz4Q6gYE#v=onepage&amp;q=epilepsy%20history&amp;f=false">Early theory of Epilepsy</a></li>
 <li><a href="http://youtu.be/Nds2U4CzvC4">A Seizure Recorded in Hospital (youtube)</a></li>
+<li><a href="https://www.youtube.com/watch?v=BvqA3vbNYPc">Eine Andere (auf Deutsch)</a></li>
 <li><a href="http://www.cell.com/neuron/issue?pii=S0896-6273(00)X0252-8">Synchrony Effects on Cognition (several articles in this issue of Neuron)</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org33b6093" class="outline-3">
-<h3 id="org33b6093">Measuring Increased Cerebral Blood Flow</h3>
-<div class="outline-text-3" id="text-org33b6093">
+<div id="outline-container-org298705f" class="outline-3">
+<h3 id="org298705f">Measuring Increased Cerebral Blood Flow</h3>
+<div class="outline-text-3" id="text-org298705f">
 <ul class="org-ul">
 <li><a href="https://en.wikipedia.org/wiki/Angelo_Mosso">Angelo Mosso (Wikipedia)</a></li>
 <li><a href="http://brain.oxfordjournals.org/content/early/2013/05/17/brain.awt091.long">Angelo Mosso's work discussed and translated (Brain)</a>.</li>
@@ -1029,9 +1067,9 @@ Dinner party seen with "One of Us" starts around 3:30.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org1223a26" class="outline-3">
-<h3 id="org1223a26">Miscellaneous</h3>
-<div class="outline-text-3" id="text-org1223a26">
+<div id="outline-container-org1a3dfb6" class="outline-3">
+<h3 id="org1a3dfb6">Miscellaneous</h3>
+<div class="outline-text-3" id="text-org1a3dfb6">
 <ul class="org-ul">
 <li><a href="https://en.wikipedia.org/wiki/Paracelsus">Paracelsus (Wikipedia)</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Camphor">Camphor (wikipedia</a></li>
@@ -1043,13 +1081,13 @@ Dinner party seen with "One of Us" starts around 3:30.</li>
 </div>
 </div>
 </div>
-<div id="outline-container-orged97826" class="outline-2">
-<h2 id="orged97826">11 A Brain Asleep</h2>
-<div class="outline-text-2" id="text-orged97826">
+<div id="outline-container-org95ff23c" class="outline-2">
+<h2 id="org95ff23c">11 A Brain Asleep</h2>
+<div class="outline-text-2" id="text-org95ff23c">
 </div>
-<div id="outline-container-orgf8a29f0" class="outline-3">
-<h3 id="orgf8a29f0">Sleep</h3>
-<div class="outline-text-3" id="text-orgf8a29f0">
+<div id="outline-container-orgfef8ee7" class="outline-3">
+<h3 id="orgfef8ee7">Sleep</h3>
+<div class="outline-text-3" id="text-orgfef8ee7">
 <ul class="org-ul">
 <li><a href="http://onlinelibrary.wiley.com/doi/10.1113/jphysiol.2010.197517/full">Energy Expenditure During Sleep</a>.</li>
 <li><a href="https://biokamikazi.files.wordpress.com/2016/01/25863_6.png?w=640">Stages of Sleep Seen With EEG</a></li>
@@ -1060,9 +1098,9 @@ Dinner party seen with "One of Us" starts around 3:30.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgd72673c" class="outline-3">
-<h3 id="orgd72673c">Skulls and Brains</h3>
-<div class="outline-text-3" id="text-orgd72673c">
+<div id="outline-container-org884f7bb" class="outline-3">
+<h3 id="org884f7bb">Skulls and Brains</h3>
+<div class="outline-text-3" id="text-org884f7bb">
 <ul class="org-ul">
 <li><a href="http://media.npr.org/assets/img/2011/05/28/107957773-descartes-skull_custom-f85f7a58a774d78e50c724b8a134c4a3f3c3a16a-s6-c30.jpg">Descartes Skull</a></li>
 <li><a href="http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)61816-X/fulltext">Descartes Enlarged Ethmoid Sinus</a></li>
@@ -1071,9 +1109,9 @@ Dinner party seen with "One of Us" starts around 3:30.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org3a087ea" class="outline-3">
-<h3 id="org3a087ea">Miscellaneous</h3>
-<div class="outline-text-3" id="text-org3a087ea">
+<div id="outline-container-orgd24d576" class="outline-3">
+<h3 id="orgd24d576">Miscellaneous</h3>
+<div class="outline-text-3" id="text-orgd24d576">
 <ul class="org-ul">
 <li><a href="https://www.questionwritertracker.com/quiz/61/Z4MK3TKB.html">Reading the Mind in the Eyes Test (requires javascript)</a></li>
 <li><a href="http://plato.stanford.edu/entries/qualia/">Qualia (Stanford Encyclopedia of Philosophy)</a></li>
@@ -1085,22 +1123,22 @@ Dinner party seen with "One of Us" starts around 3:30.</li>
 </div>
 </div>
 </div>
-<div id="outline-container-org813c620" class="outline-2">
-<h2 id="org813c620">12 Enigma of Consciousness</h2>
-<div class="outline-text-2" id="text-org813c620">
+<div id="outline-container-orgbfb3452" class="outline-2">
+<h2 id="orgbfb3452">12 Enigma of Consciousness</h2>
+<div class="outline-text-2" id="text-orgbfb3452">
 </div>
-<div id="outline-container-org48393d1" class="outline-3">
-<h3 id="org48393d1">Aristotle and Locke on Empty Minds</h3>
-<div class="outline-text-3" id="text-org48393d1">
+<div id="outline-container-org681e28c" class="outline-3">
+<h3 id="org681e28c">Aristotle and Locke on Empty Minds</h3>
+<div class="outline-text-3" id="text-org681e28c">
 <ul class="org-ul">
 <li><a href="https://archive.org/stream/cu31924028995807#page/116/mode/2up/search/tablet">Artistotle's Psychology (De Anima) Tabula Rasa</a></li>
 <li><a href="https://archive.org/stream/anessayconcerni00frasgoog#page/n270/mode/2up/search/white+paper">Locke An Essay Concerning Human Understanding (white paper)</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgd7b5bad" class="outline-3">
-<h3 id="orgd7b5bad">Alan Turing</h3>
-<div class="outline-text-3" id="text-orgd7b5bad">
+<div id="outline-container-orgc224dad" class="outline-3">
+<h3 id="orgc224dad">Alan Turing</h3>
+<div class="outline-text-3" id="text-orgc224dad">
 <ul class="org-ul">
 <li><a href="https://www.bl.uk/voices-of-science/interviewees/geoff-tootill/audio/geoff-tootill-working-with-alan-turing">Audio Recollection</a> - Alan Turing makes a mistake</li>
 <li><a href="https://link.springer.com/article/10.1007%2FBF03028336?LI=true">Working With Alan Turing (pdf)</a></li>
@@ -1109,9 +1147,9 @@ Dinner party seen with "One of Us" starts around 3:30.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org926c93f" class="outline-3">
-<h3 id="org926c93f">Charles Sherrington</h3>
-<div class="outline-text-3" id="text-org926c93f">
+<div id="outline-container-org9a1c0b6" class="outline-3">
+<h3 id="org9a1c0b6">Charles Sherrington</h3>
+<div class="outline-text-3" id="text-org9a1c0b6">
 <ul class="org-ul">
 <li><a href="http://en.wikipedia.org/wiki/Charles_Scott_Sherrington">Sir Charles Sherrington</a></li>
 <li><a href="https://archive.org/download/0056-0000-4375-0000-0-0000-0000-0/0056-0000-4375-0000-0-0000-0000-0.mp3">The Physical Basis of Mind - Sherrington (audio)</a></li>
@@ -1120,9 +1158,9 @@ Dinner party seen with "One of Us" starts around 3:30.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org6e1be4d" class="outline-3">
-<h3 id="org6e1be4d">Miscellaneous</h3>
-<div class="outline-text-3" id="text-org6e1be4d">
+<div id="outline-container-org60a620b" class="outline-3">
+<h3 id="org60a620b">Miscellaneous</h3>
+<div class="outline-text-3" id="text-org60a620b">
 <ul class="org-ul">
 <li><a href="http://en.wikipedia.org/wiki/Ganzfeld_effect">Ganzfeld</a></li>
 <li><a href="http://www.gestalttheory.net/people/metzger.html">Wolfgang Metzger</a>.</li>
@@ -1136,13 +1174,13 @@ Relates to quote page 122 about recognition of the <span class="underline">same<
 </div>
 </div>
 </div>
-<div id="outline-container-org2378702" class="outline-2">
-<h2 id="org2378702">13 Photodiode</h2>
-<div class="outline-text-2" id="text-org2378702">
+<div id="outline-container-org04c5b9f" class="outline-2">
+<h2 id="org04c5b9f">13 Photodiode</h2>
+<div class="outline-text-2" id="text-org04c5b9f">
 </div>
-<div id="outline-container-org6873113" class="outline-3">
-<h3 id="org6873113">Philosophy and Logic</h3>
-<div class="outline-text-3" id="text-org6873113">
+<div id="outline-container-org647b789" class="outline-3">
+<h3 id="org647b789">Philosophy and Logic</h3>
+<div class="outline-text-3" id="text-org647b789">
 <ul class="org-ul">
 <li><a href="http://en.wikipedia.org/wiki/Inertia">Principle of Inertia</a></li>
 <li><a href="http://plato.stanford.edu/entries/leibniz/#PriSufRea">Principle of Sufficient Reason - Leibniz (Stanford Encyclopedia)</a></li>
@@ -1152,9 +1190,9 @@ Relates to quote page 122 about recognition of the <span class="underline">same<
 </ul>
 </div>
 </div>
-<div id="outline-container-org530513c" class="outline-3">
-<h3 id="org530513c">Tristam Shandy</h3>
-<div class="outline-text-3" id="text-org530513c">
+<div id="outline-container-orga2b3837" class="outline-3">
+<h3 id="orga2b3837">Tristam Shandy</h3>
+<div class="outline-text-3" id="text-orga2b3837">
 <ul class="org-ul">
 <li><a href="http://plato.stanford.edu/entries/kant-science/#Psy">Kant and Psychology as a Science (not!)</a></li>
 <li><a href="http://blog.whitneyannetrettien.com/2012/09/tristram-shandy-art-of-black-mourning.html">Shandy and Black Mourning Pages</a>?</li>
@@ -1162,18 +1200,18 @@ Relates to quote page 122 about recognition of the <span class="underline">same<
 </ul>
 </div>
 </div>
-<div id="outline-container-org7ee5762" class="outline-3">
-<h3 id="org7ee5762">Photodiodes</h3>
-<div class="outline-text-3" id="text-org7ee5762">
+<div id="outline-container-orgd4ba401" class="outline-3">
+<h3 id="orgd4ba401">Photodiodes</h3>
+<div class="outline-text-3" id="text-orgd4ba401">
 <ul class="org-ul">
 <li><a href="http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Photodiode.html">Photodiodes Explained</a>?</li>
 <li><a href="https://www.thorlabs.com/images/xlarge/12174-xl.jpg">Image of a Photodiode</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgb56c061" class="outline-3">
-<h3 id="orgb56c061">Quotes</h3>
-<div class="outline-text-3" id="text-orgb56c061">
+<div id="outline-container-org278bb7e" class="outline-3">
+<h3 id="org278bb7e">Quotes</h3>
+<div class="outline-text-3" id="text-org278bb7e">
 <ul class="org-ul">
 <li><a href="http://www.churchill-society-london.org.uk/RusnEnig.html">Enigmas and Mysteries</a>
 Of course enigma is also a play on words for Turing too.</li>
@@ -1186,31 +1224,31 @@ Of course enigma is also a play on words for Turing too.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orge268cbd" class="outline-3">
-<h3 id="orge268cbd">Perception and Consciousness</h3>
-<div class="outline-text-3" id="text-orge268cbd">
+<div id="outline-container-orgb2cc6ab" class="outline-3">
+<h3 id="orgb2cc6ab">Perception and Consciousness</h3>
+<div class="outline-text-3" id="text-orgb2cc6ab">
 <ul class="org-ul">
 <li><a href="http://www.jneurosci.org/content/28/10/2667.short">Perception and Consciousness compared by EEG</a></li>
 </ul>
 </div>
 </div>
 </div>
-<div id="outline-container-orgff930cf" class="outline-2">
-<h2 id="orgff930cf">14 Information</h2>
-<div class="outline-text-2" id="text-orgff930cf">
+<div id="outline-container-org76c4bf0" class="outline-2">
+<h2 id="org76c4bf0">14 Information</h2>
+<div class="outline-text-2" id="text-org76c4bf0">
 </div>
-<div id="outline-container-orge0dd37c" class="outline-3">
-<h3 id="orge0dd37c">Shannon</h3>
-<div class="outline-text-3" id="text-orge0dd37c">
+<div id="outline-container-org32f5a68" class="outline-3">
+<h3 id="org32f5a68">Shannon</h3>
+<div class="outline-text-3" id="text-org32f5a68">
 <ul class="org-ul">
 <li>Claude Shannon's <a href="https://www2.bc.edu/~lewbel/Shannon.html">obiturary</a></li>
 <li>Modern version of the beautiful <a href="http://youtu.be/cZ34RDn34Ws">machine</a>.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgeadbac3" class="outline-3">
-<h3 id="orgeadbac3">Information Quantification</h3>
-<div class="outline-text-3" id="text-orgeadbac3">
+<div id="outline-container-orgdd59b50" class="outline-3">
+<h3 id="orgdd59b50">Information Quantification</h3>
+<div class="outline-text-3" id="text-orgdd59b50">
 <ul class="org-ul">
 <li>How do you quantify <a href="http://schneider.ncifcrf.gov/paper/primer/">information</a>?</li>
 <li>Shannon's Bell Lab Technical Journal <a href="http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf">article</a></li>
@@ -1226,9 +1264,9 @@ Of course enigma is also a play on words for Turing too.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orga1510cd" class="outline-3">
-<h3 id="orga1510cd">Miscellaneous</h3>
-<div class="outline-text-3" id="text-orga1510cd">
+<div id="outline-container-org0f23abf" class="outline-3">
+<h3 id="org0f23abf">Miscellaneous</h3>
+<div class="outline-text-3" id="text-org0f23abf">
 <ul class="org-ul">
 <li><a href="https://en.wikipedia.org/wiki/Koyaanisqatsi">Koyaanisqatsi</a> an avant-garde film without dialogue.</li>
 <li>The <a href="http://youtu.be/tDW-1JIa2gI">trailer</a> on youtube.</li>
@@ -1236,9 +1274,9 @@ Of course enigma is also a play on words for Turing too.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org5a8d1ea" class="outline-3">
-<h3 id="org5a8d1ea">Quotes</h3>
-<div class="outline-text-3" id="text-org5a8d1ea">
+<div id="outline-container-org70f31c9" class="outline-3">
+<h3 id="org70f31c9">Quotes</h3>
+<div class="outline-text-3" id="text-org70f31c9">
 <ul class="org-ul">
 <li><a href="https://youtu.be/pTFE8cirkdQ?t=5m28s">She had transformed into another face</a></li>
 <li><a href="https://www.nature.com/articles/381520a0">And through the window the scenes were changin at even greater speed&#x2026;</a></li>
@@ -1272,13 +1310,13 @@ remain as unanswerable as before.
 </div>
 </div>
 </div>
-<div id="outline-container-orgfa667ed" class="outline-2">
-<h2 id="orgfa667ed">15 Galileo and the Camera</h2>
-<div class="outline-text-2" id="text-orgfa667ed">
+<div id="outline-container-org26ef333" class="outline-2">
+<h2 id="org26ef333">15 Galileo and the Camera</h2>
+<div class="outline-text-2" id="text-org26ef333">
 </div>
-<div id="outline-container-org32192ae" class="outline-3">
-<h3 id="org32192ae">Characters</h3>
-<div class="outline-text-3" id="text-org32192ae">
+<div id="outline-container-orgbed2a97" class="outline-3">
+<h3 id="orgbed2a97">Characters</h3>
+<div class="outline-text-3" id="text-orgbed2a97">
 <ul class="org-ul">
 <li><a href="https://plato.stanford.edu/entries/kant/">Immanuel Kant</a></li>
 <li><a href="https://plato.stanford.edu/entries/democritus/">Democritus</a></li>
@@ -1288,9 +1326,9 @@ remain as unanswerable as before.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgf88ed93" class="outline-3">
-<h3 id="orgf88ed93">Categories And Mistakes</h3>
-<div class="outline-text-3" id="text-orgf88ed93">
+<div id="outline-container-org92e95f7" class="outline-3">
+<h3 id="org92e95f7">Categories And Mistakes</h3>
+<div class="outline-text-3" id="text-org92e95f7">
 <ul class="org-ul">
 <li><a href="https://plato.stanford.edu/entries/categories/#KanCon">Category Distinctions</a></li>
 <li><a href="https://archive.org/details/conceptofmind032022mbp">The Concept of Mind (Ryle)</a></li>
@@ -1300,11 +1338,153 @@ remain as unanswerable as before.
 </div>
 </div>
 </div>
+<div id="outline-container-orgc60394c" class="outline-2">
+<h2 id="orgc60394c">16</h2>
+</div>
+<div id="outline-container-org0e1bfb3" class="outline-2">
+<h2 id="org0e1bfb3">17</h2>
+</div>
+<div id="outline-container-orgfff400d" class="outline-2">
+<h2 id="orgfff400d">18</h2>
+</div>
+<div id="outline-container-org5c1396d" class="outline-2">
+<h2 id="org5c1396d">19</h2>
+</div>
+<div id="outline-container-orgff55c72" class="outline-2">
+<h2 id="orgff55c72">20</h2>
+</div>
+<div id="outline-container-org677036a" class="outline-2">
+<h2 id="org677036a">21</h2>
+</div>
+<div id="outline-container-org5bb45c4" class="outline-2">
+<h2 id="org5bb45c4">22 Introduction</h2>
+<div class="outline-text-2" id="text-org5bb45c4">
+</div>
+<div id="outline-container-orga537369" class="outline-3">
+<h3 id="orga537369"><a href="https://en.wikipedia.org/wiki/Vestal_Virgin">Vestal Virgins</a></h3>
+</div>
+<div id="outline-container-orge9a535d" class="outline-3">
+<h3 id="orge9a535d"><a href="https://en.wikipedia.org/wiki/Religious_views_of_Charles_Darwin">Darwin's Religious Views</a></h3>
+</div>
+<div id="outline-container-org21ac279" class="outline-3">
+<h3 id="org21ac279"><a href="https://www.tandfonline.com/doi/full/10.1080/09647040903504781">Darwin and the Problem of Consciousness</a></h3>
+</div>
+<div id="outline-container-org64ff9ab" class="outline-3">
+<h3 id="org64ff9ab"><a href="https://www.sciencedirect.com/science/article/pii/089662739390304A">Neural Darwinisms - Edelman (Neuron)</a></h3>
+</div>
+<div id="outline-container-org6a12c4f" class="outline-3">
+<h3 id="org6a12c4f"><a href="http://www.gospel-mysteries.net/mary-magdalene.html">Witness to the Resurrection</a></h3>
+</div>
+</div>
+<div id="outline-container-orgfad01d3" class="outline-2">
+<h2 id="orgfad01d3">23 Nightfall 1 - Death</h2>
+<div class="outline-text-2" id="text-orgfad01d3">
+</div>
+<div id="outline-container-orgc3516e2" class="outline-3">
+<h3 id="orgc3516e2">Giordano Bruno</h3>
+<div class="outline-text-3" id="text-orgc3516e2">
+<ul class="org-ul">
+<li><a href="https://www.thenation.com/article/hungry-mind-giordano-bruno-philosopher-and-heretic/">Brief Biography and Book Review (2008)</a></li>
+<li><a href="http://www.imdb.com/title/tt0070109/">Giordano Bruno - The Film (1973)</a></li>
+<li><a href="http://3.bp.blogspot.com/-GxGYP2QZtXE/UW8DDbu0SlI/AAAAAAAAMeY/2E4Wwd4U9ac/s1600/1304170071.jpg">Statue Campo di Fiori Rome</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgb235743" class="outline-3">
+<h3 id="orgb235743">Philip Larkin</h3>
+<div class="outline-text-3" id="text-orgb235743">
+<ul class="org-ul">
+<li><a href="https://www.poetryfoundation.org/poems/48422/aubade-56d229a6e2f07">Aubade</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org3c6e9f3" class="outline-3">
+<h3 id="org3c6e9f3">Andreas Vesalius</h3>
+<div class="outline-text-3" id="text-org3c6e9f3">
+<ul class="org-ul">
+<li><a href="https://www.bbc.co.uk/history/historic_figures/vesalius_andreas.shtml">Brief Bio from the BBC</a></li>
+<li><a href="https://www.bbc.co.uk/programmes/p005488j">In our Time BBC Podcast on Anatomy</a></li>
+<li><a href="https://archive.org/details/bub_gb_5Xby3nxU3XMC">De humani corporis fabrica libri septum</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org8beda5c" class="outline-3">
+<h3 id="org8beda5c">Brain Death</h3>
+<div class="outline-text-3" id="text-org8beda5c">
+<ul class="org-ul">
+<li><a href="https://en.wikipedia.org/wiki/Brain_death">Brain Death (Wikipedia)</a></li>
+<li><a href="https://youtu.be/Nty6bICZlyA">Lazarus Reflex (Youtube)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lazarus_of_Bethany">Lazarus (Wikipedia)</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org47038b1" class="outline-3">
+<h3 id="org47038b1"><a href="https://www.scientificamerican.com/article/why-is-synaptic-pruning-important-for-the-developing-brain/">Synaptic Pruning</a></h3>
+</div>
+<div id="outline-container-org062543a" class="outline-3">
+<h3 id="org062543a"><a href="https://plato.stanford.edu/entries/plato-myths/">Demiurge</a></h3>
+</div>
+<div id="outline-container-org2d55560" class="outline-3">
+<h3 id="org2d55560">Alain Renais</h3>
+<div class="outline-text-3" id="text-org2d55560">
+<ul class="org-ul">
+<li><a href="https://youtu.be/CPLX8U2SHJE">Nuit Et Brouillard</a></li>
+<li><a href="https://youtu.be/oQ8JV07QgQQ">Interview</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org79fa5f1" class="outline-3">
+<h3 id="org79fa5f1">Sculpture</h3>
+<div class="outline-text-3" id="text-org79fa5f1">
+<ul class="org-ul">
+<li><a href="http://www.michelangeloexperience.com/2010/09/the-rondanini-pieta/">Rondanini Pieta</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-org7116e50" class="outline-2">
+<h2 id="org7116e50">24 Nightfall 2 - Dementia</h2>
+<div class="outline-text-2" id="text-org7116e50">
+</div>
+<div id="outline-container-org974188f" class="outline-3">
+<h3 id="org974188f">Dementia</h3>
+<div class="outline-text-3" id="text-org974188f">
+<ul class="org-ul">
+<li><a href="https://www.mayoclinic.org/diseases-conditions/dementia/diagnosis-treatment/drc-20352019">Diagnosis</a></li>
+<li><a href="https://alz.org/alzheimers_disease_stages_of_alzheimers.asp">Stages of Alzheimers</a></li>
+<li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ana.410270502">Synapse loss and dementia severity</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org33b1d3a" class="outline-3">
+<h3 id="org33b1d3a">Catholic Characters and Concepts</h3>
+<div class="outline-text-3" id="text-org33b1d3a">
+<ul class="org-ul">
+<li><a href="https://en.wikipedia.org/wiki/Robert_Bellarmine">Cardinal Bellarmine (Wikipedia)</a></li>
+<li><a href="http://www.sciencemag.org/news/2000/03/vatican-regrets-burning-cosmologist">Sorry We Burned You</a></li>
+<li><a href="https://www.gotquestions.org/Jesuits-Society-of-Jesus.html">The Jesuits</a></li>
+<li><a href="http://www.deathreference.com/A-Bi/Ars-Moriendi.html">Ars Morendi (The Art of Dying Well)</a></li>
+<li><a href="https://www.hs-augsburg.de/~harsch/Chronologia/Lspost17/Bidermann/bid_cen5.html">Act V of Cenodoxus by Jacobus Bidermann</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgab971a7" class="outline-3">
+<h3 id="orgab971a7">Miscellaneous</h3>
+<div class="outline-text-3" id="text-orgab971a7">
+<ul class="org-ul">
+<li><a href="https://en.wikipedia.org/wiki/Snood_(anatomy)">Snood</a></li>
+<li><a href="https://theculturetrip.com/europe/belgium/articles/the-11-most-beautiful-paintings-by-pieter-bruegel-the-elder/">Bruegel Masterpieces</a></li>
+<li><a href="https://mymodernmet.com/william-utermohlen-alzheimers-self-portraits/">Dementia Portraits</a></li>
+<li><a href="https://www.newstatesman.com/culture/art-and-design/2012/05/review-william-utermohlen-1933-2007-retrospective">William Utermohlen Review and Obituary</a></li>
+</ul>
+</div>
+</div>
+</div>
 </div>
 <div id="postamble" class="status">
 <p class="date">Date: 2018-03-07 Wed 00:00</p>
 <p class="author">Author: Britt Anderson</p>
-<p class="date">Created: 2018-05-22 Tue 16:16</p>
+<p class="date">Created: 2018-05-31 Thu 14:47</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
