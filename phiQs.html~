@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2018-05-15 Tue 17:09 -->
+<!-- 2018-05-22 Tue 16:16 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Chapter Based Discussion Questions for Phi</title>
@@ -234,30 +234,27 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org0efbdbb">1. Preface</a></li>
-<li><a href="#org92432b4">2. 1 Prologue</a></li>
-<li><a href="#orgc8772a2">3. 2 Introduction</a></li>
-<li><a href="#org95840bc">4. 3 Cerebrum</a></li>
-<li><a href="#orgc809b39">5. 4 Cerebellum</a></li>
-<li><a href="#orgc37e62c">6. 5 Two Blind Patients</a></li>
-<li><a href="#orge9cdae6">7. 6 Locked In</a></li>
-<li><a href="#org0102665">8. 7 Amnesia</a></li>
-<li><a href="#org9c50732">9. 8 Split Brains</a></li>
-<li><a href="#org1aa04d7">10. 9 Brain Conflict</a></li>
-<li><a href="#orgdc63198">11. 10 A Brain Possessed</a></li>
-<li><a href="#org32a785d">12. 11 A Brain Asleep</a></li>
-<li><a href="#orgf3d563d">13. 12 Enigma of Consciousness</a>
-<ul>
-<li><a href="#org2de4d22">13.1. Some Review</a></li>
-</ul>
-</li>
-<li><a href="#orgdffa1f2">14. 13 - Photodiode</a></li>
-<li><a href="#org5e3872b">15. 14 - Information</a></li>
+<li><a href="#org5e6ce2d">1. Preface</a></li>
+<li><a href="#orgf30ea7e">2. 1 Prologue</a></li>
+<li><a href="#orgb85aa95">3. 2 Introduction</a></li>
+<li><a href="#orgdafc721">4. 3 Cerebrum</a></li>
+<li><a href="#org2e9e7ff">5. 4 Cerebellum</a></li>
+<li><a href="#org9246555">6. 5 Two Blind Patients</a></li>
+<li><a href="#orgc9b07a1">7. 6 Locked In</a></li>
+<li><a href="#orgd91cd29">8. 7 Amnesia</a></li>
+<li><a href="#orge313fa8">9. 8 Split Brains</a></li>
+<li><a href="#org8fc0df9">10. 9 Brain Conflict</a></li>
+<li><a href="#orgdf73f70">11. 10 A Brain Possessed</a></li>
+<li><a href="#orgfc4ad33">12. 11 A Brain Asleep</a></li>
+<li><a href="#orga6e2ee4">13. 12 Enigma of Consciousness</a></li>
+<li><a href="#orge90e1a9">14. 13 Photodiode</a></li>
+<li><a href="#orgd79addd">15. 14 Information</a></li>
+<li><a href="#org7b63b64">16. 15 Galileo and the Camera</a></li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org0efbdbb" class="outline-2">
-<h2 id="org0efbdbb"><span class="section-number-2">1</span> Preface</h2>
+<div id="outline-container-org5e6ce2d" class="outline-2">
+<h2 id="org5e6ce2d"><span class="section-number-2">1</span> Preface</h2>
 <div class="outline-text-2" id="text-1">
 <ul class="org-ul">
 <li>What is meant by the statement that "&#x2026;Galileo removed the observer from nature&#x2026;"</li>
@@ -271,8 +268,8 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org92432b4" class="outline-2">
-<h2 id="org92432b4"><span class="section-number-2">2</span> 1 Prologue</h2>
+<div id="outline-container-orgf30ea7e" class="outline-2">
+<h2 id="orgf30ea7e"><span class="section-number-2">2</span> 1 Prologue</h2>
 <div class="outline-text-2" id="text-2">
 <ul class="org-ul">
 <li>Who was Galileo?
@@ -298,8 +295,8 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgc8772a2" class="outline-2">
-<h2 id="orgc8772a2"><span class="section-number-2">3</span> 2 Introduction</h2>
+<div id="outline-container-orgb85aa95" class="outline-2">
+<h2 id="orgb85aa95"><span class="section-number-2">3</span> 2 Introduction</h2>
 <div class="outline-text-2" id="text-3">
 <ul class="org-ul">
 <li>What historical figure is "Frick" based on? Why was this person chosen as a guide?</li>
@@ -321,8 +318,8 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org95840bc" class="outline-2">
-<h2 id="org95840bc"><span class="section-number-2">4</span> 3 Cerebrum</h2>
+<div id="outline-container-orgdafc721" class="outline-2">
+<h2 id="orgdafc721"><span class="section-number-2">4</span> 3 Cerebrum</h2>
 <div class="outline-text-2" id="text-4">
 <ul class="org-ul">
 <li>Who was Copernicus?
@@ -354,8 +351,8 @@ Prosopagnosia.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgc809b39" class="outline-2">
-<h2 id="orgc809b39"><span class="section-number-2">5</span> 4 Cerebellum</h2>
+<div id="outline-container-org2e9e7ff" class="outline-2">
+<h2 id="org2e9e7ff"><span class="section-number-2">5</span> 4 Cerebellum</h2>
 <div class="outline-text-2" id="text-5">
 <ul class="org-ul">
 <li>Who is Fodor and why are the concepts of modularity and penetrability pertinent to the first few lines of this chapter?</li>
@@ -394,8 +391,8 @@ gone, Poussin was painting." Why is this a puzzle?
 </ul>
 </div>
 </div>
-<div id="outline-container-orgc37e62c" class="outline-2">
-<h2 id="orgc37e62c"><span class="section-number-2">6</span> 5 Two Blind Patients</h2>
+<div id="outline-container-org9246555" class="outline-2">
+<h2 id="org9246555"><span class="section-number-2">6</span> 5 Two Blind Patients</h2>
 <div class="outline-text-2" id="text-6">
 <ul class="org-ul">
 <li>Why does Galileo use the term <i>circle</i> of sick painters? Making reference with Dante's journey.</li>
@@ -416,8 +413,8 @@ gone, Poussin was painting." Why is this a puzzle?
 </ul>
 </div>
 </div>
-<div id="outline-container-orge9cdae6" class="outline-2">
-<h2 id="orge9cdae6"><span class="section-number-2">7</span> 6 Locked In</h2>
+<div id="outline-container-orgc9b07a1" class="outline-2">
+<h2 id="orgc9b07a1"><span class="section-number-2">7</span> 6 Locked In</h2>
 <div class="outline-text-2" id="text-7">
 <ul class="org-ul">
 <li>What are the Seven Deadly Sins?
@@ -488,8 +485,8 @@ of pity.
 </ul>
 </div>
 </div>
-<div id="outline-container-org0102665" class="outline-2">
-<h2 id="org0102665"><span class="section-number-2">8</span> 7 Amnesia</h2>
+<div id="outline-container-orgd91cd29" class="outline-2">
+<h2 id="orgd91cd29"><span class="section-number-2">8</span> 7 Amnesia</h2>
 <div class="outline-text-2" id="text-8">
 <ul class="org-ul">
 <li>Is the amnesia of Veronica believable?</li>
@@ -503,8 +500,8 @@ of pity.
 </ul>
 </div>
 </div>
-<div id="outline-container-org9c50732" class="outline-2">
-<h2 id="org9c50732"><span class="section-number-2">9</span> 8 Split Brains</h2>
+<div id="outline-container-orge313fa8" class="outline-2">
+<h2 id="orge313fa8"><span class="section-number-2">9</span> 8 Split Brains</h2>
 <div class="outline-text-2" id="text-9">
 <ul class="org-ul">
 <li>Who was Prince of Venosa?</li>
@@ -525,8 +522,8 @@ is telling the truth?
 </p>
 </div>
 </div>
-<div id="outline-container-org1aa04d7" class="outline-2">
-<h2 id="org1aa04d7"><span class="section-number-2">10</span> 9 Brain Conflict</h2>
+<div id="outline-container-org8fc0df9" class="outline-2">
+<h2 id="org8fc0df9"><span class="section-number-2">10</span> 9 Brain Conflict</h2>
 <div class="outline-text-2" id="text-10">
 <ul class="org-ul">
 <li>What is denial of illness and what is it called?</li>
@@ -543,8 +540,8 @@ is telling the truth?
 </ul>
 </div>
 </div>
-<div id="outline-container-orgdc63198" class="outline-2">
-<h2 id="orgdc63198"><span class="section-number-2">11</span> 10 A Brain Possessed</h2>
+<div id="outline-container-orgdf73f70" class="outline-2">
+<h2 id="orgdf73f70"><span class="section-number-2">11</span> 10 A Brain Possessed</h2>
 <div class="outline-text-2" id="text-11">
 <ul class="org-ul">
 <li>What is the orgin for the phrase "one of us?"</li>
@@ -558,8 +555,8 @@ is telling the truth?
 </ul>
 </div>
 </div>
-<div id="outline-container-org32a785d" class="outline-2">
-<h2 id="org32a785d"><span class="section-number-2">12</span> 11 A Brain Asleep</h2>
+<div id="outline-container-orgfc4ad33" class="outline-2">
+<h2 id="orgfc4ad33"><span class="section-number-2">12</span> 11 A Brain Asleep</h2>
 <div class="outline-text-2" id="text-12">
 <ul class="org-ul">
 <li>Who is the man met at the beginning of this chapter?</li>
@@ -586,67 +583,26 @@ these breaks?</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgf3d563d" class="outline-2">
-<h2 id="orgf3d563d"><span class="section-number-2">13</span> 12 Enigma of Consciousness</h2>
+<div id="outline-container-orga6e2ee4" class="outline-2">
+<h2 id="orga6e2ee4"><span class="section-number-2">13</span> 12 Enigma of Consciousness</h2>
 <div class="outline-text-2" id="text-13">
 <ul class="org-ul">
 <li>What is the source for the blank slate line?</li>
 <li>Philosophically what is being asserted by this blank slate reference?</li>
 <li>The assertion is made that "If the brain ceases &#x2026; nothing is left, not us &#x2026;" While we have certainly seen a lot of evidence that the brain is central to consciousness, have we seen anything to say that the brain is all of consciousness? Are we inferring absence from absence of evidence?</li>
-</ul>
-</div>
-<div id="outline-container-org2de4d22" class="outline-3">
-<h3 id="org2de4d22"><span class="section-number-3">13.1</span> Some Review</h3>
-<div class="outline-text-3" id="text-13-1">
-<ul class="org-ul">
-<li>Is consciousness simply a matter of neurons and their numbers or only certain neurons/structures?
-<ul class="org-ul">
-<li>No. Poussin with this supposed cerebellar disorder lost more
-and did not lose consciousness.</li>
-<li>But recall that Copernicus was not conscious. Apparently the
-cerebrum is critical.</li>
-</ul></li>
-<li>Is the cerebellum an impassable sea? What is the evidence for it being a less connected neural structure? 
-<ul class="org-ul">
-<li>Are afferent sensory systems necessary for consciousness?
-<ul class="org-ul">
-<li>The answer in the book seems to be no, but that seems
-arguable. It might be that they are necessary at some point -
-initially - in development, but that they are no longer
-required. And while we may get along well without one or two,
-what if all were gone, what would happen to our conscioius
-state then?</li>
-</ul></li>
-</ul></li>
-<li>Are efferent arcs necessary?
-<ul class="org-ul">
-<li>Apparently not. We have Mersenne communicating with his eye
-blink. And without that we might not know that he was in
-there, but he still could be as Owen's work with vegetative
-state patients seems to suggest.</li>
-</ul></li>
-<li>Is consciousness unitary?
-<ul class="org-ul">
-<li>Apparently, that too, is just appearance or happenstance,
-because with the right kind of <i>disconnection</i> we can be made
-multiple. This doesn't necessitate psychiatric illness, but
-could be related to callosotomy.</li>
-</ul></li>
-<li>The paradox of synchrony. Why is paradoxical?
-<ul class="org-ul">
-<li>As we saw with seizures, when everything is "shouting" the
-same message then consciousness may be lost. Here the
-connectivity seems to allow for this unison, and therefore it
-is the paradox that connectedness is necessary for
-consciousness, and at the same time the route for its
-abolition.</li>
-</ul></li>
+<li>Is consciousness simply a matter of neurons and their numbers or only certain neurons/structures?</li>
+<li>What is the evidence for the cerebellum being a less connected neural structure?</li>
+<li>Are afferent sensory systems necessary for persistence of consciousness?</li>
+<li>Are afferent sensory systems necessary for the development of consciousness?</li>
+<li>Are efferent arcs necessary?</li>
+<li>What is the difference between Afferent and Efferent.</li>
+<li>Is consciousness unitary?</li>
+<li>What is the paradox of synchrony.</li>
 <li>Who is Alturi?</li>
 <li>What's with all this staring at blank walls that is mentioned repeatedly in this chapter.</li>
 <li>Galileo's questions
 <ol class="org-ol">
-<li>Why the brain and not the liver? Why the cerebrum and not the
-cerebellum? Why here and not there?</li>
+<li>Why the brain and not the liver?</li>
 <li>what determines what consciousness "is"?</li>
 <li>What gives consciousness its distinctive quality?</li>
 </ol></li>
@@ -654,18 +610,14 @@ cerebellum? Why here and not there?</li>
 <li>What is the function of the little punch cards</li>
 <li>What is the modern counterpart of Alturi's succession of simple steps?</li>
 <li>Why the apple with the bite?</li>
-<li>Contrast Frick's program with Alturi's? 
-<ul class="org-ul">
-<li>Frick wants to find the neural correlates of consciousness to explain it. Alturi wants to find the computational mechanisms to explain it.</li>
-</ul></li>
+<li>Contrast Frick's interest and explanation for consciousness with Alturi's?</li>
 <li>Do we need both Alturi's and Frick's approaches?</li>
 <li>Is one approach more valuable than the other?</li>
 </ul>
 </div>
 </div>
-</div>
-<div id="outline-container-orgdffa1f2" class="outline-2">
-<h2 id="orgdffa1f2"><span class="section-number-2">14</span> 13 - Photodiode</h2>
+<div id="outline-container-orge90e1a9" class="outline-2">
+<h2 id="orge90e1a9"><span class="section-number-2">14</span> 13 Photodiode</h2>
 <div class="outline-text-2" id="text-14">
 <ul class="org-ul">
 <li>What is the <a href="http://en.wikipedia.org/wiki/Inertia">Principle of Inertia</a></li>
@@ -683,8 +635,8 @@ cerebellum? Why here and not there?</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org5e3872b" class="outline-2">
-<h2 id="org5e3872b"><span class="section-number-2">15</span> 14 - Information</h2>
+<div id="outline-container-orgd79addd" class="outline-2">
+<h2 id="orgd79addd"><span class="section-number-2">15</span> 14 Information</h2>
 <div class="outline-text-2" id="text-15">
 <ul class="org-ul">
 <li>What is meant by the phrase, "&#x2026; he [Alturi] had a smile on his face like an enigma."</li>
@@ -699,11 +651,30 @@ cerebellum? Why here and not there?</li>
 </ul>
 </div>
 </div>
+<div id="outline-container-org7b63b64" class="outline-2">
+<h2 id="org7b63b64"><span class="section-number-2">16</span> 15 Galileo and the Camera</h2>
+<div class="outline-text-2" id="text-16">
+<ul class="org-ul">
+<li>Is Galileo arguing that quantitative differences account for the presence/absence of consciousness or rather that consciousness is itself present to a greater/lesser degree?</li>
+<li>Is the camera conscious?</li>
+<li>Which possesses more information, a picture of randomly arranged gray scale pixels or a picture of a face with the same number of pixels, and the same gray scale range?</li>
+<li>Does the correlation of near-by pixels in natural images increase or decrease their information content?</li>
+<li>Explain the puzzle posed by the salt and pepper image on page 149?</li>
+<li>What is a category error (mistake)?</li>
+<li>Who is K?</li>
+<li>What do the words epistemology, ontology, and deontology mean?</li>
+<li>What is the significance of the passages at the base of 153 and top of 155 that K asks Galileo to parse? <a href="https://archive.org/stream/critiqueofreason00kantuoft#page/132/mode/2up/search/transcendental+unity">In context.</a></li>
+<li>Why do the images on 152 appear in b/w and those on 154 in color?</li>
+<li>What is apperception?</li>
+<li>What is this "panpsychism" mentioned at the end of the notes?</li>
+</ul>
+</div>
+</div>
 </div>
 <div id="postamble" class="status">
 <p class="date">Date: 2018-03-07 Wed 00:00</p>
 <p class="author">Author: Britt Anderson</p>
-<p class="date">Created: 2018-05-15 Tue 17:09</p>
+<p class="date">Created: 2018-05-22 Tue 16:16</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
