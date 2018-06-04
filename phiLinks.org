@@ -2,7 +2,7 @@
 #+OPTIONS: author:t broken-links:nil c:nil creator:nil
 #+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
 #+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
-#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+#+OPTIONS: timestamp:t title:t toc:nil todo:t |:t
 #+TITLE: Links to Explore Topics in Phi
 #+DATE: <2018-03-07 Wed>
 #+AUTHOR: Britt Anderson
@@ -411,7 +411,18 @@
   - [[https://www.youtube.com/watch?v=jhOqaetijUc][Colin McGinn – On Consciousness]]
   - [[https://en.wikipedia.org/wiki/Trophime_Bigot][Trophime Bigot- Artist of “The Boy Exposing a Bat to the Flame” (pg 175)]]
   - [[https://en.wikipedia.org/wiki/Albrecht_D%25C3%25BCrer][Albrecht Durer- artist of “The Bat” (pg 176)]]
-* 18
+* 18 Darkness 1
+** Brain Maps
+   - [[http://psychclassics.yorku.ca/Tolman/Maps/maps.htm][Tolman's Cognitive Maps in Rats and Men]]
+   - [[http://www.cognitivemap.net/][Hippocampus as a Cognitive Map]]
+   - [[http://www.fz-juelich.de/inm/inm-1/EN/Forschung/_docs/BrainMapping/BrainMapping_node.html][One of many examples of Human Brain Mapping]]
+** Vision
+   - [[https://www.sciencedirect.com/science/article/pii/0166223683901674/pdf?md5=fdc2428e432c47f712d4b8c14d3b2da1&pid=1-s2.0-0166223683901674-main.pdf][Hierarchical Organization of Vision (pdf - 1983)]]
+   - [[https://www.mitpressjournals.org/doi/abs/10.1162/jocn.1991.3.1.1][Face Selective Cells in Monkeys (1985)]]
+** Miscellaneous
+   - [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322768/][Vermeer and the Astronomer]]
+   - [[http://www.ingentaconnect.com/content/imp/jcs/2006/00000013/f0020010/art00013#][Consciousness and the Intrinsic Properties of Matter]]
+   - [[https://philosophynow.org/issues/48/Consciousness][Is consciousness always "of" something? Issue of Philosophy Now]]
 * 19
 * 20
 * 21
