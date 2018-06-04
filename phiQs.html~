@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2018-05-31 Thu 15:00 -->
+<!-- 2018-06-04 Mon 14:35 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Chapter Based Discussion Questions for Phi</title>
@@ -226,45 +226,35 @@ for the JavaScript code in this tag.
  }
 /*]]>*///-->
 </script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        displayAlign: "center",
+        displayIndent: "0em",
+
+        "HTML-CSS": { scale: 100,
+                        linebreaks: { automatic: "false" },
+                        webFont: "TeX"
+                       },
+        SVG: {scale: 100,
+              linebreaks: { automatic: "false" },
+              font: "TeX"},
+        NativeMML: {scale: 100},
+        TeX: { equationNumbers: {autoNumber: "AMS"},
+               MultLineWidth: "85%",
+               TagSide: "right",
+               TagIndent: ".8em"
+             }
+});
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
 <body>
 <div id="content">
 <h1 class="title">Chapter Based Discussion Questions for Phi</h1>
-<div id="table-of-contents">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#org8928f64">1. Preface</a></li>
-<li><a href="#orgfd8ce3a">2. 1 Prologue</a></li>
-<li><a href="#org631a87b">3. 2 Introduction</a></li>
-<li><a href="#orge920a53">4. 3 Cerebrum</a></li>
-<li><a href="#org6596268">5. 4 Cerebellum</a></li>
-<li><a href="#org07d479f">6. 5 Two Blind Patients</a></li>
-<li><a href="#orgf7b502f">7. 6 Locked In</a></li>
-<li><a href="#orgca50c68">8. 7 Amnesia</a></li>
-<li><a href="#orgc8e0f54">9. 8 Split Brains</a></li>
-<li><a href="#orgb192b09">10. 9 Brain Conflict</a></li>
-<li><a href="#org7e696a8">11. 10 A Brain Possessed</a></li>
-<li><a href="#orgd1b5d22">12. 11 A Brain Asleep</a></li>
-<li><a href="#org715e77f">13. 12 Enigma of Consciousness</a></li>
-<li><a href="#org86f0cd4">14. 13 Photodiode</a></li>
-<li><a href="#orgd046614">15. 14 Information</a></li>
-<li><a href="#orgee1ee4a">16. 15 Galileo and the Camera</a></li>
-<li><a href="#orgab9568e">17. 16</a></li>
-<li><a href="#org5d578de">18. 17 Galileo and the Ba</a></li>
-<li><a href="#org1140f20">19. 18</a></li>
-<li><a href="#org04b50de">20. 19</a></li>
-<li><a href="#orgd45ae82">21. 20</a></li>
-<li><a href="#orgc22ac05">22. 21</a></li>
-<li><a href="#org624afa9">23. 22 Introduction</a></li>
-<li><a href="#org9b42a74">24. 23 Nightfall 1 - Death</a></li>
-<li><a href="#org17641ae">25. 24 Nightfall 2 - Dementia</a></li>
-</ul>
-</div>
-</div>
-<div id="outline-container-org8928f64" class="outline-2">
-<h2 id="org8928f64"><span class="section-number-2">1</span> Preface</h2>
-<div class="outline-text-2" id="text-1">
+<div id="outline-container-org6089826" class="outline-2">
+<h2 id="org6089826">Preface</h2>
+<div class="outline-text-2" id="text-org6089826">
 <ul class="org-ul">
 <li>What is meant by the statement that "&#x2026;Galileo removed the observer from nature&#x2026;"</li>
 <li>What is a thought experiment and why is Galileo regarded as a master?</li>
@@ -277,9 +267,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgfd8ce3a" class="outline-2">
-<h2 id="orgfd8ce3a"><span class="section-number-2">2</span> 1 Prologue</h2>
-<div class="outline-text-2" id="text-2">
+<div id="outline-container-org4b861fe" class="outline-2">
+<h2 id="org4b861fe">1 Prologue</h2>
+<div class="outline-text-2" id="text-org4b861fe">
 <ul class="org-ul">
 <li>Who was Galileo?
 <ul class="org-ul">
@@ -304,9 +294,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-org631a87b" class="outline-2">
-<h2 id="org631a87b"><span class="section-number-2">3</span> 2 Introduction</h2>
-<div class="outline-text-2" id="text-3">
+<div id="outline-container-orge9f9de8" class="outline-2">
+<h2 id="orge9f9de8">2 Introduction</h2>
+<div class="outline-text-2" id="text-orge9f9de8">
 <ul class="org-ul">
 <li>What historical figure is "Frick" based on? Why was this person chosen as a guide?</li>
 <li>What philosophical school would Francis Crick's philosophy of consciousness fall into?</li>
@@ -327,9 +317,9 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-<div id="outline-container-orge920a53" class="outline-2">
-<h2 id="orge920a53"><span class="section-number-2">4</span> 3 Cerebrum</h2>
-<div class="outline-text-2" id="text-4">
+<div id="outline-container-org759221d" class="outline-2">
+<h2 id="org759221d">3 Cerebrum</h2>
+<div class="outline-text-2" id="text-org759221d">
 <ul class="org-ul">
 <li>Who was Copernicus?
 Copernicus had a stroke. Apparently awoke from a coma to view the pages of his book and then died peacefully. They identified his skeleton (not found until 2010) by matching DNA to hair from a book in a library in Sweden.</li>
@@ -360,9 +350,9 @@ Prosopagnosia.</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org6596268" class="outline-2">
-<h2 id="org6596268"><span class="section-number-2">5</span> 4 Cerebellum</h2>
-<div class="outline-text-2" id="text-5">
+<div id="outline-container-orga714320" class="outline-2">
+<h2 id="orga714320">4 Cerebellum</h2>
+<div class="outline-text-2" id="text-orga714320">
 <ul class="org-ul">
 <li>Who is Fodor and why are the concepts of modularity and penetrability pertinent to the first few lines of this chapter?</li>
 <li>Why is Nicolas Poussin included here do you think?
@@ -400,9 +390,9 @@ gone, Poussin was painting." Why is this a puzzle?
 </ul>
 </div>
 </div>
-<div id="outline-container-org07d479f" class="outline-2">
-<h2 id="org07d479f"><span class="section-number-2">6</span> 5 Two Blind Patients</h2>
-<div class="outline-text-2" id="text-6">
+<div id="outline-container-orgff798d9" class="outline-2">
+<h2 id="orgff798d9">5 Two Blind Patients</h2>
+<div class="outline-text-2" id="text-orgff798d9">
 <ul class="org-ul">
 <li>Why does Galileo use the term <i>circle</i> of sick painters? Making reference with Dante's journey.</li>
 <li>Analyze the phrase of page 48: "Vision is in the mind, not in the eye."</li>
@@ -422,9 +412,9 @@ gone, Poussin was painting." Why is this a puzzle?
 </ul>
 </div>
 </div>
-<div id="outline-container-orgf7b502f" class="outline-2">
-<h2 id="orgf7b502f"><span class="section-number-2">7</span> 6 Locked In</h2>
-<div class="outline-text-2" id="text-7">
+<div id="outline-container-org059432f" class="outline-2">
+<h2 id="org059432f">6 Locked In</h2>
+<div class="outline-text-2" id="text-org059432f">
 <ul class="org-ul">
 <li>What are the Seven Deadly Sins?
 <ol class="org-ol">
@@ -494,9 +484,9 @@ of pity.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgca50c68" class="outline-2">
-<h2 id="orgca50c68"><span class="section-number-2">8</span> 7 Amnesia</h2>
-<div class="outline-text-2" id="text-8">
+<div id="outline-container-org069e045" class="outline-2">
+<h2 id="org069e045">7 Amnesia</h2>
+<div class="outline-text-2" id="text-org069e045">
 <ul class="org-ul">
 <li>Is the amnesia of Veronica believable?</li>
 <li>Is it similar to the amnesia of HM?</li>
@@ -509,9 +499,9 @@ of pity.
 </ul>
 </div>
 </div>
-<div id="outline-container-orgc8e0f54" class="outline-2">
-<h2 id="orgc8e0f54"><span class="section-number-2">9</span> 8 Split Brains</h2>
-<div class="outline-text-2" id="text-9">
+<div id="outline-container-orgb26f672" class="outline-2">
+<h2 id="orgb26f672">8 Split Brains</h2>
+<div class="outline-text-2" id="text-orgb26f672">
 <ul class="org-ul">
 <li>Who was Prince of Venosa?</li>
 <li>What is <i>chromatic</i> music?</li>
@@ -531,9 +521,9 @@ is telling the truth?
 </p>
 </div>
 </div>
-<div id="outline-container-orgb192b09" class="outline-2">
-<h2 id="orgb192b09"><span class="section-number-2">10</span> 9 Brain Conflict</h2>
-<div class="outline-text-2" id="text-10">
+<div id="outline-container-org1076e5b" class="outline-2">
+<h2 id="org1076e5b">9 Brain Conflict</h2>
+<div class="outline-text-2" id="text-org1076e5b">
 <ul class="org-ul">
 <li>What is denial of illness and what is it called?</li>
 <li>What is the relevance of discussing zombies in a theory of mind debate?</li>
@@ -549,9 +539,9 @@ is telling the truth?
 </ul>
 </div>
 </div>
-<div id="outline-container-org7e696a8" class="outline-2">
-<h2 id="org7e696a8"><span class="section-number-2">11</span> 10 A Brain Possessed</h2>
-<div class="outline-text-2" id="text-11">
+<div id="outline-container-orge7cff11" class="outline-2">
+<h2 id="orge7cff11">10 A Brain Possessed</h2>
+<div class="outline-text-2" id="text-orge7cff11">
 <ul class="org-ul">
 <li>What is the orgin for the phrase "one of us?"</li>
 <li>What are some of the early ideas regarding the nature of human epilepsy?</li>
@@ -564,9 +554,9 @@ is telling the truth?
 </ul>
 </div>
 </div>
-<div id="outline-container-orgd1b5d22" class="outline-2">
-<h2 id="orgd1b5d22"><span class="section-number-2">12</span> 11 A Brain Asleep</h2>
-<div class="outline-text-2" id="text-12">
+<div id="outline-container-orgf44b88d" class="outline-2">
+<h2 id="orgf44b88d">11 A Brain Asleep</h2>
+<div class="outline-text-2" id="text-orgf44b88d">
 <ul class="org-ul">
 <li>Who is the man met at the beginning of this chapter?</li>
 <li>What is your "evidence?"</li>
@@ -592,9 +582,9 @@ these breaks?</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org715e77f" class="outline-2">
-<h2 id="org715e77f"><span class="section-number-2">13</span> 12 Enigma of Consciousness</h2>
-<div class="outline-text-2" id="text-13">
+<div id="outline-container-orga07f549" class="outline-2">
+<h2 id="orga07f549">12 Enigma of Consciousness</h2>
+<div class="outline-text-2" id="text-orga07f549">
 <ul class="org-ul">
 <li>What is the source for the blank slate line?</li>
 <li>Philosophically what is being asserted by this blank slate reference?</li>
@@ -625,9 +615,9 @@ these breaks?</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org86f0cd4" class="outline-2">
-<h2 id="org86f0cd4"><span class="section-number-2">14</span> 13 Photodiode</h2>
-<div class="outline-text-2" id="text-14">
+<div id="outline-container-org74d2a2f" class="outline-2">
+<h2 id="org74d2a2f">13 Photodiode</h2>
+<div class="outline-text-2" id="text-org74d2a2f">
 <ul class="org-ul">
 <li>What is the <a href="http://en.wikipedia.org/wiki/Inertia">Principle of Inertia</a></li>
 <li>What was Kant's opinion on psychology as a science (and who was he by the way)?</li>
@@ -644,9 +634,9 @@ these breaks?</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgd046614" class="outline-2">
-<h2 id="orgd046614"><span class="section-number-2">15</span> 14 Information</h2>
-<div class="outline-text-2" id="text-15">
+<div id="outline-container-orgd5d64ad" class="outline-2">
+<h2 id="orgd5d64ad">14 Information</h2>
+<div class="outline-text-2" id="text-orgd5d64ad">
 <ul class="org-ul">
 <li>What is meant by the phrase, "&#x2026; he [Alturi] had a smile on his face like an enigma."</li>
 <li>Who is<a href="http://en.wikipedia.org/wiki/Claude_Shannon">"S"?</a></li>
@@ -660,9 +650,9 @@ these breaks?</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgee1ee4a" class="outline-2">
-<h2 id="orgee1ee4a"><span class="section-number-2">16</span> 15 Galileo and the Camera</h2>
-<div class="outline-text-2" id="text-16">
+<div id="outline-container-org75f60ce" class="outline-2">
+<h2 id="org75f60ce">15 Galileo and the Camera</h2>
+<div class="outline-text-2" id="text-org75f60ce">
 <ul class="org-ul">
 <li>Is Galileo arguing that quantitative differences account for the presence/absence of consciousness or rather that consciousness is itself present to a greater/lesser degree?</li>
 <li>Is the camera conscious?</li>
@@ -679,12 +669,39 @@ these breaks?</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-orgab9568e" class="outline-2">
-<h2 id="orgab9568e"><span class="section-number-2">17</span> 16</h2>
+
+<div id="outline-container-org4f66f59" class="outline-2">
+<h2 id="org4f66f59">16 Integrated Information: The Many and the One</h2>
+<div class="outline-text-2" id="text-org4f66f59">
+<ul class="org-ul">
+<li>Who was famous for the phrase, "the whole is more than the sum of its parts"?
+<ol class="org-ol">
+<li>What school of psychology is it related to?</li>
+</ol></li>
+<li>Who is J?</li>
+<li>What do we think is a single entity? At what point is something one and not a collection of parts?</li>
+<li>What is Occam's razer?</li>
+<li>What does "Entia non sunt multiplicanda praeter necessitatem" mean?</li>
+<li>What does it mean for the whole to be more than the sum of its parts?</li>
+<li>What is the crucial cut? (the cruelest cut)</li>
+<li>What would a crucial cut look like?</li>
+<li>How would we measure Phi? (Can we measure Phi?)</li>
+<li>Do we agree with the idea of having many MEs?
+<ol class="org-ol">
+<li>Do some people, or things, have more/less MEs than others?</li>
+<li>When do I become me? Am I sometimes not myself? Could there be legal implications?</li>
+</ol></li>
+<li>What does it mean for information generated by a whole to reach a maximum? (Complex)</li>
+<li>Are we comfortable with the integrated information theory? Do we have doubts?</li>
+<li>Who is being quoted at the end of the chapter, from Frick's notes?</li>
+<li>Is there meaning behind J finding Alturi and Galileo "too far away"?</li>
+<li>Is it possible to see creativity or art in the lense of integrated information?</li>
+</ul>
 </div>
-<div id="outline-container-org5d578de" class="outline-2">
-<h2 id="org5d578de"><span class="section-number-2">18</span> 17 Galileo and the Ba</h2>
-<div class="outline-text-2" id="text-18">
+</div>
+<div id="outline-container-orgfe619a0" class="outline-2">
+<h2 id="orgfe619a0">17 Galileo and the Ba</h2>
+<div class="outline-text-2" id="text-orgfe619a0">
 <ul class="org-ul">
 <li>What is the second problem of consciousness?</li>
 <li>Who is N and what is he known for?</li>
@@ -699,21 +716,33 @@ these breaks?</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org1140f20" class="outline-2">
-<h2 id="org1140f20"><span class="section-number-2">19</span> 18</h2>
+<div id="outline-container-org7a9ac20" class="outline-2">
+<h2 id="org7a9ac20">18 Darkness 1</h2>
+<div class="outline-text-2" id="text-org7a9ac20">
+<ul class="org-ul">
+<li>What is the evidence for the brain as a map?</li>
+<li>Does the brain possess traveling waves (as described in this chapter)? Are they associated with phenomenal experience?</li>
+<li>What is the connectome?</li>
+<li>Describe the areas of the visual cortex and their specific specializations.</li>
+<li>What <span class="underline">is</span> the brain state for darkness?</li>
+<li>Why should \(\Phi\), or anything else, account for the subjective experience of consciousness?</li>
+<li>What is the philosophical position that holds that there is nothing in matter that can explain the quality of mind?</li>
+<li>Is consciousness always "consciousness of?"</li>
+</ul>
 </div>
-<div id="outline-container-org04b50de" class="outline-2">
-<h2 id="org04b50de"><span class="section-number-2">20</span> 19</h2>
 </div>
-<div id="outline-container-orgd45ae82" class="outline-2">
-<h2 id="orgd45ae82"><span class="section-number-2">21</span> 20</h2>
+<div id="outline-container-org515ec9c" class="outline-2">
+<h2 id="org515ec9c">19</h2>
 </div>
-<div id="outline-container-orgc22ac05" class="outline-2">
-<h2 id="orgc22ac05"><span class="section-number-2">22</span> 21</h2>
+<div id="outline-container-org1767576" class="outline-2">
+<h2 id="org1767576">20</h2>
 </div>
-<div id="outline-container-org624afa9" class="outline-2">
-<h2 id="org624afa9"><span class="section-number-2">23</span> 22 Introduction</h2>
-<div class="outline-text-2" id="text-23">
+<div id="outline-container-orgf60449b" class="outline-2">
+<h2 id="orgf60449b">21</h2>
+</div>
+<div id="outline-container-org5fc899d" class="outline-2">
+<h2 id="org5fc899d">22 Introduction</h2>
+<div class="outline-text-2" id="text-org5fc899d">
 <ul class="org-ul">
 <li>Why isn't Darwin referred to by name?</li>
 <li>Who were the Vestals?</li>
@@ -722,9 +751,9 @@ these breaks?</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org9b42a74" class="outline-2">
-<h2 id="org9b42a74"><span class="section-number-2">24</span> 23 Nightfall 1 - Death</h2>
-<div class="outline-text-2" id="text-24">
+<div id="outline-container-org464db22" class="outline-2">
+<h2 id="org464db22">23 Nightfall 1 - Death</h2>
+<div class="outline-text-2" id="text-org464db22">
 <ul class="org-ul">
 <li>"Ash that could be touched, unlike his soul." Why can one be touched and not the other?</li>
 <li>"Bruno was burned." Who is Bruno</li>
@@ -738,9 +767,9 @@ these breaks?</li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org17641ae" class="outline-2">
-<h2 id="org17641ae"><span class="section-number-2">25</span> 24 Nightfall 2 - Dementia</h2>
-<div class="outline-text-2" id="text-25">
+<div id="outline-container-org5967944" class="outline-2">
+<h2 id="org5967944">24 Nightfall 2 - Dementia</h2>
+<div class="outline-text-2" id="text-org5967944">
 <ul class="org-ul">
 <li>What is a pillory?</li>
 <li>Galileo wonders if Bellarmine burned his brain from too much study. Is there a relation between cognitive activity and dementia risk?</li>
@@ -755,7 +784,7 @@ these breaks?</li>
 <div id="postamble" class="status">
 <p class="date">Date: 2018-03-07 Wed 00:00</p>
 <p class="author">Author: Britt Anderson</p>
-<p class="date">Created: 2018-05-31 Thu 15:00</p>
+<p class="date">Created: 2018-06-04 Mon 14:35</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>

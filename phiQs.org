@@ -336,14 +336,26 @@
   - Why do you think the author describes the chapter as “sadly underdeveloped”?
   - How do you think Alturi would respond to N’s statement about the mind?
 * 18 Darkness 1
-  - What is the evidence for the brain as a map?
-  - Does the brain possess traveling waves (as described in this chapter)? Are they associated with phenomenal experience?
-  - What is the connectome?
-  - Describe the areas of the visual cortex and their specific specializations.
-  - What _is_ the brain state for darkness?
-  - Why should $\Phi$, or anything else, account for the subjective experience of consciousness?
-  - What is the philosophical position that holds that there is nothing in matter that can explain the quality of mind?
-  - Is consciousness always "consciousness of?"
+** 2018 Questions
+   - Do you think that integrated information is essential for consciousness?
+   - Do you think Galileo murmuring the word “dark” while staring at the night sky holds any significance?
+   - What does the castle represent?
+   - Do you agree that one single large complex of phi is located in the cerebrum?
+   - What does N mean when he says, “there is nothing in matter that can explain the quality of mind”?
+   - Why does Galileo think that you can only see dark if you have a brain that can distinguish darkness from other states?
+   - Do you agree that some cells are forever excluded from our consciousness?
+   - What do you think is the difference between when a photodiode tells it’s dark, and when you tell it’s dark?
+   - What does Galileo mean when he says, “No magic could wring his complex of flickering neurons and squeeze the juice of darkness out of it”?
+   - Do we agree that context is required for consciousness?
+** Prior Year Questions
+   - What is the evidence for the brain as a map?
+   - Does the brain possess traveling waves (as described in this chapter)? Are they associated with phenomenal experience?
+   - What is the connectome?
+   - Describe the areas of the visual cortex and their specific specializations.
+   - What _is_ the brain state for darkness?
+   - Why should $\Phi$, or anything else, account for the subjective experience of consciousness?
+   - What is the philosophical position that holds that there is nothing in matter that can explain the quality of mind?
+   - Is consciousness always "consciousness of?"
 * 19
 * 20
 * 21
