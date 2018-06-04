@@ -1,8 +1,8 @@
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+OPTIONS: author:t broken-links:nil c:nil creator:nil
-#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
 #+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
-#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+#+OPTIONS: timestamp:t title:t toc:nil todo:t |:t
 #+TITLE: Chapter Based Discussion Questions for Phi
 #+DATE: <2018-03-07 Wed>
 #+AUTHOR: Britt Anderson
@@ -335,7 +335,15 @@
   - What does the cave represent?
   - Why do you think the author describes the chapter as “sadly underdeveloped”?
   - How do you think Alturi would respond to N’s statement about the mind?
-* 18
+* 18 Darkness 1
+  - What is the evidence for the brain as a map?
+  - Does the brain possess traveling waves (as described in this chapter)? Are they associated with phenomenal experience?
+  - What is the connectome?
+  - Describe the areas of the visual cortex and their specific specializations.
+  - What _is_ the brain state for darkness?
+  - Why should $\Phi$, or anything else, account for the subjective experience of consciousness?
+  - What is the philosophical position that holds that there is nothing in matter that can explain the quality of mind?
+  - Is consciousness always "consciousness of?"
 * 19
 * 20
 * 21
