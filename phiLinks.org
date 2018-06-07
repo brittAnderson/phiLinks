@@ -423,8 +423,24 @@
    - [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322768/][Vermeer and the Astronomer]]
    - [[http://www.ingentaconnect.com/content/imp/jcs/2006/00000013/f0020010/art00013#][Consciousness and the Intrinsic Properties of Matter]]
    - [[https://philosophynow.org/issues/48/Consciousness][Is consciousness always "of" something? Issue of Philosophy Now]]
-* 19
-* 20
+* 19 Meaning of Darkness
+** General
+   [[https://www.iep.utm.edu/leib-met/][Leibinz]]
+   [[https://en.wikipedia.org/wiki/China_brain][Ned Block- China Brain]]
+   [[https://www.iep.utm.edu/chineser/][John Searle- Chinese Room]]
+   [[https://en.wikipedia.org/wiki/Giordano_Bruno][Bruno]]
+   [[https://plato.stanford.edu/entries/panpsychism/][Panpsychism]]
+   [[http://www.gwleibniz.com/calculator/calculator.html][Calculating Machine]]
+   [[https://www.iep.utm.edu/lei-mind/#H3][The Mill Argument]]
+   [[https://plato.stanford.edu/entries/sorites-paradox/][Grain Problem]]
+   [[https://journals-scholarsportal-info.proxy.lib.uwaterloo.ca/pdf/13554794/v06i0002/75_tnhocattpomu.xml][Nested Hierarchy of Consciousness]]
+   [[https://www.iep.utm.edu/hard-con/][The hard problem of consciousness]]
+   [[https://www.youtube.com/watch?v=tQsUuheOQ-s][Monadology podcast]]
+   [[https://www.the-philosophy.com/leibniz-monadology-summary][Monadology Summary]]
+** Quotes: 
+   [[https://www.youtube.com/watch?v=lag22Hl2RQw][Elementary, my dear Galileo! pg203]]
+   [[https://idioms.thefreedictionary.com/pile+Pelion+on+Ossa][Pelion upon Ossa! pg203]]
+* 20 Palace of Light
 * 21
 * 22 Introduction
 ** [[https://en.wikipedia.org/wiki/Vestal_Virgin][Vestal Virgins]]
