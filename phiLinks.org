@@ -445,6 +445,7 @@
    - [[http://writteninthread.blogspot.com/2014/12/the-art-of-measurement-qualiascope-by.html][The Art of Measurement: Qualiascope by Gwyneth Anderson. Gwyneth Anderson uses art and measurement to re-create her interpretation of the qualiascope described by Tononi.]]
    - [[https://vimeo.com/114201346][Animation that Gwyneth Anderson made to interpret the qualiascope]]
    - [[https://wikivisually.com/wiki/35P/Herschel%E2%80%93Rigollet][Caroline Herschel's comet has an orbital period of 155 years and will next be seen in 2092]]
+   - [[https://www.ted.com/talks/anil_seth_how_your_brain_hallucinates_your_conscious_reality#t-17189][Ted Talk: Your brain hallucinates your conscious reality]]
 * 21
 * 22 Introduction
 ** General:
