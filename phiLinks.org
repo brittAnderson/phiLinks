@@ -447,11 +447,12 @@
    - [[https://wikivisually.com/wiki/35P/Herschel%E2%80%93Rigollet][Caroline Herschel's comet has an orbital period of 155 years and will next be seen in 2092]]
 * 21
 * 22 Introduction
-** [[https://en.wikipedia.org/wiki/Vestal_Virgin][Vestal Virgins]]
-** [[https://en.wikipedia.org/wiki/Religious_views_of_Charles_Darwin][Darwin's Religious Views]]
-** [[https://www.tandfonline.com/doi/full/10.1080/09647040903504781][Darwin and the Problem of Consciousness]]
-** [[https://www.sciencedirect.com/science/article/pii/089662739390304A][Neural Darwinisms - Edelman (Neuron)]]
-** [[http://www.gospel-mysteries.net/mary-magdalene.html][Witness to the Resurrection]]
+** General:
+    - [[https://en.wikipedia.org/wiki/Vestal_Virgin][Vestal Virgins]]
+    - [[https://en.wikipedia.org/wiki/Religious_views_of_Charles_Darwin][Darwin's Religious Views]]
+    - [[https://www.tandfonline.com/doi/full/10.1080/09647040903504781][Darwin and the Problem of Consciousness]]
+    - [[https://www.sciencedirect.com/science/article/pii/089662739390304A][Neural Darwinisms - Edelman (Neuron)]]
+    - [[http://www.gospel-mysteries.net/mary-magdalene.html][Witness to the Resurrection]]
 * 23 Nightfall 1 - Death
 ** Giordano Bruno
    - [[https://www.thenation.com/article/hungry-mind-giordano-bruno-philosopher-and-heretic/][Brief Biography and Book Review (2008)]]
