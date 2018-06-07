@@ -468,8 +468,10 @@
    - [[https://en.wikipedia.org/wiki/Brain_death][Brain Death (Wikipedia)]]
    - [[https://youtu.be/Nty6bICZlyA][Lazarus Reflex (Youtube)]]
    - [[https://en.wikipedia.org/wiki/Lazarus_of_Bethany][Lazarus (Wikipedia)]]
-** [[https://www.scientificamerican.com/article/why-is-synaptic-pruning-important-for-the-developing-brain/][Synaptic Pruning]]
-** [[https://plato.stanford.edu/entries/plato-myths/][Demiurge]]
+** Synaptic Pruning
+   - [[https://www.scientificamerican.com/article/why-is-synaptic-pruning-important-for-the-developing-brain/][Synaptic Pruning]]
+** Demiurge
+  - [[https://plato.stanford.edu/entries/plato-myths/][Demiurge]]
 ** Alain Renais
    - [[https://youtu.be/CPLX8U2SHJE][Nuit Et Brouillard]]
    - [[https://youtu.be/oQ8JV07QgQQ][Interview]]
