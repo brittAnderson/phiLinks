@@ -502,9 +502,8 @@
    - [[https://mymodernmet.com/william-utermohlen-alzheimers-self-portraits/][Dementia Portraits]]
    - [[https://www.newstatesman.com/culture/art-and-design/2012/05/review-william-utermohlen-1933-2007-retrospective][William Utermohlen Review and Obituary]]
 * 25 Nightfall 3 - Dolor
-  [[http://www.arts.uwaterloo.ca/~raha/793CA_web/PenalColony.pdf][In the Penal Colony by Kafka.]]
-  [[http://psycnet.apa.org/record/1987-31773-001][Talking about chronic pain]]
-  [[https://www.veganoutreach.org/articles/damasio.html][Excerpts from Antonio Damasio]]
-  [[http://www.hcanews.com/news/stanford-researchers-build-artificial-neuron-in-effort-to-mimic-skin][Recent new article talking about attempts to create artificial neurons.]]
-  [[https://www.ucl.ac.uk/anaesthesia/StudentsandTrainees/PainPathwaysIntroduction][Pain Receptors and Pathways]]
-
+  - [[http://www.arts.uwaterloo.ca/~raha/793CA_web/PenalColony.pdf][In the Penal Colony by Kafka.]]
+  - [[https://www.veganoutreach.org/articles/damasio.html][Excerpts from Antonio Damasio]]
+  - [[https://www.ucl.ac.uk/anaesthesia/StudentsandTrainees/PainPathwaysIntroduction][Pain Receptors and Pathways]]
+  - [[http://www.hcanews.com/news/stanford-researchers-build-artificial-neuron-in-effort-to-mimic-skin][Recent new article talking about attempts to create artificial neurons.]]
+  - [[http://psycnet.apa.org/record/1987-31773-001][Talking about chronic pain]]
