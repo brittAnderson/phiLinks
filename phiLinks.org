@@ -454,6 +454,7 @@
    - [[https://vimeo.com/114201346][Animation that Gwyneth Anderson made to interpret the qualiascope]]
    - [[https://wikivisually.com/wiki/35P/Herschel%E2%80%93Rigollet][Caroline Herschel's comet has an orbital period of 155 years and will next be seen in 2092]]
    - [[https://www.ted.com/talks/anil_seth_how_your_brain_hallucinates_your_conscious_reality#t-17189][Ted Talk: Your brain hallucinates your conscious reality]]
+   - [[https://www.tandfonline.com/doi/full/10.1080/19420889.2017.1288333][The mind of plants: Thinking the unthinkable by Monica Gagliano]]
 * 22 Introduction
 ** General:
     - [[https://en.wikipedia.org/wiki/Vestal_Virgin][Vestal Virgins]]
