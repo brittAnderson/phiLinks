@@ -551,10 +551,10 @@
   - [[https://en.wikipedia.org/wiki/Socratic_method][The Socratic Method]]
 
 * 32 Three Late Dreams
-  - Loss of consciousness of something worse than death? This seems to be one of the premises of scenario one with Beethoven. Is it? Do you agree with the conclusion. Can we miss or suffer from a lack of what we are incapable of perceiving?
-  - Is the value of consciousness inherently "social?" Perhaps that is the second premise of the Beethoven scenario?
-    - Zeno actually already appeared in the text (at least implicitly and recently). Can you find that allusion?
-    - Is the continuity of self-consciousness an illusion?
-    - Can you find the parallel between the mannequin's offer to Zeno and Star Trek?
 
+** General
+   - [[https://en.wikipedia.org/wiki/Missa_solemnis_(Beethoven)][Missa Solemnis]] 
+   - [[https://arstechnica.com/gaming/2017/09/is-beaming-down-in-star-trek-a-death-sentence/3/][Beam me down or kill me?]]
+   - [[https://en.wikipedia.org/wiki/Zeno%2527s_paradoxes][Zeno's Pardoxes]]
+   - [[https://www.theguardian.com/world/2017/jan/12/derek-parfit-obituary][Derek Parfait obiturary Guardian]]
 * 33 Study Questions
