@@ -529,4 +529,6 @@
   - Is the true good, as the mannequin claims?
 
 * 32 Three Late Dreams
+  - [[https://en.wikipedia.org/wiki/Mass_in_C_major_(Beethoven)][Mass in C Major]]
+  - [[https://arstechnica.com/gaming/2017/09/is-beaming-down-in-star-trek-a-death-sentence/3/][Beam me down or kill me?]]
 * 33 Study Questions
