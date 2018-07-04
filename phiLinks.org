@@ -558,3 +558,6 @@
    - [[https://en.wikipedia.org/wiki/Zeno%2527s_paradoxes][Zeno's Pardoxes]]
    - [[https://www.theguardian.com/world/2017/jan/12/derek-parfit-obituary][Derek Parfait obiturary Guardian]]
 * 33 Study Questions
+  - [[https://en.wikipedia.org/wiki/Metric_(mathematics)][Metrics]]
+  - [[https://en.wikipedia.org/wiki/Upper_and_lower_bounds][Bounds]]
+  - [[https://plato.stanford.edu/entries/kant-spacetime/][Kant on Space and Time]]

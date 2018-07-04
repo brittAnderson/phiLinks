@@ -531,10 +531,17 @@
 * 32 Three Late Dreams
   - Loss of consciousness of something worse than death? This seems to be one of the premises of scenario one with Beethoven. Is it? Do you agree with the conclusion. Can we miss or suffer from a lack of what we are incapable of perceiving?
   - Is the value of consciousness inherently "social?" Perhaps that is the second premise of the Beethoven scenario?
-    - Zeno actually already appeared in the text (at least implicitly and recently). Can you find that allusion?
-    - Is the continuity of self-consciousness an illusion?
-    - Can you find the parallel between the mannequin's offer to Zeno and Star Trek?
-    - Why do Achilles and Tortoise appear on page 331?
-    - What is the value of our uniqueness - as proposed to Galileo?
-    - Does Tononi's theory allow the morphing of one consciousness to another as applied by several of the "dreams?"
+  - Zeno actually already appeared in the text (at least implicitly and recently). Can you find that allusion?
+  - Is the continuity of self-consciousness an illusion?
+  - Can you find the parallel between the mannequin's offer to Zeno and Star Trek?
+  - Why do Achilles and Tortoise appear on page 331?
+  - What is the value of our uniqueness - as proposed to Galileo?
+  - Does Tononi's theory allow the morphing of one consciousness to another as applied by several of the "dreams?"
 * 33 Study Questions
+  - What are the units of consciousness (integrated information)?
+  - What is the time scale over which a metric of consciousness makes sense?
+  - Why is the choice of metric important?
+  - Why choose the "maximum" for a metric?
+  - What, in mathematics, is a "bound?"
+  - Is the time scale of consciousness a function of the speed of processing elements?
+  - Do you agree with the analogy between mass and consciousness?
